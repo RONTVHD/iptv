@@ -1,18 +1,18 @@
 #EXTM3U
-#EXTINF:0,Sony Channel HD
-http://ingrid.ltd:25461/Juan123456/Juan123456/41241?checkedby:iptvcat.com
+#EXTINF:0,Viasat Sport HD
+http://live-ng-01.more.tv/hls/Viasat_Sport_HD/index_6.m3u8
 #EXTINF:0,Sony Movies Action
 http://51.52.156.22:8888/http/009?checkedby:iptvcat.com
 #EXTINF:0,Astro Awani
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Cine Sky 1 HD
+#EXTINF:0,Sony SAB HD
 http://boxiptv.club:8080/live/josecarlos/123456/4945.m3u8
-#EXTINF:0,Cine Sky 2 HD
-http://boxiptv.club:8080/live/josecarlos/123456/4946.m3u8
-#EXTINF:0,Tooncast HD
-http://boxiptv.club:8080/live/josecarlos/123456/380.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Sony Movie Channel USA
-http://iptv.deluxeplay.live:80/live/hfdbtaso/6sTwL137vo/7351.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Sony MAX HD (india)
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index_dvr.m3u8
+#EXTINF:0,Sony YAY!
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in_720p/index_dvr.m3u8
+#EXTINF:0,FOX Premium Movies
+http://ingrid.ltd:25461/Juan123456/Juan123456/18962?checkedby:iptvcat.com
 #EXTINF:0,ViP Premiere HD
 http://live-ng-01.more.tv/hls/ViP_Premiere_HD/index_6.m3u8
 #EXTINF:0,ViP Comedy HD
@@ -89,10 +89,10 @@ http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
 http://stream1.antenaplay.ro/live/smil:CookPlay.smil/chunklist_w904193915_b1000000.m3u8
 #EXTINF:0,Antena Monden
 http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
-#EXTINF:0,Cine Sky 3 HD
-http://boxiptv.club:8080/live/josecarlos/123456/4947.m3u8
-#EXTINF:0,Cine Sky 4 HD
-http://boxiptv.club:8080/live/josecarlos/123456/4948.m3u8
+#EXTINF:0,AXN Movies HD
+http://ingrid.ltd:25461/Juan123456/Juan123456/3539?checkedby:iptvcat.com
+#EXTINF:0,Hollywood Suite 00's
+http://ingrid.ltd:25461/Juan123456/Juan123456/67441?checkedby:iptvcat.com
 #EXTINF:0,Animax
 http://ingrid.ltd:25461/Juan123456/Juan123456/40282?checkedby:iptvcat.com
 #EXTINF:0,Minimax HU
@@ -103,14 +103,14 @@ http://boxiptv.club:8080/josecarlos/123456/41?checkedby:iptvcat.com
 http://ingrid.ltd:25461/Juan123456/Juan123456/41349?checkedby:iptvcat.com
 #EXTINF:0,Europa Europa
 http://ingrid.ltd:25461/Juan123456/Juan123456/12958?checkedby:iptvcat.com
-#EXTINF:0,Discovery World
-http://boxiptv.club:8080/josecarlos/123456/85?checkedby:iptvcat.com
-#EXTINF:0,Investigação Discovery HD
-http://boxiptv.club:8080/josecarlos/123456/237?checkedby:iptvcat.com
+#EXTINF:0,Hollywood Suite 70's
+http://ingrid.ltd:25461/Juan123456/Juan123456/67509?checkedby:iptvcat.com
+#EXTINF:0,Hollywood Suite 80's
+http://ingrid.ltd:25461/Juan123456/Juan123456/67508?checkedby:iptvcat.com
 #EXTINF:0,Discovery h&h HD
 http://ingrid.ltd:25461/Juan123456/Juan123456/18884?checkedby:iptvcat.com
-#EXTINF:0,DMAX HD
-http://91.126.141.12:1935/live/discoverymax/chunklist_w1033105812.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Hollywood Suite 90's
+http://ingrid.ltd:25461/Juan123456/Juan123456/67507?checkedby:iptvcat.com
 #EXTINF:0,Filmbox Action Turkey
 http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/122.ts?checkedby:iptvcat.com
 #EXTINF:0,Filmbox Family Turkey
@@ -197,3 +197,5 @@ https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8?checkedby:iptvcat.com
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Colors Bangla HD
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Arabic FOX_Movies
+http://hdonline.ml:80/live/colin/colin/13264.m3u8?checkedby:iptvcat.com
