@@ -1,0 +1,13 @@
+﻿#EXTM3U
+#EXTINF:0 tvg-id="1163" tvg-name="JioGames HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Esports_HD.png" tvg-logo-small="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Esports_HD.png" ,JioGames HD
+https://tv.googledrivelinks.com/live.php?c=Jio_Esports_HD&q=1200&e=.m3u8
+#EXTINF:0 tvg-id="871" tvg-name="Jio Events HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Events.png" tvg-logo-small="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Events.png" ,Jio Events HD
+https://tv.googledrivelinks.com/live.php?c=Jio_Events&q=1200&e=.m3u8
+#EXTINF:0 tvg-id="514" tvg-name="Ten 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" tvg-logo-small="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" ,Sony Sports 1
+https://madplayjio.ml/MADPLAYJIOX/live.php?c=Ten_1&q=1200&e=.m3u8
+#EXTINF:0 tvg-id="523" tvg-name="Ten 2" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" tvg-logo-small="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" ,Sony Sports 2
+https://madplayjio.ml/MADPLAYJIOX/live.php?c=Ten_2&q=1200&e=.m3u8
+#EXTINF:0 tvg-id="524" tvg-name="Ten 3" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" tvg-logo-small="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" ,Sony Sports 3
+https://madplayjio.ml/MADPLAYJIOX/live.php?c=Ten_3&q=1200&e=.m3u8
+#EXTINF:0 tvg-id="1774" tvg-name="Ten 4 Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" tvg-logo-small="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" ,Sony Sports 4 Tamil
+https://madplayjio.ml/MADPLAYJIOX/live.php?c=Ten_4_Tamil&q=1200&e=.m3u8
