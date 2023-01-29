@@ -1,0 +1,139 @@
+﻿#EXTM3U
+#EXTINF:0 tvg-id="M1.hu" tvg-name="M1 HD" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/hu/m1.png" ,M1 HD
+https://redirect.onlinestream.live/swredir.m3u8?id=823&ext=.m3u8
+#EXTINF:0 tvg-id="M2.hu" tvg-name="M2 / Petőfi HD" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/hu/m2.png" ,M2 / Petőfi HD
+https://redirect.onlinestream.live/swredir.m3u8?id=824&ext=.m3u8
+#EXTINF:0 tvg-id="DunaTV.hu" tvg-name="Duna HD" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/hu/duna.png" ,Duna HD
+https://redirect.onlinestream.live/swredir.m3u8?id=825&ext=.m3u8
+#EXTINF:0 tvg-id="M4Sport.hu" tvg-name="M4 Sport HD" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/hu/m4.png" ,M4 Sport HD
+https://redirect.onlinestream.live/swredir.m3u8?id=826&ext=.m3u8
+#EXTINF:0 tvg-id="DunaWorld.hu" tvg-name="Duna World HD" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/hu/dunaworld.png" ,Duna World HD
+https://redirect.onlinestream.live/swredir.m3u8?id=1139&ext=.m3u8
+#EXTINF:0 tvg-id="m5.hu" tvg-name="M5 HD" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/hu/m5.png" ,M5 HD
+https://redirect.onlinestream.live/swredir.m3u8?id=1140&ext=.m3u8
+#EXTINF:0 tvg-id="RTLKlub.hu" tvg-name="RTL" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/hu/rtlklub.png" ,RTL
+https://redirect.onlinestream.live/swredir.m3u8?id=882&ext=.m3u8
+#EXTINF:0 tvg-id="tv2.hu" tvg-name="TV2 HD" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/hu/tv2.png" ,TV2 HD
+https://redirect.onlinestream.live/swredir.m3u8?id=1141&ext=.m3u8
+#EXTINF:0 tvg-id="FilmPlusHungary.hu" tvg-name="Film+" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/hu/filmplus.png" ,Film+
+https://redirect.onlinestream.live/swredir.m3u8?id=1138&ext=.m3u8
+#EXTINF:0 tvg-id="MoziPlus.hu" tvg-name="Mozi+ HD" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/hu/moziplus.png" ,Mozi+ HD
+https://redirect.onlinestream.live/swredir.m3u8?id=1171&ext=.m3u8
+#EXTINF:0 tvg-id="SpektrumHomeHungary.hu" tvg-name="Spektrum Home HD" tvg-logo="https://i.imgur.com/VaVi65F.png" ,Spektrum Home HD
+https://redirect.onlinestream.live/swredir.m3u8?id=1152&ext=.m3u8
+#EXTINF:0 tvg-id="Eurosport1Hungary.hu" tvg-name="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/fr/eurosport1.png" ,Eurosport 1 HD
+https://redirect.onlinestream.live/swredir.m3u8?id=1145&ext=.m3u8
+#EXTINF:0 tvg-id="Eurosport2Hungary.hu" tvg-name="Eurosport 2 HD" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/fr/eurosport2.png" ,Eurosport 2 HD
+https://redirect.onlinestream.live/swredir.m3u8?id=1146&ext=.m3u8
+#EXTINF:0 tvg-id="Sport1Hungary.hu" tvg-name="Sport1 HD" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/hu/sport1.png" ,Sport1 HD
+https://redirect.onlinestream.live/swredir.m3u8?id=1117&ext=.m3u8
+#EXTINF:0 tvg-id="Max4.hu" tvg-logo="https://onlinestream.live/logos/8714.png" ,Max4
+https://cdn.mediaklikk.org/max4/0MjMxADNxcjM
+#EXTINF:0 tvg-id="RTLIIHungary.hu" tvg-name="RTL Kettő" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/hu/rtl2.png" ,RTL Kettő
+https://redirect.onlinestream.live/swredir.m3u8?id=883&ext=.m3u8
+#EXTINF:0 tvg-id="SuperTV2.hu" tvg-name="SuperTV2 HD" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/hu/supertv2.png" ,SuperTV2 HD
+https://redirect.onlinestream.live/swredir.m3u8?id=1169&ext=.m3u8
+#EXTINF:0 tvg-id="ApostolTV.hu" tvg-name="Apostol TV" tvg-logo="https://i.imgur.com/C43Cc9N.png" ,Apostol TV
+https://live.apostoltv.hu/live/playlist.m3u8
+#EXTINF:0 tvg-id="FoodNetworkEMEA.us" tvg-name="Food Network" tvg-logo="https://onlinestream.live/logos/7570.png" ,Food Network
+https://redirect.onlinestream.live/swredir.m3u8?id=1159&ext=.m3u8
+#EXTINF:0 tvg-id="Viasat2.hu" tvg-name="Viasat 2" tvg-logo="https://onlinestream.live/logos/8716.png" ,Viasat 2
+https://redirect.onlinestream.live/swredir.m3u8?id=1167&ext=.m3u8
+#EXTINF:0 tvg-id="Story4.hu" tvg-name="Story4" tvg-logo="https://onlinestream.live/logos/6185.png" ,Story4
+https://redirect.onlinestream.live/swredir.m3u8?id=1108&ext=.m3u8
+#EXTINF:0 tvg-id="CoolTV.hu" tvg-name="Cool TV" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/hu/cooltv.png" ,Cool TV
+https://redirect.onlinestream.live/swredir.m3u8?id=870&ext=.m3u8
+#EXTINF:0 tvg-id="InvestigationDiscoveryHungary.hu" tvg-name="Investigation Discovery" tvg-logo="https://onlinestream.live/logos/7327.png" ,Investigation Discovery
+https://redirect.onlinestream.live/swredir.m3u8?id=1158&ext=.m3u8
+#EXTINF:0 tvg-id="AMCHungary.hu" tvg-name="AMC" tvg-logo="https://onlinestream.live/logos/6652.png" ,AMC
+https://redirect.onlinestream.live/swredir.m3u8?id=1113&ext=.m3u8
+#EXTINF:0 tvg-id="Film4Hungary.hu" tvg-name="Film4" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/hu/film4.png" ,Film4
+https://redirect.onlinestream.live/swredir.m3u8?id=1110&ext=.m3u8
+#EXTINF:0 tvg-id="RTLPlus.hu" tvg-name="RTL Három" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/hu/rtlharom.png" ,RTL Három
+https://redirect.onlinestream.live/swredir.m3u8?id=880&ext=.m3u8
+#EXTINF:0 tvg-id="Prime.hu" tvg-name="Prime" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/hu/prime.png" ,Prime
+https://redirect.onlinestream.live/swredir.m3u8?id=1172&ext=.m3u8
+#EXTINF:0 tvg-id="TVPaprikaHungary.hu" tvg-name="TV Paprika HD" tvg-logo="https://onlinestream.live/logos/6748.png" ,TV Paprika HD
+https://redirect.onlinestream.live/swredir.m3u8?id=1112&ext=.m3u8
+#EXTINF:0 tvg-id="Viasat3.hu" tvg-name="Viasat 3 HD" tvg-logo="https://i.imgur.com/ehx7R3A.png" ,Viasat 3 HD
+https://redirect.onlinestream.live/swredir.m3u8?id=1142&ext=.m3u8
+#EXTINF:0 tvg-id="RTLGold.hu" tvg-name="RTL Gold" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/hu/rtlgold.png" ,RTL Gold
+https://redirect.onlinestream.live/swredir.m3u8?id=1131&ext=.m3u8
+#EXTINF:0 tvg-id="AnimalPlanetHungary.hu" tvg-name="Animal Planet HD" tvg-logo="https://onlinestream.live/logos/7055.png" ,Animal Planet HD
+https://redirect.onlinestream.live/swredir.m3u8?id=1155&ext=.m3u8
+#EXTINF:0 tvg-id="IzauraTV.hu" tvg-name="Izaura TV HD" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/hu/izaura.png" ,Izaura TV HD
+https://redirect.onlinestream.live/swredir.m3u8?id=1170&ext=.m3u8
+#EXTINF:0 tvg-id="SorozatPlus.hu" tvg-name="Sorozat+" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/hu/sorozatplus.png" ,Sorozat+
+https://redirect.onlinestream.live/swredir.m3u8?id=876&ext=.m3u8
+#EXTINF:0 tvg-id="CBSRealityEMEA.uk" tvg-name="CBS Reality" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/CBS_Reality.png/512px-CBS_Reality.png" ,CBS Reality
+https://redirect.onlinestream.live/swredir.m3u8?id=1115&ext=.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/hu/tv2comedy.png" ,TV2 Comedy
+https://redirect.onlinestream.live/swredir.m3u8?id=1173&ext=.m3u8
+#EXTINF:0 tvg-id="DTX.hu" tvg-name="Discovery Turbo Xtra" tvg-logo="https://onlinestream.live/logos/7568.png" ,Discovery Turbo Xtra
+https://redirect.onlinestream.live/swredir.m3u8?id=1157&ext=.m3u8
+#EXTINF:0 tvg-id="Viasat6.hu" tvg-name="Viasat 6" tvg-logo="https://i.imgur.com/kypSbFX.png" ,Viasat 6
+https://redirect.onlinestream.live/swredir.m3u8?id=1168&ext=.m3u8
+#EXTINF:0 tvg-id="Arena4.hu" tvg-name="Arena4 HD" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/hu/arena4.png" ,Arena4 HD
+https://redirect.onlinestream.live/swredir.m3u8?id=1144&ext=.m3u8
+#EXTINF:0 tvg-id="JockyTV.hu" tvg-name="Jocky TV" tvg-logo="https://i.imgur.com/sqmopBA.png" ,Jocky TV
+https://redirect.onlinestream.live/swredir.m3u8?id=1174&ext=.m3u8
+#EXTINF:0 tvg-id="TV4.hu" tvg-name="TV4 HD" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/hu/tv4.png" ,TV4 HD
+https://redirect.onlinestream.live/swredir.m3u8?id=1106&ext=.m3u8
+#EXTINF:0 tvg-id="FilmMania.hu" tvg-name="Film Mánia" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/hu/filmmania.png" ,Film Mánia
+https://redirect.onlinestream.live/swredir.m3u8?id=1148&ext=.m3u8
+#EXTINF:0 tvg-id="DiscoveryScience.us" tvg-name="Discovery Science HD" tvg-logo="https://onlinestream.live/logos/7326.png" ,Discovery Science HD
+https://redirect.onlinestream.live/swredir.m3u8?id=1156&ext=.m3u8
+#EXTINF:0 tvg-id="NationalGeographicHungary.hu" tvg-name="National Geographic HD" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/natgeo.png" ,National Geographic HD
+https://redirect.onlinestream.live/swredir.m3u8?id=1179&ext=.m3u8
+#EXTINF:0 tvg-id="NationalGeographicWildHungary.hu" tvg-name="National Geographic Wild HD" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/natgeowild.png" ,National Geographic Wild HD
+https://redirect.onlinestream.live/swredir.m3u8?id=895&ext=.m3u8
+#EXTINF:0 tvg-id="Galaxy4.hu" tvg-name="Galaxy4" tvg-logo="https://onlinestream.live/logos/7422.png" ,Galaxy4
+https://redirect.onlinestream.live/swredir.m3u8?id=1109&ext=.m3u8
+#EXTINF:0 tvg-id="ViasatFilm.hu" tvg-name="Viasat Film" tvg-logo="https://onlinestream.live/logos/8715.png" ,Viasat Film
+https://redirect.onlinestream.live/swredir.m3u8?id=1166&ext=.m3u8
+#EXTINF:0 tvg-id="Zenebutik.hu" tvg-name="Zenebutik" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/hu/zenebutik.png" ,Zenebutik
+https://redirect.onlinestream.live/swredir.m3u8?id=1176&ext=.m3u8
+#EXTINF:0 tvg-id="AXNHungary.hu" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png" ,AXN HD
+https://redirect.onlinestream.live/swredir.m3u8?id=1147&ext=.m3u8
+#EXTINF:0 tvg-id="TLCHungary.hu" tvg-name="TLC" tvg-logo="https://onlinestream.live/logos/6751.png" ,TLC
+https://redirect.onlinestream.live/swredir.m3u8?id=1160&ext=.m3u8
+#EXTINF:0 tvg-id="TV2Kids.hu" tvg-name="TV2 Kids" tvg-logo="https://i.imgur.com/Zltlezm.png" ,TV2 Kids
+https://redirect.onlinestream.live/swredir.m3u8?id=1177&ext=.m3u8
+#EXTINF:0 tvg-id="DisneyChannelHungary.hu" tvg-name="Disney Channel" tvg-logo="https://onlinestream.live/logos/6767.png" ,Disney Channel
+https://redirect.onlinestream.live/swredir.m3u8?id=1164&ext=.m3u8
+#EXTINF:0 tvg-id="JimJamHungary.hu" tvg-name="JimJam" tvg-logo="https://onlinestream.live/logos/7080.png" ,JimJam
+https://redirect.onlinestream.live/swredir.m3u8?id=1165&ext=.m3u8
+#EXTINF:0 tvg-id="NickelodeonHungary.hu" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" ,Nickelodeon
+https://redirect.onlinestream.live/swredir.m3u8?id=1264&ext=.m3u8
+#EXTINF:0 tvg-id="NickJrHungary.hu" tvg-name="Nick Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" ,Nick Jr
+https://redirect.onlinestream.live/swredir.m3u8?id=1265&ext=.m3u8
+#EXTINF:0 tvg-id="CartoonNetworkHungary.hu" tvg-name="Cartoon Network" tvg-logo="https://onlinestream.live/logos/7306.png" ,Cartoon Network
+https://redirect.onlinestream.live/swredir.m3u8?id=1162&ext=.m3u8
+#EXTINF:0 tvg-id="BoomerangCEE.us" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" ,Boomerang
+https://redirect.onlinestream.live/swredir.m3u8?id=1163&ext=.m3u8
+#EXTINF:0 tvg-id="MinimaxHungary.hu" tvg-name="Minimax" tvg-logo="https://onlinestream.live/logos/7079.png" ,Minimax
+https://redirect.onlinestream.live/swredir.m3u8?id=1116&ext=.m3u8
+#EXTINF:0 tvg-id="TravelChannelEMEA.uk" tvg-name="Travel Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Travel_Channel_logo-cerulean_blue.png/512px-Travel_Channel_logo-cerulean_blue.png" ,Travel Channel
+https://redirect.onlinestream.live/swredir.m3u8?id=1150&ext=.m3u8
+#EXTINF:0 tvg-id="MuzsikaTV.hu" tvg-name="Muzsika TV" tvg-logo="https://i.imgur.com/Wvx1yGt.png" ,Muzsika TV
+https://redirect.onlinestream.live/swredir.m3u8?id=874&ext=.m3u8
+#EXTINF:0 tvg-id="EpicDrama.se" tvg-name="Epic Drama HD" tvg-logo="https://onlinestream.live/logos/7157.png" ,Epic Drama HD
+https://redirect.onlinestream.live/swredir.m3u8?id=1114&ext=.m3u8
+#EXTINF:0 tvg-id="TV2Sef.hu" tvg-name="TV2 Séf" tvg-logo="https://onlinestream.live/logos/7087.png" ,TV2 Séf
+https://redirect.onlinestream.live/swredir.m3u8?id=1178&ext=.m3u8
+#EXTINF:0 tvg-id="FilmCafeHungary.hu" tvg-name="Film Cafe" tvg-logo="https://i.imgur.com/jaKRnzU.png" ,Film Cafe
+https://redirect.onlinestream.live/swredir.m3u8?id=1107&ext=.m3u8
+#EXTINF:0 tvg-id="DiscoveryChannelHungary.hu" tvg-name="Discovery Channel HD" tvg-logo="https://onlinestream.live/logos/6768.png" ,Discovery Channel HD
+https://redirect.onlinestream.live/swredir.m3u8?id=1149&ext=.m3u8
+#EXTINF:0 tvg-id="Moziverzum.hu" tvg-name="Moziverzum HD" tvg-logo="https://onlinestream.live/logos/6720.png" ,Moziverzum HD
+https://redirect.onlinestream.live/swredir.m3u8?id=1175&ext=.m3u8
+#EXTINF:0 tvg-id="SpektrumHungary.hu" tvg-name="Spektrum HD" tvg-logo="https://i.imgur.com/GmFRQ82.png" ,Spektrum HD
+https://redirect.onlinestream.live/swredir.m3u8?id=1151&ext=.m3u8
+#EXTINF:0 tvg-id="HGTVPanregional.us" tvg-name="HGTV HD" tvg-logo="https://onlinestream.live/logos/7324.png" ,HGTV HD
+https://redirect.onlinestream.live/swredir.m3u8?id=1247&ext=.m3u8
+#EXTINF:0 tvg-id="ViasatExploreHungary.hu" tvg-name="Viasat Explore HD" tvg-logo="https://i.imgur.com/DyT5pKB.png" ,Viasat Explore HD
+https://redirect.onlinestream.live/swredir.m3u8?id=1153&ext=.m3u8
+#EXTINF:0 tvg-id="ViasatHistoryHungary.hu" tvg-name="Viasat History HD" tvg-logo="https://onlinestream.live/logos/6745.png" ,Viasat History HD
+https://redirect.onlinestream.live/swredir.m3u8?id=1154&ext=.m3u8
+#EXTINF:0 tvg-id="ViasatNatureHungary.hu" tvg-name="Viasat Nature HD" tvg-logo="https://onlinestream.live/logos/7073.png" ,Viasat Nature HD
+https://redirect.onlinestream.live/swredir.m3u8?id=1161&ext=.m3u8
