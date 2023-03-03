@@ -1,0 +1,53 @@
+﻿#EXTM3U
+#EXTINF:0 group-title="France TNT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/tf1-fr.png" tvg-logo-small="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/tf1-fr.png" ,TF1
+https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/france-2-fr.png" tvg-logo-small="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/france-2-fr.png" ,France 2
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/fr2.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/france-3-fr.png" tvg-logo-small="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/france-3-fr.png" ,France 3
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/fr3.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/canal-plus-fr.png" tvg-logo-small="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/canal-plus-fr.png" ,Canal+
+http://sansat.net:25461/live/02034588745624/60CERKMCY406H4F/126809.ts
+#EXTINF:0 group-title="France TNT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/france-5-fr.png" tvg-logo-small="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/france-5-fr.png" ,France 5
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/fr5.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/m6-fr.png" tvg-logo-small="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/m6-fr.png" ,M6
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/m6.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/arte-fr.png" tvg-logo-small="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/arte-fr.png" ,Arte
+http://sansat.net:25461/live/02034588745624/60CERKMCY406H4F/127281.ts
+#EXTINF:0 group-title="France TNT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/c8-fr.png" tvg-logo-small="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/c8-fr.png" ,C8
+http://sansat.net:25461/live/02034588745624/60CERKMCY406H4F/127287.ts
+#EXTINF:0 group-title="France TNT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/w9-fr.png" tvg-logo-small="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/w9-fr.png" ,W9
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/w9.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/tmc-fr.png" tvg-logo-small="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/tmc-fr.png" ,TMC
+https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/tfx-fr.png" tvg-logo-small="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/tfx-fr.png" ,TFX
+https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/nrj-12-fr.png" tvg-logo-small="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/nrj-12-fr.png" ,NRJ 12
+http://sansat.net:25461/live/02034588745624/60CERKMCY406H4F/127284.ts
+#EXTINF:0 group-title="France TNT" tvg-logo="https://xmltv.ch/wp-content/uploads/2020/02/234-300x300.png" tvg-logo-small="https://xmltv.ch/wp-content/uploads/2020/02/234-300x300.png" ,La Chaîne parlementaire
+http://sansat.net:25461/live/02034588745624/60CERKMCY406H4F/126757.ts
+#EXTINF:0 group-title="France TNT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/france-4-fr.png" tvg-logo-small="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/france-4-fr.png" ,France 4
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/fr4.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/bfm-tv-fr.png" tvg-logo-small="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/bfm-tv-fr.png" ,BFMTV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTINF:0 group-title="France TNT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/c-news-fr.png" tvg-logo-small="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/c-news-fr.png" ,CNews
+http://sansat.net:25461/live/02034588745624/60CERKMCY406H4F/126751.ts
+#EXTINF:0 group-title="France TNT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/c-star-fr.png" tvg-logo-small="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/c-star-fr.png" ,CStar
+http://sansat.net:25461/live/02034588745624/60CERKMCY406H4F/127288.ts
+#EXTINF:0 group-title="France TNT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/gulli-fr.png" tvg-logo-small="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/gulli-fr.png" ,Gulli
+http://sansat.net:25461/live/02034588745624/60CERKMCY406H4F/127114.ts
+#EXTINF:0 group-title="France TNT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/tf1-series-films-fr.png" tvg-logo-small="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/tf1-series-films-fr.png" ,TF1 Séries Films
+https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/lequipe-fr.png" tvg-logo-small="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/lequipe-fr.png" ,L'Equipe
+http://sansat.net:25461/live/02034588745624/60CERKMCY406H4F/126955.ts
+#EXTINF:0 group-title="France TNT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/6ter-fr.png" tvg-logo-small="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/6ter-fr.png" ,6ter
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/6ter.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/rmc-story-fr.png" tvg-logo-small="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/rmc-story-fr.png" ,RMC Story
+http://sansat.net:25461/live/02034588745624/60CERKMCY406H4F/127290.ts
+#EXTINF:0 group-title="France TNT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/rmc-decouverte-fr.png" tvg-logo-small="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/rmc-decouverte-fr.png" ,RMC Découverte
+http://sansat.net:25461/live/02034588745624/60CERKMCY406H4F/127049.ts
+#EXTINF:0 group-title="France TNT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/cherie-25-fr.png" tvg-logo-small="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/cherie-25-fr.png" ,Chérie 25
+http://sansat.net:25461/live/02034588745624/60CERKMCY406H4F/127291.ts
+#EXTINF:0 group-title="France TNT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/lci-fr.png" tvg-logo-small="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/lci-fr.png" ,LCI
+https://lci-hls-live-cdn1.tf1.fr/out/v1/1330f53e0d214a9ead65ac455bf79786/index.m3u8
+#EXTINF:0 group-title="France TNT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/franceinfo-fr.png" tvg-logo-small="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/franceinfo-fr.png" ,Franceinfo
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/fri.m3u8
