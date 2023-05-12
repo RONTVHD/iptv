@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1,RTL HD
+#KODIPROP:inputstream.adaptive.license_type=clear 
+#KODIPROP:inputstream.adaptive.license_key=a2e339d9da8157df90b04eb12b0ef082:e377f6a7186f22ba35b0b56baf65d0f5
+https://p-nowlive.secure.footprint.net/live/rtlhd/dash/rtlhd.mpd
