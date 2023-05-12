@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,RTL HD
+#EXTINF:-1,Focus Sat TV
 #KODIPROP:inputstream.adaptive.license_type=clear 
-#KODIPROP:inputstream.adaptive.license_key=e8b98661dcee5706ba3e9c319da5eefc:08914c3dd4ad15a8cc6eaaa5ab2eaca6
-https://plivenowusodash-cf-prod.tvnow.de/live/rtl/rtl.isml/.mpd
+#KODIPROP:inputstream.adaptive.license_key=44d5a122f8e34ecebfbfd86370962f90:5fceac75ec1d9fe0842ebe0d208f2c7b
+https://m7rovideolive.solocoo.tv/blueskylive2dash/bluefocussattv/Manifest.mpd
