@@ -29,7 +29,7 @@ http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/389
 http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/396
 #EXTINF:0 tvg-id="V Series" tvg-name="V Series HD" ,V Series HD
 http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/375
-#EXTINF:0 tvg-id="MTV 00s" tvg-name="MTV 00s" ,MTV 00s
+#EXTINF:0 tvg-id="MTV 00s Europe" tvg-name="MTV 00s" ,MTV 00s
 http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/155139
 #EXTINF:0 tvg-id="TLC" tvg-name="TLC HD" ,TLC HD
 http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/399
@@ -49,3 +49,61 @@ http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/352532
 http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/379
 #EXTINF:0 tvg-id="Axess TV" tvg-name="Axess TV HD" ,Axess TV HD
 http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/16901
+#EXTINF:0 tvg-id="CNN International" tvg-name="CNN" ,CNN
+http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/108668
+#EXTINF:0 tvg-id="BBC News Europe" tvg-name="BBC News" ,BBC News
+http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/168672
+#EXTINF:0 tvg-id="Al Jazeera English" tvg-name="Al Jazeera" ,Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:0 tvg-id="History HD" tvg-name="History HD" ,History HD
+http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/391
+#EXTINF:0 tvg-id="Nickelodeon" tvg-name="Nickelodeon" ,Nickelodeon
+http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/199290
+#EXTINF:0 tvg-id="Nick JR (lång tablå)" tvg-name="Nick Jr" ,Nick Jr
+http://nxtplay.xyz:8080/JJK3IhNRubqJ3gRRZ/1qWQU3J9z2bB3hX/194135
+#EXTINF:0 tvg-id="Cartoon Network" tvg-name="Cartoon Network" ,Cartoon Network
+http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/332
+#EXTINF:0 tvg-id="Sportkanalen" tvg-name="Sportkanalen HD" ,Sportkanalen HD
+http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/178568
+#EXTINF:0 tvg-id="Eurosport 1" tvg-name="Eurosport 1 HD" ,Eurosport 1 HD
+http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/360
+#EXTINF:0 tvg-id="Eurosport 2" tvg-name="Eurosport 2 HD" ,Eurosport 2 HD
+http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/361
+#EXTINF:0 tvg-id="V Sport Extra" tvg-name="V Sport Extra HD" ,V Sport Extra HD
+http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/240619
+#EXTINF:0 tvg-id="Fight Sports" tvg-name="Fight Sports" ,Fight Sports
+http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/194149
+#EXTINF:0 tvg-id="C More First" tvg-name="C More First HD" ,C More First HD
+http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/370
+#EXTINF:0 tvg-id="C More Series" tvg-name="C More Series HD" ,C More Series HD
+http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/369
+#EXTINF:0 tvg-id="SF Kanalen" tvg-name="SF-Kanalen HD" ,SF-Kanalen HD
+http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/377
+#EXTINF:0 tvg-id="C More Stars" tvg-name="C More Stars HD" ,C More Stars HD
+http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/368
+#EXTINF:0 tvg-id="C More Hits" tvg-name="C More Hits HD" ,C More Hits HD
+http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/367
+#EXTINF:0 tvg-id="C More Hockey" tvg-name="C More Hockey HD" ,C More Hockey HD
+http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/163677
+#EXTINF:0 tvg-id="V Sport Premium" tvg-name="V Sport Premium HD" ,V Sport Premium HD
+http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/166461
+#EXTINF:0 tvg-id="V Sport 1" tvg-name="V Sport 1 HD" ,V Sport 1 HD
+http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/240620
+#EXTINF:0 tvg-id="V Sport Motor" tvg-name="V Sport Motor HD" ,V Sport Motor HD
+http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/163668
+#EXTINF:0 tvg-id="V Film Action" tvg-name="V Film Action HD" ,V Film Action HD
+http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/371
+#EXTINF:0 tvg-id="C More Mix" tvg-name="C More Mix HD" ,C More Mix HD
+http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/163671
+#EXTINF:0 tvg-id="C More Fotboll" tvg-name="C More Fotboll HD" ,C More Fotboll HD
+http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/163670
+#EXTINF:0 tvg-id="C More Live" tvg-name="C More Live HD" ,C More Live HD
+http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/163676
+#EXTINF:0 tvg-id="Paramount Network" tvg-name="Testkanal" ,Testkanal
+http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/168917
+#EXTINF:0 tvg-id="SVT Barn" tvg-name="SVT Barn HD" ,SVT Barn HD
+http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/340
+#EXTINF:0 tvg-id="SVT24" tvg-name="SVT24 HD" ,SVT24 HD
+http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/340
+#EXTINF:0 tvg-id="Kunskapskanalen" tvg-name="Kunskapskanalen HD" ,Kunskapskanalen HD
+http://nxtplay.xyz:8080/giBpVgGrtasNcc/kDqs24m7WOKEdj61/341
