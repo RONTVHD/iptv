@@ -1,43 +1,57 @@
 ﻿#EXTM3U
-#EXTINF:0 group-title="Filmek és sorozatok" tvg-id="Direct One TV (HD).hu" tvg-name="Direct One TV HD" tvg-logo="https://www.directone.hu/content/HDAustria/logo_new.png" ,Direct One TV HD
+#EXTINF:0 group-title="Filmek és sorozatok" tvg-name="Direct One TV HD" tvg-logo="https://www.directone.hu/content/HDAustria/logo_new.png" ,Direct One TV HD
 http://193.233.161.160:1234/stream/hun/directone/master.m3u8?u=test&p=ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae
-#EXTINF:0 group-title="Általános Szórakoztató" tvg-id="Max 4.hu" tvg-name="Max4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/max4-hu.png" ,Max4
+#EXTINF:0 group-title="Általános Szórakoztató" tvg-id="Max4" tvg-name="Max4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/max4-hu.png" ,Max4
 https://cdn.mediaklikk.org/max4/0QjMxAjMxMjM
-#EXTINF:0 group-title="Dokumentum" tvg-id="Ozone TV (HD).hu" tvg-name="Ozone TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/ozone-tv-hu.png" ,Ozone TV
+#EXTINF:0 group-title="Dokumentum" tvg-id="OzoneTV" tvg-name="Ozone TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/ozone-tv-hu.png" ,Ozone TV
 http://193.233.161.160:1234/stream/hun/ozone/master.m3u8?u=test&p=ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae
-#EXTINF:0 group-title="Zene" tvg-id="Dikh TV (HD).hu" tvg-name="Dikh TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/dikh-tv-hu.png" ,Dikh TV
-http://193.233.161.160:1234/stream/hun/dikhtv/master.m3u8?u=test&p=ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae
-#EXTINF:0 group-title="Dokumentum" tvg-id="FEM3.hu" tvg-name="FEM3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/fem3-hu.png" ,FEM3
-http://193.233.161.160:1234/stream/hun/fem3/master.m3u8?u=test&p=ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae
-#EXTINF:0 group-title="Hírek" tvg-id="ATV (HD).hu" tvg-name="ATV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/atv-hu.png" ,ATV HD
+#EXTINF:0 group-title="Hírek" tvg-id="ATV" tvg-name="ATV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/atv-hu.png" ,ATV HD
 http://193.233.161.160:1234/stream/hun/atv/master.m3u8?u=test&p=ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae
-#EXTINF:0 group-title="Sport" tvg-id="Arena4 (HD).hu" tvg-name="Arena4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/arena4-hu.png" ,Arena4 HD
+#EXTINF:0 group-title="Általános Szórakoztató" tvg-id="Super_TV2" tvg-name="SuperTV2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/tv2-super-hu.png" ,SuperTV2
+http://193.233.161.160:1234/stream/hun/supertv2/master.m3u8?u=test&p=ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae
+#EXTINF:0 group-title="Zene" tvg-id="DIKH_TV" tvg-name="Dikh TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/dikh-tv-hu.png" ,Dikh TV
+http://193.233.161.160:1234/stream/hun/dikhtv/master.m3u8?u=test&p=ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae
+#EXTINF:0 group-title="Filmek és sorozatok" tvg-id="Filmbox" tvg-name="Filmbox" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/filmbox-hu.png" ,Filmbox
+http://193.233.161.160:1234/stream/hun/filmboxbasic/master.m3u8?u=test&p=ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae
+#EXTINF:0 group-title="Dokumentum" tvg-id="Fem3" tvg-name="FEM3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/fem3-hu.png" ,FEM3
+http://193.233.161.160:1234/stream/hun/fem3/master.m3u8?u=test&p=ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae
+#EXTINF:0 group-title="Sport" tvg-id="Arena4" tvg-name="Arena4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/arena4-hu.png" ,Arena4 HD
 http://193.233.161.160:1234/stream/hun/arena4/master.m3u8?u=test&p=ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae
-#EXTINF:0 group-title="Sport" tvg-id="Match4 (HD).hu" tvg-name="Match4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/match4-hu.png" ,Match4 HD
+#EXTINF:0 group-title="Sport" tvg-id="Match_4" tvg-name="Match4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/match4-hu.png" ,Match4 HD
 http://193.233.161.160:1234/stream/hun/digisport1hd/master.m3u8?u=test&p=ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae
-#EXTINF:0 group-title="Dokumentum" tvg-id="Fishing and Hunting Channel (HD).hu" tvg-name="Fishing and Hunting Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fishing-and-hunting-logo.png/800px-Fishing-and-hunting-logo.png" ,Fishing and Hunting Channel
+#EXTINF:0 group-title="Dokumentum" tvg-id="The_Fishing_and_Hunting" tvg-name="Fishing and Hunting Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fishing-and-hunting-logo.png/800px-Fishing-and-hunting-logo.png" ,Fishing and Hunting Channel
 http://193.233.161.160:1234/stream/hun/fishingandhunting/master.m3u8?u=test&p=ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae
-#EXTINF:0 group-title="Dokumentum" tvg-id="M5 (HD).hu" tvg-name="M5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/m5-hu.png" ,M5 HD
+#EXTINF:0 group-title="Sport" tvg-id="Sport_1" tvg-name="Sport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/sport1-hu.png" ,Sport 1
+http://193.233.161.160:1234/stream/hun/sport1hdhu/master.m3u8?u=test&p=ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae
+#EXTINF:0 group-title="Dokumentum" tvg-id="M5" tvg-name="M5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/m5-hu.png" ,M5 HD
 http://193.233.161.160:1234/stream/hun/m5hd/master.m3u8?u=test&p=ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae
-#EXTINF:0 group-title="Filmek és sorozatok" tvg-id="Prime (HD).hu" tvg-name="Prime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/prime-hu.png" ,Prime
+#EXTINF:0 group-title="Filmek és sorozatok" tvg-id="Prime" tvg-name="Prime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/prime-hu.png" ,Prime
 http://193.233.161.160:1234/stream/hun/prime/master.m3u8?u=test&p=ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae
-#EXTINF:0 group-title="Filmek és sorozatok" tvg-id="Story 4 (HD).hu" tvg-name="Story4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/story4-hu.png" ,Story4
+#EXTINF:0 group-title="Filmek és sorozatok" tvg-id="Filmbox_Extra_HD" tvg-name="Filmbox Extra HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/filmbox-extra-hu.png" ,Filmbox Extra HD
+http://193.233.161.160:1234/stream/hun/filmboxextrahd/master.m3u8?u=test&p=ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae
+#EXTINF:0 group-title="Filmek és sorozatok" tvg-id="Story4" tvg-name="Story4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/story4-hu.png" ,Story4
 http://193.233.161.160:1234/stream/hun/story4/master.m3u8?u=test&p=ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae
-#EXTINF:0 group-title="Hírek" tvg-id="CNBC.hu" tvg-name="CNBC Europe" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-europe/cnbc-eu.png" ,CNBC Europe
+#EXTINF:0 group-title="Hírek" tvg-name="CNBC Europe" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-europe/cnbc-eu.png" ,CNBC Europe
 http://193.233.161.160:1234/stream/hun/cnbceurope/master.m3u8?u=test&p=ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae
-#EXTINF:0 group-title="Általános Szórakoztató" tvg-id="Fashion TV.hu" tvg-name="Fashion TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/fashion-tv-es.png" ,Fashion TV
+#EXTINF:0 group-title="Általános Szórakoztató" tvg-name="Fashion TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/fashion-tv-es.png" ,Fashion TV
 http://193.233.161.160:1234/stream/hun/fashiontv/master.m3u8?u=test&p=ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae
-#EXTINF:0 group-title="Dokumentum" tvg-id="Love Nature (HD / 4K).hu" tvg-name="Love Nature HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/love-nature-nl.png" ,Love Nature HD
+#EXTINF:0 group-title="Dokumentum" tvg-name="Love Nature HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/love-nature-nl.png" ,Love Nature HD
 http://193.233.161.160:1234/stream/hun/lovenaturehd/master.m3u8?u=test&p=ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae
-#EXTINF:0 group-title="Gyermek" tvg-id="TV2 Kids.hu" tvg-name="TV2 Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/tv2-kids-hu.png" ,TV2 Kids
+#EXTINF:0 group-title="Sport" tvg-id="Sport_2" tvg-name="Sport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/sport2-hu.png" ,Sport 2
+http://193.233.161.160:1234/stream/hun/sport2hu/master.m3u8?u=test&p=ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae
+#EXTINF:0 group-title="Gyermek" tvg-id="Tv2_Kids" tvg-name="TV2 Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/tv2-kids-hu.png" ,TV2 Kids
 http://193.233.161.160:1234/stream/hun/tv2kids/master.m3u8?u=test&p=ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae
-#EXTINF:0 group-title="Gyermek" tvg-id="Nicktoons (HD).hu" tvg-name="Nicktoons" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/nick-toons-de.png" ,Nicktoons
+#EXTINF:0 group-title="Gyermek" tvg-id="Nicktoons" tvg-name="Nicktoons" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/nick-toons-de.png" ,Nicktoons
 http://193.233.161.160:1234/stream/hun/nicktoonshu/master.m3u8?u=test&p=ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae
-#EXTINF:0 group-title="Gyermek" tvg-id="M2 / Petőfi (HD).hu" tvg-name="M2 / Petőfi TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/m2-hu.png" ,M2 / Petőfi TV HD
+#EXTINF:0 group-title="Gyermek" tvg-id="M2" tvg-name="M2 / Petőfi TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/m2-hu.png" ,M2 / Petőfi TV HD
 http://193.233.161.160:1234/stream/hun/m2hd/master.m3u8?u=test&p=ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae
-#EXTINF:0 group-title="Zene" tvg-id="club MTV.hu" tvg-name="Club MTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/mtv-club-rs.png" ,Club MTV
+#EXTINF:0 group-title="Zene" tvg-name="Club MTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/mtv-club-rs.png" ,Club MTV
 http://193.233.161.160:1234/stream/hun/clubmtv/master.m3u8?u=test&p=ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae
-#EXTINF:0 group-title="Zene" tvg-id="MTV Hits.hu" tvg-name="MTV Hits" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/mtv-hits-rs.png" ,MTV Hits
+#EXTINF:0 group-title="Zene" tvg-name="MTV Hits" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/mtv-hits-rs.png" ,MTV Hits
 http://193.233.161.160:1234/stream/hun/mtvhits/master.m3u8?u=test&p=ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae
-#EXTINF:0 group-title="Általános Szórakoztató" tvg-id="RTL Gold.hu" tvg-name="RTL Gold" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/rtl-gold-hu.png" ,RTL Gold
+#EXTINF:0 group-title="Általános Szórakoztató" tvg-id="RTL_Gold" tvg-name="RTL Gold" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/rtl-gold-hu.png" ,RTL Gold
 http://193.233.161.160:1234/stream/hun/rtlgold/master.m3u8?u=test&p=ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae
+#EXTINF:0 group-title="Sport" tvg-id="Spiler_TV" tvg-name="Spíler1 TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/spiler-1-hu.png" ,Spíler1 TV
+http://193.233.161.160:1234/stream/hun/spilertv/master.m3u8?u=test&p=ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae
+#EXTINF:0 group-title="Sport" tvg-id="Spiler2_TV" tvg-name="Spíler2 TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/spiler-2-hu.png" ,Spíler2 TV
+http://193.233.161.160:1234/stream/hun/spiler2/master.m3u8?u=test&p=ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae
