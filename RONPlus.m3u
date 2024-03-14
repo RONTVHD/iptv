@@ -1,0 +1,19 @@
+﻿#EXTM3U
+#EXTINF:0 group-title="Music" tvg-id="XITE" tvg-name="XITE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/xite-nl.png" ,XITE HD
+http://94.103.188.144:1234/stream/be/bexitehd/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:0 group-title="Movies and Series" tvg-id="Prime (HD).hu" tvg-name="Prime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/prime-hu.png" ,Prime
+http://94.103.188.144:1234/stream/hu/prime/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:0 group-title="Movies and Series" tvg-id="Direct One TV (HD).hu" tvg-name="Direct One TV" tvg-logo="https://www.directone.hu/content/HDAustria/logo_new.png" ,Direct One TV
+http://94.103.188.144:1234/stream/hu/directone/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:0 group-title="General" tvg-id="Play4 HD.be" tvg-name="Play4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/play4-be.png" ,Play4 HD
+http://94.103.188.144:1234/stream/be/beplay4hd/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:0 group-title="General" tvg-id="Play5 HD.be" tvg-name="Play5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/play5-be.png" ,Play5 HD
+http://94.103.188.144:1234/stream/be/beplay5hd/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:0 group-title="General" tvg-id="Play6 HD.be" tvg-name="Play6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/play6-be.png" ,Play6 HD
+http://94.103.188.144:1234/stream/be/beplay6hd/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:0 group-title="General" tvg-id="Play7 HD.be" tvg-name="Play7 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/play7-be.png" ,Play7 HD
+http://94.103.188.144:1234/stream/be/beplay7hd/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:0 group-title="General" tvg-id="RTLTeleLuxembourg.lu" tvg-name="RTL Télé Lëtzebuerg HD" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/06/RTL_%28Luxembourg%29_%282023-.n.v.%29.png" ,RTL Télé Lëtzebuerg HD
+https://stream.rtl.lu/data/live/tele/channel1/playlist.m3u8
+#EXTINF:0 group-title="General" tvg-id="RTLZwee.lu" tvg-name="RTL Zwee HD" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/b2/RTL_Zwee_%282023-.n.v.%29.png" ,RTL Zwee HD
+https://stream.rtl.lu/data/live/tele/channel2/playlist.m3u8
