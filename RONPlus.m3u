@@ -1,10 +1,10 @@
 ﻿#EXTM3U
 #EXTINF:0 group-title="General" tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" ,TF1 HD
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=43895&extension=ts&play_token=zFa3cYe7Tv&sn2=
-#EXTINF:0 group-title="Movies and Series" tvg-id="Prime (HD).hu" tvg-name="Prime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/prime-hu.png" ,Prime
-http://94.103.188.144:1234/stream/hu/prime/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
-#EXTINF:0 group-title="Movies and Series" tvg-id="Direct One TV (HD).hu" tvg-name="Direct One TV" tvg-logo="https://www.directone.hu/content/HDAustria/logo_new.png" ,Direct One TV
-http://94.103.188.144:1234/stream/hu/directone/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:0 group-title="Movies and Series" tvg-id="Prime (HD).hu" tvg-name="Prime HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/prime-hu.png" ,Prime HD
+http://luctvspain.xyz:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/107664.ts
+#EXTINF:0 group-title="General" tvg-id="Kanal D HD.ro" tvg-name="Kanal D HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/kanal-d-ro.png" ,Kanal D HD
+http://luctvspain.xyz:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/22330.ts
 #EXTINF:0 group-title="Documentary" tvg-id="Ushuaïa TV.fr" tvg-name="Ushuaïa TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/ushuaia-tv-fr.png" ,Ushuaïa TV HD
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=2878&extension=ts&play_token=qB38r3EoET&sn2=
 #EXTINF:0 group-title="General" tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/m6-fr.png" ,M6 HD
@@ -13,47 +13,71 @@ http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=43909&extensio
 https://stream.rtl.lu/data/live/tele/channel1/playlist.m3u8
 #EXTINF:0 group-title="General" tvg-id="RTLZwee.lu" tvg-name="RTL Zwee HD" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/b2/RTL_Zwee_%282023-.n.v.%29.png" ,RTL Zwee HD
 https://stream.rtl.lu/data/live/tele/channel2/playlist.m3u8
+#EXTINF:0 group-title="Movies and Series" tvg-id="Viasat 2.hu" tvg-name="Viasat 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/viasat2-hu.png" ,Viasat 2
+http://luctvspain.xyz:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/107671.ts
 #EXTINF:0 group-title="General" tvg-id="C8.fr" tvg-name="C8 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c8-fr.png" ,C8 HD
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=43926&extension=ts&play_token=FzyPTKhiAL&sn2=
 #EXTINF:0 group-title="General" tvg-id="TMC.fr" tvg-name="TMC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tmc-fr.png" ,TMC HD
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=43913&extension=ts&play_token=DmtcrN5uR8&sn2=
 #EXTINF:0 group-title="General" tvg-id="TFX.fr" tvg-name="TFX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tfx-fr.png" ,TFX HD
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=43916&extension=ts&play_token=nvPhc2zq1y&sn2=
-#EXTINF:0 group-title="Documentary" tvg-id="Histoire.fr" tvg-name="Histoire TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/histoire-tv-fr.png" ,Histoire TV HD
+#EXTINF:0 group-title="General" tvg-id="TV2 (HD).hu" tvg-name="TV2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/tv2-hu.png" ,TV2 HD
+http://luctvspain.xyz:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/107685.ts
+#EXTINF:0 group-title="Documentary" tvg-id="Histoire TV.fr" tvg-name="Histoire TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/histoire-tv-fr.png" ,Histoire TV HD
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=2874&extension=ts&play_token=rDYh74yJZJ&sn2=
-#EXTINF:0 group-title="Documentary" tvg-id="Canal+ DOCS.fr" tvg-name="Canal+ Docs HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-docs-fr.png" ,Canal+ Docs HD
-http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=367451&extension=ts&play_token=iXCMOGWrpa&sn2=
 #EXTINF:0 group-title="Children" tvg-id="Game One.fr" tvg-name="Game One HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/game-one-fr.png" ,Game One HD
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=44050&extension=ts&play_token=bADpP3ccS6&sn2=
-#EXTINF:0 group-title="Movies and Series" tvg-id="Moziverzum (HD).hu" tvg-name="Moziverzum" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/moziverzum-hu.png" ,Moziverzum
-http://94.103.188.144:1234/stream/hu/moziverzum/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
-#EXTINF:0 group-title="General" tvg-id="Play4 HD.be" tvg-name="Play4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/play4-be.png" ,Play4 HD
-http://94.103.188.144:1234/stream/be/beplay4hd/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
-#EXTINF:0 group-title="Documentary" tvg-id="Trek.fr" tvg-name="Trek HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/trek-fr.png" ,Trek HD
-http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=2888&extension=ts&play_token=rQbrHNU670&sn2=
-#EXTINF:0 group-title="Sports" tvg-id="Arena4 (HD).hu" tvg-name="Arena4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/arena4-hu.png" ,Arena4 HD
-http://94.103.188.144:1234/stream/hu/arena4/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
-#EXTINF:0 group-title="General" tvg-id="Play5 HD.be" tvg-name="Play5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/play5-be.png" ,Play5 HD
-http://94.103.188.144:1234/stream/be/beplay5hd/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
-#EXTINF:0 group-title="Children" tvg-id="J-One.fr" tvg-name="J-One HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/j-one-fr.png" ,J-One HD
-http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=44044&extension=ts&play_token=naxINyrqq5&sn2=
-#EXTINF:0 group-title="Movies and Series" tvg-id="Mozi+ (HD).hu" tvg-name="Mozi+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/mozi-plus-hu.png" ,Mozi+
-http://94.103.188.144:1234/stream/hu/mozi/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
-#EXTINF:0 group-title="General" tvg-id="Play6 HD.be" tvg-name="Play6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/play6-be.png" ,Play6 HD
-http://94.103.188.144:1234/stream/be/beplay6hd/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
-#EXTINF:0 group-title="Movies and Series" tvg-id="TF1 Séries Films.fr" tvg-name="TF1 Séries Films HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-series-films-fr.png" ,TF1 Séries Films HD
-http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=43918&extension=ts&play_token=7mXXNXHV7E&sn2=
-#EXTINF:0 group-title="Documentary" tvg-id="Love Nature (HD/4K).hu" tvg-name="Love Nature HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/love-nature-es.png" ,Love Nature HD
-http://94.103.188.144:1234/stream/hu/lovenaturehd/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:0 group-title="4K Channels" tvg-id="Digi 4K.ro" tvg-name="Digi 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/digi-4k-ro.png" ,Digi 4K
+http://luctvspain.xyz:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/30993.ts
 #EXTINF:0 group-title="Children" tvg-id="Mangas.fr" tvg-name="Mangas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/96/Logo-mangaschaine2022.png" ,Mangas HD
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=44048&extension=ts&play_token=0BG0Ph8QF6&sn2=
-#EXTINF:0 group-title="General" tvg-id="Play7 HD.be" tvg-name="Play7 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/play7-be.png" ,Play7 HD
-http://94.103.188.144:1234/stream/be/beplay7hd/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:0 group-title="Movies and Series" tvg-id="Moziverzum (HD).hu" tvg-name="Moziverzum HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/moziverzum-hu.png" ,Moziverzum HD
+http://luctvspain.xyz:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/107655.ts
+#EXTINF:0 group-title="General" tvg-id="Kanal D2 HD.ro" tvg-name="Kanal D2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/kanal-d2-ro.png" ,Kanal D2 HD
+http://luctvspain.xyz:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/118734.ts
+#EXTINF:0 group-title="Documentary" tvg-id="Trek.fr" tvg-name="Trek HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/trek-fr.png" ,Trek HD
+http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=2888&extension=ts&play_token=rQbrHNU670&sn2=
+#EXTINF:0 group-title="Sports" tvg-id="Orange Sport 1 HD.ro" tvg-name="Orange Sport 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/orange-sport-1-ro.png" ,Orange Sport 1 HD
+http://luctvspain.xyz:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/22386.ts
+#EXTINF:0 group-title="Sports" tvg-id="Orange Sport 2 HD.ro" tvg-name="Orange Sport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/orange-sport-2-ro.png" ,Orange Sport 2 HD
+http://luctvspain.xyz:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/22387.ts
+#EXTINF:0 group-title="Sports" tvg-id="Orange Sport 3 HD.ro" tvg-name="Orange Sport 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/orange-sport-3-ro.png" ,Orange Sport 3 HD
+http://luctvspain.xyz:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/22388.ts
+#EXTINF:0 group-title="Sports" tvg-id="Orange Sport 4 HD.ro" tvg-name="Orange Sport 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/orange-sport-4-ro.png" ,Orange Sport 4 HD
+http://luctvspain.xyz:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/22389.ts
+#EXTINF:0 group-title="General" tvg-id="Super TV2 (HD).hu" tvg-name="SuperTV2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/tv2-super-hu.png" ,SuperTV2
+http://luctvspain.xyz:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/107684.ts
+#EXTINF:0 group-title="Children" tvg-id="J-One.fr" tvg-name="J-One HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/j-one-fr.png" ,J-One HD
+http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=44044&extension=ts&play_token=naxINyrqq5&sn2=
+#EXTINF:0 group-title="Movies and Series" tvg-id="Mozi+ (HD).hu" tvg-name="Mozi+ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/mozi-plus-hu.png" ,Mozi+ HD
+http://luctvspain.xyz:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/108201.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="TV2 Comedy.hu" tvg-name="TV2 Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/tv2-comedy-hu.png" ,TV2 Comedy
+http://luctvspain.xyz:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/107682.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="TF1 Séries Films.fr" tvg-name="TF1 Séries Films HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-series-films-fr.png" ,TF1 Séries Films HD
+http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=43918&extension=ts&play_token=7mXXNXHV7E&sn2=
+#EXTINF:0 group-title="News" tvg-id="Prima News.ro" tvg-name="Prima News HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/prima-news-ro.png" ,Prima News HD
+http://luctvspain.xyz:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/108170.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Viasat Film.hu" tvg-name="Viasat Film" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/viasat-film-hu.png" ,Viasat Film
+http://luctvspain.xyz:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/107672.ts
+#EXTINF:0 group-title="General" tvg-id="RTL (HD) (RTL Klub).hu" tvg-name="RTL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/rtl-hu.png" ,RTL HD
+http://luctvspain.xyz:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/108637.ts
 #EXTINF:0 group-title="Music" tvg-id="M6 Music.fr" tvg-name="M6 Music HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/m6-music-fr.png" ,M6 Music HD
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=44054&extension=ts&play_token=WMYqbD8LJw&sn2=
+#EXTINF:0 group-title="4K Channels" tvg-id="Eurosport 4K.ro" tvg-name="Eurosport 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/hd/eurosport-4k-fr.png" ,Eurosport 4K
+http://luctvspain.xyz:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/29961.ts
 #EXTINF:0 group-title="Music" tvg-id="MCM.fr" tvg-name="MCM HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/mcm-fr.png" ,MCM HD
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=44059&extension=ts&play_token=dDcubpPaiZ&sn2=
-#EXTINF:0 group-title="Music" tvg-id="XITE" tvg-name="XITE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/xite-nl.png" ,XITE HD
-http://94.103.188.144:1234/stream/be/bexitehd/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
 #EXTINF:0 group-title="Movies and Series" tvg-id="Téva.fr" tvg-name="Téva HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/teva-fr.png" ,Téva HD
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=43920&extension=ts&play_token=nGRjx8YhTh&sn2=
+#EXTINF:0 group-title="4K Channels" tvg-id="Orange Sport 1 HD.ro" tvg-name="Orange Sport 1 UHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/orange-sport-1-ro.png" ,Orange Sport 1 UHD
+http://luctvspain.xyz:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/85507.ts
+#EXTINF:0 group-title="Sports" tvg-id="Prima Sport 1 HD.ro" tvg-name="Prima Sport 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/prima-sport-1-ro.png" ,Prima Sport 1 HD
+http://luctvspain.xyz:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/22492.ts
+#EXTINF:0 group-title="Sports" tvg-id="Prima Sport 2 HD.ro" tvg-name="Prima Sport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/prima-sport-2-ro.png" ,Prima Sport 2 HD
+http://luctvspain.xyz:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/22395.ts
+#EXTINF:0 group-title="Sports" tvg-id="Prima Sport 3 HD.ro" tvg-name="Prima Sport 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/prima-sport-3-ro.png" ,Prima Sport 3 HD
+http://luctvspain.xyz:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/3572.ts
+#EXTINF:0 group-title="Sports" tvg-id="Prima Sport 4 HD.ro" tvg-name="Prima Sport 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/prima-sport-4-ro.png" ,Prima Sport 4 HD
+http://luctvspain.xyz:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/3571.ts
+#EXTINF:0 group-title="Sports" tvg-id="Prima Sport 5 HD.ro" tvg-name="Prima Sport 5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/prima-sport-5-ro.png" ,Prima Sport 5 HD
+http://luctvspain.xyz:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/101168.ts
