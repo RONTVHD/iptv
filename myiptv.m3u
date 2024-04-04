@@ -1,0 +1,23 @@
+﻿#EXTM3U
+#EXTINF:0 group-title="General" tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" ,TF1 HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:bf:b9:b1&stream=508244&extension=ts&play_token=N1FVNcV7EV
+#EXTINF:0 group-title="General" tvg-id="Nova TV.cz" tvg-name="Nova HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cz.png" ,Nova HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:bf:b9:b1&stream=98271&extension=ts&play_token=h7sBi9LPqC
+#EXTINF:0 group-title="General" tvg-id="Prima.cz" tvg-name="Prima HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-cz.png" ,Prima HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:bf:b9:b1&stream=98310&extension=ts&play_token=3QyuHUCZcN
+#EXTINF:0 group-title="Movies and Series" tvg-id="Direct One TV (HD).hu" tvg-name="Direct One HD" tvg-logo="https://www.directone.hu/content/HDAustria/logo_new.png" ,Direct One HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:bf:b9:b1&stream=1423943&extension=ts&play_token=T20UTWNVuY
+#EXTINF:0 group-title="General" tvg-id="ANT1 HD" tvg-name="ANT1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/ant1-gr.png" ,ANT1 HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:bf:b9:b1&stream=1432025&extension=ts&play_token=6UL2ctJwzb
+#EXTINF:0 group-title="Movies and Series" tvg-id="Novacinema1" tvg-name="Nova Cinema 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/nova-cinema-1-gr.png" ,Nova Cinema 1 HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:bf:b9:b1&stream=1434177&extension=ts&play_token=tw4cedXCKh
+#EXTINF:0 group-title="Movies and Series" tvg-id="Novacinema2" tvg-name="Nova Cinema 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/nova-cinema-2-gr.png" ,Nova Cinema 2 HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:bf:b9:b1&stream=1434175&extension=ts&play_token=wJCBQLJq7w
+#EXTINF:0 group-title="Movies and Series" tvg-id="Novacinema3" tvg-name="Nova Cinema 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/nova-cinema-3-gr.png" ,Nova Cinema 3 HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:bf:b9:b1&stream=1434173&extension=ts&play_token=zkbVdIDhHM
+#EXTINF:0 group-title="Movies and Series" tvg-id="Novacinema4" tvg-name="Nova Cinema 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/nova-cinema-4-gr.png" ,Nova Cinema 4 HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:bf:b9:b1&stream=1434171&extension=ts&play_token=C1dbGpHvGQ
+#EXTINF:0 group-title="Movies and Series" tvg-id="Canal+ Action.cz" tvg-name="Canal+ Action HD" tvg-logo="https://m7cz.solocoo.tv/m7cziphone/mmchan/channelicons/CANAL%20Action_m.png" ,Canal+ Action HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:bf:b9:b1&stream=1438001&extension=ts&play_token=buZMYDYrGD
+#EXTINF:0 group-title="Movies and Series" tvg-id="Prime (HD).hu" tvg-name="Prime HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/prime-hu.png" ,Prime HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:bf:b9:b1&stream=74215&extension=ts&play_token=MJSbNev53N
