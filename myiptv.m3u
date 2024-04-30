@@ -67,8 +67,5 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=43930&exten
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=3162&extension=ts&play_token=xyQPoJjd1G&sn2=
 #EXTINF:0 group-title="Movies and Series" tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-box-office-fr.png" ,Canal+ Box Office HD
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=638881&extension=ts&play_token=ZpYkXx43qC&sn2=
-#EXTINF:0 group-title="Movies and Series" tvg-id="Test 80.be" tvg-name="France TV Séries HD" tvg-logo="https://i.imgur.com/dv3i1Qd.png" ,France TV Séries HD
-#EXTVLCOPT:http-referrer=http://callofliberty.fr/
-http://s2.callofliberty.fr/direct/france.tvseries/index.m3u8
 #EXTINF:0 group-title="Sports" tvg-id="Arena4 (HD).hu" tvg-name="Arena4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/arena4-hu.png" ,Arena4 HD
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/23581.ts
