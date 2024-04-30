@@ -17,39 +17,57 @@ http://eurotvone.com:85/live/TefikBabus/BabuusTefik/53566.ts
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/570.ts
 #EXTINF:0 group-title="Sports" tvg-id="Eurosport 2 (HD).hu" tvg-name="Eurosport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-2-fr.png" ,Eurosport 2 HD
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/572.ts
-#EXTINF:0 group-title="Sports" tvg-id="M4 Sport (HD).hu" tvg-name="M4 Sport HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/m4-sport-hu.png" ,M4 Sport HD
-http://eurotvone.com:85/live/TefikBabus/BabuusTefik/482.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Prime (HD).hu" tvg-name="Prime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/prime-hu.png" ,Prime
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/521.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Izaura TV (HD).hu" tvg-name="Izaura TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/izaura-tv-hu.png" ,Izaura TV
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/542.ts
+#EXTINF:0 group-title="Children" tvg-id="Kölyök Klub.hu" tvg-name="Kölyök Klub" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/K%C3%B6ly%C3%B6kklub_II.svg/1920px-K%C3%B6ly%C3%B6kklub_II.svg.png" ,Kölyök Klub
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/53568.ts
 #EXTINF:0 group-title="General" tvg-id="Super TV2 (HD).hu" tvg-name="Super TV2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/tv2-super-hu.png" ,Super TV2 HD
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/502.ts
+#EXTINF:0 group-title="News" tvg-id="Euronews E HD.be" tvg-name="Euronews HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/euro-news-int.png" ,Euronews HD
+https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-id="M4 Sport (HD).hu" tvg-name="M4 Sport HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/m4-sport-hu.png" ,M4 Sport HD
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/482.ts
+#EXTINF:0 group-title="News" tvg-id="ATV (HD).hu" tvg-name="ATV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/atv-hu.png" ,ATV HD
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/1713.ts
 #EXTINF:0 group-title="General" tvg-id="RTL plug HD.be" tvg-name="RTL Plug HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-plug-be.png" ,RTL Plug HD
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=78450&extension=ts&play_token=lOOxE1lSQc&sn2=
+#EXTINF:0 group-title="Movies and Series" tvg-id="Cinemax (HD).hu" tvg-name="Cinemax HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/cinemax-hu.png" ,Cinemax HD
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/39028.ts
 #EXTINF:0 group-title="General" tvg-id="Max 4.hu" tvg-name="Max4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/max4-hu.png" ,Max4
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/492.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Jocky TV.hu" tvg-name="Jocky TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/jocky-tv-hu.png" ,Jocky TV
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/540.ts
 #EXTINF:0 group-title="General" tvg-id="RTL (HD) (RTL Klub).hu" tvg-name="RTL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/rtl-hu.png" ,RTL HD
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/38582.ts
-#EXTINF:0 group-title="Movies and Series" tvg-id="Cinemax (HD).hu" tvg-name="Cinemax HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/cinemax-hu.png" ,Cinemax HD
-http://eurotvone.com:85/live/TefikBabus/BabuusTefik/39028.ts
+#EXTINF:0 group-title="News" tvg-id="CNBC.hu" tvg-name="CNBC Europe" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-europe/cnbc-eu.png" ,CNBC Europe
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=461282&extension=ts&play_token=V2cMn4lJET&sn2=
 #EXTINF:0 group-title="Movies and Series" tvg-id="Film Mánia (HD).hu" tvg-name="Film Mánia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/film-mania-ro.png" ,Film Mánia
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/562.ts
 #EXTINF:0 group-title="General" tvg-id="RTL club HD.be" tvg-name="RTL Club HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-club-be.png" ,RTL Club HD
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=378266&extension=ts&play_token=wycr02xTiq&sn2=
 #EXTINF:0 group-title="Documentary" tvg-id="Spektrum Home (HD).hu" tvg-name="Spektrum Home" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/spektrum-home-hu.png" ,Spektrum Home
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/40919.ts
-#EXTINF:0 group-title="General" tvg-id="RTL tvi HD.be" tvg-name="RTL TVI HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-tvi-be.png" ,RTL TVI HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=3162&extension=ts&play_token=xyQPoJjd1G&sn2=
-#EXTINF:0 group-title="Children" tvg-id="Kölyök Klub.hu" tvg-name="Kölyök Klub" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/K%C3%B6ly%C3%B6kklub_II.svg/1920px-K%C3%B6ly%C3%B6kklub_II.svg.png" ,Kölyök Klub
-http://eurotvone.com:85/live/TefikBabus/BabuusTefik/53568.ts
+#EXTINF:0 group-title="General" tvg-id="ATV Spirit (HD).hu" tvg-name="ATV Spirit" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/atv-spirit-hu.png" ,ATV Spirit
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/538.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Cinemax 2 (HD).hu" tvg-name="Cinemax 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/cinemax2-hu.png" ,Cinemax 2 HD
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/46938.ts
+#EXTINF:0 group-title="News" tvg-id="DRS Test.be" tvg-name="TV5Monde Info HD" tvg-logo="https://i.imgur.com/fksxVA6.png" ,TV5Monde Info HD
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:0 group-title="Movies and Series" tvg-id="Sorozat Klub.hu" tvg-name="Sorozat Klub" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sorozatklub_logo.png/1280px-Sorozatklub_logo.png" ,Sorozat Klub
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/53567.ts
-#EXTINF:0 group-title="Movies and Series" tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-box-office-fr.png" ,Canal+ Box Office HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=638881&extension=ts&play_token=ZpYkXx43qC&sn2=
 #EXTINF:0 group-title="Sports" tvg-id="Match4 (HD).hu" tvg-name="Match4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/match4-hu.png" ,Match4 HD
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/41300.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Canal+.fr" tvg-name="Canal+ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-fr.png" ,Canal+ HD
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=43972&extension=ts&play_token=ESEOHOezpx&sn2=
 #EXTINF:0 group-title="Movies and Series" tvg-id="serieclub.fr" tvg-name="SerieClub HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/serie-club-fr.png" ,SerieClub HD
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=43930&extension=ts&play_token=FidJuZP0R7&sn2=
+#EXTINF:0 group-title="General" tvg-id="RTL tvi HD.be" tvg-name="RTL TVI HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-tvi-be.png" ,RTL TVI HD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=3162&extension=ts&play_token=xyQPoJjd1G&sn2=
+#EXTINF:0 group-title="Movies and Series" tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-box-office-fr.png" ,Canal+ Box Office HD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=638881&extension=ts&play_token=ZpYkXx43qC&sn2=
+#EXTINF:0 group-title="Movies and Series" tvg-id="Test 80.be" tvg-name="France TV Séries HD" tvg-logo="https://i.imgur.com/dv3i1Qd.png" ,France TV Séries HD
+http://s2.callofliberty.fr/direct/france.tvseries/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-id="Arena4 (HD).hu" tvg-name="Arena4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/arena4-hu.png" ,Arena4 HD
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/23581.ts
