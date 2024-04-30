@@ -1,43 +1,55 @@
 ﻿#EXTM3U
 #EXTINF:0 group-title="General" tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" ,TF1 HD
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:bf:b9:b1&stream=508244&extension=ts&play_token=N1FVNcV7EV
-#EXTINF:0 group-title="General" tvg-id="RTL tvi HD.be" tvg-name="RTL TVI HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-tvi-be.png" ,RTL TVI HD
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:bf:b9:b1&stream=812104&extension=ts&play_token=ZHQvt0JKkL
-#EXTINF:0 group-title="General" tvg-id="Nova TV.cz" tvg-name="Nova HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cz.png" ,Nova HD
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:bf:b9:b1&stream=98271&extension=ts&play_token=h7sBi9LPqC
-#EXTINF:0 group-title="General" tvg-id="Polsat.pl" tvg-name="Polsat HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-pl.png" ,Polsat HD
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:bf:b9:b1&stream=880509&extension=ts&play_token=JGMUxv9N6q
-#EXTINF:0 group-title="General" tvg-id="RTL club HD.be" tvg-name="RTL Club HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-club-be.png" ,RTL Club HD
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:bf:b9:b1&stream=812103&extension=ts&play_token=2QPVHP5W1N
-#EXTINF:0 group-title="Movies and Series" tvg-id="Novacinema1" tvg-name="Nova Cinema 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/nova-cinema-1-gr.png" ,Nova Cinema 1 HD
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:bf:b9:b1&stream=1434177&extension=ts&play_token=tw4cedXCKh
-#EXTINF:0 group-title="Movies and Series" tvg-id="Novacinema2" tvg-name="Nova Cinema 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/nova-cinema-2-gr.png" ,Nova Cinema 2 HD
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:bf:b9:b1&stream=1434175&extension=ts&play_token=wJCBQLJq7w
-#EXTINF:0 group-title="Movies and Series" tvg-id="Novacinema3" tvg-name="Nova Cinema 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/nova-cinema-3-gr.png" ,Nova Cinema 3 HD
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:bf:b9:b1&stream=1434173&extension=ts&play_token=zkbVdIDhHM
-#EXTINF:0 group-title="Movies and Series" tvg-id="Novacinema4" tvg-name="Nova Cinema 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/nova-cinema-4-gr.png" ,Nova Cinema 4 HD
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:bf:b9:b1&stream=1434171&extension=ts&play_token=C1dbGpHvGQ
-#EXTINF:0 group-title="Documentary" tvg-id="CANAL+ DOMO HD.pl" tvg-name="Canal+ Domo HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-domo-hd-pl.png" ,Canal+ Domo HD
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:bf:b9:b1&stream=880424&extension=ts&play_token=VoqbVNSP7Y
-#EXTINF:0 group-title="Movies and Series" tvg-id="Prime (HD).hu" tvg-name="Prime HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/prime-hu.png" ,Prime HD
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:bf:b9:b1&stream=74215&extension=ts&play_token=MJSbNev53N
-#EXTINF:0 group-title="Documentary" tvg-id="TVN Style HD.pl" tvg-name="TVN Style HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvn-style-pl.png" ,TVN Style HD
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:bf:b9:b1&stream=880515&extension=ts&play_token=UPQYCdaoaA
-#EXTINF:0 group-title="General" tvg-id="ANT1 HD" tvg-name="ANT1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/ant1-gr.png" ,ANT1 HD
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:bf:b9:b1&stream=1432025&extension=ts&play_token=6UL2ctJwzb
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=43896&extension=ts&play_token=ACYyVCEl6o&sn2=
+#EXTINF:0 group-title="General" tvg-id="France 2.fr" tvg-name="France 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-2-fr.png" ,France 2 HD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=43899&extension=ts&play_token=RzxaygDsG1&sn2=
+#EXTINF:0 group-title="General" tvg-id="France 3.fr" tvg-name="France 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-3-fr.png" ,France 3 HD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=751703&extension=ts&play_token=EGl7esU3hl&sn2=
+#EXTINF:0 group-title="General" tvg-id="TV5 Monde Europe" tvg-name="TV5 Monde Europe HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/tv5-monde-int.png" ,TV5Monde Europe HD
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:0 group-title="General" tvg-id="C8.fr" tvg-name="C8 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c8-fr.png" ,C8 HD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=43926&extension=ts&play_token=mvyvvFamdP&sn2=
+#EXTINF:0 group-title="General" tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/m6-fr.png" ,M6 HD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=43909&extension=ts&play_token=BxJJSD7OQi&sn2=
+#EXTINF:0 group-title="Movies and Series" tvg-id="Mozi Klub.hu" tvg-name="Mozi Klub" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Moziklub.svg/1280px-Moziklub.svg.png" ,Mozi Klub
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/53566.ts
+#EXTINF:0 group-title="Sports" tvg-id="Eurosport 1 (HD).hu" tvg-name="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-1-fr.png" ,Eurosport 1 HD
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/570.ts
+#EXTINF:0 group-title="Sports" tvg-id="Eurosport 2 (HD).hu" tvg-name="Eurosport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-2-fr.png" ,Eurosport 2 HD
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/572.ts
+#EXTINF:0 group-title="Sports" tvg-id="M4 Sport (HD).hu" tvg-name="M4 Sport HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/m4-sport-hu.png" ,M4 Sport HD
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/482.ts
+#EXTINF:0 group-title="General" tvg-id="Super TV2 (HD).hu" tvg-name="Super TV2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/tv2-super-hu.png" ,Super TV2 HD
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/502.ts
 #EXTINF:0 group-title="General" tvg-id="RTL plug HD.be" tvg-name="RTL Plug HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-plug-be.png" ,RTL Plug HD
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:bf:b9:b1&stream=812102&extension=ts&play_token=OiCYO83OEk
-#EXTINF:0 group-title="General" tvg-id="Prima.cz" tvg-name="Prima HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-cz.png" ,Prima HD
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:bf:b9:b1&stream=98310&extension=ts&play_token=3QyuHUCZcN
-#EXTINF:0 group-title="Documentary" tvg-id="CANAL+ KUCHNIA HD.pl" tvg-name="Canal+ Kuchnia HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-kuchnia-hd-pl.png" ,Canal+ Kuchnia HD
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:bf:b9:b1&stream=880415&extension=ts&play_token=T7RXuNInDx
-#EXTINF:0 group-title="Movies and Series" tvg-id="Direct One TV (HD).hu" tvg-name="Direct One HD" tvg-logo="https://www.directone.hu/content/HDAustria/logo_new.png" ,Direct One HD
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:bf:b9:b1&stream=1423943&extension=ts&play_token=T20UTWNVuY
-#EXTINF:0 group-title="Children" tvg-id="Gametoon HD.pl" tvg-name="Gametoon HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/game-toon-hu.png" ,Gametoon HD
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:bf:b9:b1&stream=1121747&extension=ts&play_token=apEZxKtAEv
-#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 1 HD.de" tvg-name="Sky Sport 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-1-de.png" ,Sky Sport 1 HD
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:bf:b9:b1&stream=411602&extension=ts&play_token=e9LkcPOxWH
-#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 2 HD.de" tvg-name="Sky Sport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-2-de.png" ,Sky Sport 2 HD
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:bf:b9:b1&stream=411439&extension=ts&play_token=UgBmbmtDWh
-#EXTINF:0 group-title="Movies and Series" tvg-id="Canal+ Action.cz" tvg-name="Canal+ Action HD" tvg-logo="https://m7cz.solocoo.tv/m7cziphone/mmchan/channelicons/CANAL%20Action_m.png" ,Canal+ Action HD
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:bf:b9:b1&stream=1438001&extension=ts&play_token=buZMYDYrGD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=78450&extension=ts&play_token=lOOxE1lSQc&sn2=
+#EXTINF:0 group-title="General" tvg-id="Max 4.hu" tvg-name="Max4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/max4-hu.png" ,Max4
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/492.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Jocky TV.hu" tvg-name="Jocky TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/jocky-tv-hu.png" ,Jocky TV
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/540.ts
+#EXTINF:0 group-title="General" tvg-id="RTL (HD) (RTL Klub).hu" tvg-name="RTL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/rtl-hu.png" ,RTL HD
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/38582.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Cinemax (HD).hu" tvg-name="Cinemax HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/cinemax-hu.png" ,Cinemax HD
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/39028.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Film Mánia (HD).hu" tvg-name="Film Mánia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/film-mania-ro.png" ,Film Mánia
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/562.ts
+#EXTINF:0 group-title="General" tvg-id="RTL club HD.be" tvg-name="RTL Club HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-club-be.png" ,RTL Club HD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=378266&extension=ts&play_token=wycr02xTiq&sn2=
+#EXTINF:0 group-title="Documentary" tvg-id="Spektrum Home (HD).hu" tvg-name="Spektrum Home" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/spektrum-home-hu.png" ,Spektrum Home
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/40919.ts
+#EXTINF:0 group-title="General" tvg-id="RTL tvi HD.be" tvg-name="RTL TVI HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-tvi-be.png" ,RTL TVI HD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=3162&extension=ts&play_token=xyQPoJjd1G&sn2=
+#EXTINF:0 group-title="Children" tvg-id="Kölyök Klub.hu" tvg-name="Kölyök Klub" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/K%C3%B6ly%C3%B6kklub_II.svg/1920px-K%C3%B6ly%C3%B6kklub_II.svg.png" ,Kölyök Klub
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/53568.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Cinemax 2 (HD).hu" tvg-name="Cinemax 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/cinemax2-hu.png" ,Cinemax 2 HD
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/46938.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Sorozat Klub.hu" tvg-name="Sorozat Klub" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sorozatklub_logo.png/1280px-Sorozatklub_logo.png" ,Sorozat Klub
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/53567.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-box-office-fr.png" ,Canal+ Box Office HD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=638881&extension=ts&play_token=ZpYkXx43qC&sn2=
+#EXTINF:0 group-title="Sports" tvg-id="Match4 (HD).hu" tvg-name="Match4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/match4-hu.png" ,Match4 HD
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/41300.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Canal+.fr" tvg-name="Canal+ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-fr.png" ,Canal+ HD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=43972&extension=ts&play_token=ESEOHOezpx&sn2=
+#EXTINF:0 group-title="Movies and Series" tvg-id="serieclub.fr" tvg-name="SerieClub HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/serie-club-fr.png" ,SerieClub HD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=43930&extension=ts&play_token=FidJuZP0R7&sn2=
