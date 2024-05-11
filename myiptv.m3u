@@ -19,6 +19,8 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=43926&exten
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/542.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Prime (HD).hu" tvg-name="Prime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/prime-hu.png" ,Prime
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/521.ts
+#EXTINF:0 group-title="Music" tvg-id="Stingray: Nature.ca" tvg-name="Stingray Naturescape HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/stingray-naturescape-vod-us.png" ,Stingray Naturescape HD
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 #EXTINF:0 group-title="Sports" tvg-id="M4 Sport (HD).hu" tvg-name="M4 Sport HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/m4-sport-hu.png" ,M4 Sport HD
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/482.ts
 #EXTINF:0 group-title="Children" tvg-id="Kölyök Klub.hu" tvg-name="Kölyök Klub" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/K%C3%B6ly%C3%B6kklub_II.svg/1920px-K%C3%B6ly%C3%B6kklub_II.svg.png" ,Kölyök Klub
@@ -33,10 +35,12 @@ http://eurotvone.com:85/live/TefikBabus/BabuusTefik/53566.ts
 https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
 #EXTINF:0 group-title="Movies and Series" tvg-id="AXN (HD).hu" tvg-name="AXN HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/axn-hu.png" ,AXN HD
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/46935.ts
+#EXTINF:0 group-title="Documentary" tvg-id="Ozone TV (HD).hu" tvg-name="Ozone TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/ozone-tv-hu.png" ,Ozone TV
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/537.ts
+#EXTINF:0 group-title="General" tvg-id="MTV3.fi" tvg-name="MTV3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/finland/mtv3-fi.png" ,MTV3 HD
+https://live-fi.tvkaista.net/mtv3/live.m3u8
 #EXTINF:0 group-title="General" tvg-id="SRFzwei.ch" tvg-name="SRF Zwei HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/switzerland/srf-zwei-ch.png" ,SRF Zwei HD
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=300600&extension=ts&play_token=fvqi6wAUmX&sn2=
-#EXTINF:0 group-title="General" tvg-id="Max 4.hu" tvg-name="Max4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/max4-hu.png" ,Max4
-http://eurotvone.com:85/live/TefikBabus/BabuusTefik/492.ts
 #EXTINF:0 group-title="News" tvg-id="ATV (HD).hu" tvg-name="ATV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/atv-hu.png" ,ATV HD
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/1713.ts
 #EXTINF:0 group-title="General" tvg-id="RTL plug HD.be" tvg-name="RTL Plug HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-plug-be.png" ,RTL Plug HD
@@ -49,75 +53,95 @@ http://eurotvone.com:85/live/TefikBabus/BabuusTefik/39028.ts
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/23582.ts
 #EXTINF:0 group-title="General" tvg-id="FEM3.hu" tvg-name="TV2 Klub" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/TV2_klub.png/640px-TV2_klub.png" ,TV2 Klub
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/567.ts
+#EXTINF:0 group-title="General" tvg-id="Max 4.hu" tvg-name="Max4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/max4-hu.png" ,Max4
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/492.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Galaxy 4 (HD).hu" tvg-name="Galaxy4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/galaxy4-hu.png" ,Galaxy4
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/582.ts
 #EXTINF:0 group-title="Documentary" tvg-id="Viasat Nature (HD).hu" tvg-name="Viasat Nature HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/viasat-nature-hu.png" ,Viasat Nature HD
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/46944.ts
-#EXTINF:0 group-title="Movies and Series" tvg-id="Jocky TV.hu" tvg-name="Jocky TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/jocky-tv-hu.png" ,Jocky TV
-http://eurotvone.com:85/live/TefikBabus/BabuusTefik/540.ts
-#EXTINF:0 group-title="News" tvg-id="SRFinfo.ch" tvg-name="SRF info HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/switzerland/srf-info-ch.png" ,SRF info HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=300603&extension=ts&play_token=9Kr8tyFknH&sn2=
-#EXTINF:0 group-title="General" tvg-id="VRT 1 HD.be" tvg-name="VRT 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/vrt-1-be.png" ,VRT 1 HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=61529&extension=ts&play_token=4UXJEZ2SF7&sn2=
-#EXTINF:0 group-title="News" tvg-id="CNBC.hu" tvg-name="CNBC Europe" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-europe/cnbc-eu.png" ,CNBC Europe
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=461282&extension=ts&play_token=V2cMn4lJET&sn2=
-#EXTINF:0 group-title="Documentary" tvg-id="Viasat History (HD).hu" tvg-name="Viasat History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/viasat-history-hu.png" ,Viasat History
-http://eurotvone.com:85/live/TefikBabus/BabuusTefik/506.ts
-#EXTINF:0 group-title="Movies and Series" tvg-id="Film 4 (HD).hu" tvg-name="Film4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/film4-hu.png" ,Film4
-http://eurotvone.com:85/live/TefikBabus/BabuusTefik/564.ts
-#EXTINF:0 group-title="General" tvg-id="RTL (HD) (RTL Klub).hu" tvg-name="RTL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/rtl-hu.png" ,RTL HD
-http://eurotvone.com:85/live/TefikBabus/BabuusTefik/38582.ts
-#EXTINF:0 group-title="Movies and Series" tvg-id="AXN Black" tvg-name="AXN Black" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/axn-black-pl.png" ,AXN Black
-http://eurotvone.com:85/live/TefikBabus/BabuusTefik/1711.ts
-#EXTINF:0 group-title="Movies and Series" tvg-id="Paramount Network (HD).hu" tvg-name="Paramount Network HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/paramount-network-hu.png" ,Paramount Network HD
-http://eurotvone.com:85/live/TefikBabus/BabuusTefik/46937.ts
-#EXTINF:0 group-title="Movies and Series" tvg-id="serieclub.fr" tvg-name="SerieClub HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/serie-club-fr.png" ,SerieClub HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=43930&extension=ts&play_token=FidJuZP0R7&sn2=
-#EXTINF:0 group-title="Movies and Series" tvg-id="Cinemax 2 (HD).hu" tvg-name="Cinemax 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/cinemax2-hu.png" ,Cinemax 2 HD
-http://eurotvone.com:85/live/TefikBabus/BabuusTefik/46938.ts
 #EXTINF:0 group-title="General" tvg-id="RTLTeleLuxembourg.lu" tvg-name="RTL Lëtzebuerg HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/RTL_Luxembourg_2023.svg/2560px-RTL_Luxembourg_2023.svg.png" ,RTL Lëtzebuerg HD
 https://stream.rtl.lu/data/live/tele/channel1/1080p.m3u8
+#EXTINF:0 group-title="Movies and Series" tvg-id="Jocky TV.hu" tvg-name="Jocky TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/jocky-tv-hu.png" ,Jocky TV
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/540.ts
+#EXTINF:0 group-title="News" tvg-id="M1 (HD).hu" tvg-name="M1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/m1-hu.png" ,M1 HD
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/484.ts
+#EXTINF:0 group-title="News" tvg-id="SRFinfo.ch" tvg-name="SRF info HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/switzerland/srf-info-ch.png" ,SRF info HD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=300603&extension=ts&play_token=9Kr8tyFknH&sn2=
+#EXTINF:0 group-title="News" tvg-id="CNBC.hu" tvg-name="CNBC Europe" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-europe/cnbc-eu.png" ,CNBC Europe
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=461282&extension=ts&play_token=V2cMn4lJET&sn2=
+#EXTINF:0 group-title="Movies and Series" tvg-id="Film 4 (HD).hu" tvg-name="Film4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/film4-hu.png" ,Film4
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/564.ts
+#EXTINF:0 group-title="Documentary" tvg-id="Viasat History (HD).hu" tvg-name="Viasat History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/viasat-history-hu.png" ,Viasat History
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/506.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Action.fr" tvg-name="Action HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/action-fr.png" ,Action HD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=44005&extension=ts&play_token=ZHt45zga2f&sn2=
+#EXTINF:0 group-title="General" tvg-id="RTL (HD) (RTL Klub).hu" tvg-name="RTL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/rtl-hu.png" ,RTL HD
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/38582.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Paramount Network (HD).hu" tvg-name="Paramount Network HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/paramount-network-hu.png" ,Paramount Network HD
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/46937.ts
+#EXTINF:0 group-title="Music" tvg-id="Test 80.be" tvg-name="Stingray Holidayscapes HD" tvg-logo="https://i.imgur.com/VcxPqYO.png" ,Stingray Holidayscapes HD
+https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
+#EXTINF:0 group-title="Movies and Series" tvg-id="serieclub.fr" tvg-name="SerieClub HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/serie-club-fr.png" ,SerieClub HD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=43930&extension=ts&play_token=FidJuZP0R7&sn2=
+#EXTINF:0 group-title="General" tvg-id="Sub.fi" tvg-name="MTV Sub HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/finland/mtv-sub-fi.png" ,MTV Sub HD
+https://live-fi.tvkaista.net/sub/live.m3u8
+#EXTINF:0 group-title="Movies and Series" tvg-id="Cinemax 2 (HD).hu" tvg-name="Cinemax 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/cinemax2-hu.png" ,Cinemax 2 HD
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/46938.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="RTL KETTŐ (HD).hu" tvg-name="RTL Kettő HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/rtl-ketto-hu.png" ,RTL Kettő HD
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/491.ts
 #EXTINF:0 group-title="News" tvg-id="DRS Test.be" tvg-name="TV5Monde Info HD" tvg-logo="https://i.imgur.com/fksxVA6.png" ,TV5Monde Info HD
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:0 group-title="Movies and Series" tvg-id="AXN Black" tvg-name="AXN Black" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/axn-black-pl.png" ,AXN Black
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/1711.ts
+#EXTINF:0 group-title="Documentary" tvg-id="M5 (HD).hu" tvg-name="M5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/m5-hu.png" ,M5 HD
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/20997.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Mozi+ (HD).hu" tvg-name="Mozi+ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/mozi-plus-hu.png" ,Mozi+ HD
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/40470.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Sorozat Klub.hu" tvg-name="Sorozat Klub" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sorozatklub_logo.png/1280px-Sorozatklub_logo.png" ,Sorozat Klub
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/53567.ts
-#EXTINF:0 group-title="Sports" tvg-id="Arena4 (HD).hu" tvg-name="Arena4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/arena4-hu.png" ,Arena4 HD
-http://eurotvone.com:85/live/TefikBabus/BabuusTefik/23581.ts
 #EXTINF:0 group-title="Sports" tvg-id="Spíler1 TV (HD).hu" tvg-name="Spíler1 TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/spiler-1-hu.png" ,Spíler1 TV HD
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/512.ts
 #EXTINF:0 group-title="Sports" tvg-id="Spíler2 TV (HD).hu" tvg-name="Spíler2 TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/spiler-2-hu.png" ,Spíler2 TV HD
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/513.ts
-#EXTINF:0 group-title="General" tvg-id="VRT Canvas HD.be" tvg-name="VRT Canvas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/VRT_Canvas_2023.svg/800px-VRT_Canvas_2023.svg.png" ,VRT Canvas HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=157484&extension=ts&play_token=0uqQfyaRtB&sn2=
-#EXTINF:0 group-title="Music" tvg-id="M6 Music.fr" tvg-name="M6 Music HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/m6-music-fr.png" ,M6 Music HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=44054&extension=ts&play_token=hYGX4Xit1S&sn2=
+#EXTINF:0 group-title="General" tvg-id="AVA.fi" tvg-name="MTV Ava HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/finland/mtv-ava-fi.png" ,MTV Ava HD
+https://live-fi.tvkaista.net/ava/live.m3u8
 #EXTINF:0 group-title="Movies and Series" tvg-id="Story 4 (HD).hu" tvg-name="Story4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/story4-hu.png" ,Story4
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/480.ts
+#EXTINF:0 group-title="Children" tvg-id="M2 / Petőfi (HD).hu" tvg-name="M2/M2 Petőfi HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/m2-hu.png" ,M2/M2 Petőfi HD
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/481.ts
 #EXTINF:0 group-title="General" tvg-id="ATV Spirit (HD).hu" tvg-name="ATV Spirit" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/atv-spirit-hu.png" ,ATV Spirit
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/538.ts
-#EXTINF:0 group-title="Sports" tvg-id="Match4 (HD).hu" tvg-name="Match4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/match4-hu.png" ,Match4 HD
-http://eurotvone.com:85/live/TefikBabus/BabuusTefik/41300.ts
-#EXTINF:0 group-title="General" tvg-id="RTL club HD.be" tvg-name="RTL Club HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-club-be.png" ,RTL Club HD
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=378266&extension=ts&play_token=wycr02xTiq&sn2=
+#EXTINF:0 group-title="Music" tvg-id="M6 Music.fr" tvg-name="M6 Music HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/m6-music-fr.png" ,M6 Music HD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=44054&extension=ts&play_token=hYGX4Xit1S&sn2=
 #EXTINF:0 group-title="Movies and Series" tvg-id="TV2 Comedy.hu" tvg-name="TV2 Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/tv2-comedy-hu.png" ,TV2 Comedy
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/544.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Film Mánia (HD).hu" tvg-name="Film Mánia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/film-mania-ro.png" ,Film Mánia
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/562.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="AXN White" tvg-name="AXN White" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/axn-white-pl.png" ,AXN White
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/19701.ts
-#EXTINF:0 group-title="General" tvg-id="RTLZwee.lu" tvg-name="RTL Zwee HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/RTL_Zwee_2023.svg/320px-RTL_Zwee_2023.svg.png" ,RTL Zwee HD
-https://stream.rtl.lu/data/live/tele/channel2/1080p.m3u8
+#EXTINF:0 group-title="General" tvg-id="RTL club HD.be" tvg-name="RTL Club HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-club-be.png" ,RTL Club HD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=378266&extension=ts&play_token=wycr02xTiq&sn2=
 #EXTINF:0 group-title="Music" tvg-id="Zenebutik TV.hu" tvg-name="Zenebutik" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/zenebutik-hu.png" ,Zenebutik
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/555.ts
 #EXTINF:0 group-title="Documentary" tvg-id="Viasat Explore (HD).hu" tvg-name="Viasat Explore HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/viasat-explore-hu.png" ,Viasat Explore HD
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/556.ts
 #EXTINF:0 group-title="Documentary" tvg-id="Spektrum Home (HD).hu" tvg-name="Spektrum Home" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/spektrum-home-hu.png" ,Spektrum Home
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/40919.ts
+#EXTINF:0 group-title="Sports" tvg-id="Match4 (HD).hu" tvg-name="Match4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/match4-hu.png" ,Match4 HD
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/41300.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="RTL HÁROM (HD).hu" tvg-name="RTL Három HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/rtl-harom-hu.png" ,RTL Három HD
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/46931.ts
 #EXTINF:0 group-title="Documentary" tvg-id="TV Paprika (HD).hu" tvg-name="TV Paprika" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/tv-paprika-hu.png" ,TV Paprika
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/38600.ts
+#EXTINF:0 group-title="General" tvg-id="RTLZwee.lu" tvg-name="RTL Zwee HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/RTL_Zwee_2023.svg/320px-RTL_Zwee_2023.svg.png" ,RTL Zwee HD
+https://stream.rtl.lu/data/live/tele/channel2/1080p.m3u8
 #EXTINF:0 group-title="Music" tvg-id="MCM Top.fr" tvg-name="MCM Top" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/mcm-top-fr.png" ,MCM Top
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:c7:c8:3b&stream=44061&extension=ts&play_token=UlKAwYV0sw&sn2=
 #EXTINF:0 group-title="Documentary" tvg-id="Spektrum (HD).hu" tvg-name="Spektrum HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/spektrum-hu.png" ,Spektrum HD
 http://eurotvone.com:85/live/TefikBabus/BabuusTefik/511.ts
+#EXTINF:0 group-title="Sports" tvg-id="Arena4 (HD).hu" tvg-name="Arena4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/arena4-hu.png" ,Arena4 HD
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/23581.ts
+#EXTINF:0 group-title="General" tvg-id="RTL Gold.hu" tvg-name="RTL Gold" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/rtl-gold-hu.png" ,RTL Gold
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/493.ts
+#EXTINF:0 group-title="Documentary" tvg-id="ID (HD).hu" tvg-name="Investigation Discovery HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/investigation-discovery-us.png" ,Investigation Discovery HD
+http://eurotvone.com:85/live/TefikBabus/BabuusTefik/46943.ts
