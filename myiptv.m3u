@@ -12,7 +12,7 @@ http://srvr1.torba.fun:8080/opCefGyVpO/mpegts?token=byzbvF42iRlLJZCD
 #EXTINF:0 group-title="Documentary" tvg-id="Spektrum Home (HD).hu" tvg-name="Spektrum Home" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/spektrum-home-hu.png" ,Spektrum Home
 http://srvr1.torba.fun:8080/WHLCh7R5PK/mpegts?token=byzbvF42iRlLJZCD
 #EXTINF:0 group-title="Movies and Series" tvg-id="Prime (HD).hu" tvg-name="Prime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/prime-hu.png" ,Prime
-http://srvr1.torba.fun:8080/DoQ18F0AOd/mpegts?token=byzbvF42iRlLJZCD
+http://sansat.net:88/live/02000503001881/E0G8MDG6LOKLJ3C/99293.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Universal TV HD.de" tvg-name="Universal TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/universal-tv-de.png" ,Universal TV HD
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:6E:C1&stream=505480&extension=ts&play_token=VPpHZ6kEOi
 #EXTINF:0 group-title="Sports" tvg-id="Match4 (HD).hu" tvg-name="Match4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/match4-hu.png" ,Match4 HD
