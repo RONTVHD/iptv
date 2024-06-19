@@ -1,73 +1,23 @@
 ﻿#EXTM3U
 #EXTINF:0 group-title="General" tvg-id="SRF1.ch" tvg-name="SRF 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/switzerland/srf-1-ch.png" ,SRF 1 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:6E:C1&stream=586352&extension=ts&play_token=OLdecmyS3X
-#EXTINF:0 group-title="General" tvg-id="Prima.cz" tvg-name="Prima HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-cz.png" ,Prima HD
-http://srvr1.torba.fun:8080/5TWFaJexV2/mpegts?token=byzbvF42iRlLJZCD
-#EXTINF:0 group-title="General" tvg-id="Nova TV.cz" tvg-name="TV Nova HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cz.png" ,Nova HD
-http://srvr1.torba.fun:8080/D4PLUCaIUd/mpegts?token=byzbvF42iRlLJZCD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/7447.ts
+#EXTINF:0 group-title="General" tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" ,TF1 HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/1158.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Ale kino+ HD.pl" tvg-name="Ale Kino+ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/ale-kino-plus-pl.png" ,Ale Kino+ HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:6E:C1&stream=520046&extension=ts&play_token=Zurr34WjPc
-#EXTINF:0 group-title="Movies and Series" tvg-id="Izaura TV (HD).hu" tvg-name="Izaura TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/izaura-tv-hu.png" ,Izaura TV
-http://srvr1.torba.fun:8080/opCefGyVpO/mpegts?token=byzbvF42iRlLJZCD
-#EXTINF:0 group-title="Documentary" tvg-id="Spektrum Home (HD).hu" tvg-name="Spektrum Home" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/spektrum-home-hu.png" ,Spektrum Home
-http://srvr1.torba.fun:8080/WHLCh7R5PK/mpegts?token=byzbvF42iRlLJZCD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/489333.ts
+#EXTINF:0 group-title="Sports" tvg-id="Sky Sport Top Event HD.de" tvg-name="Sky Sport Top Event HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/hd/sky-sport-top-event-hd-alt-de.png" ,Sky Sport Top Event HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/426454.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Prime (HD).hu" tvg-name="Prime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/prime-hu.png" ,Prime
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:6E:C1&stream=729822&extension=ts&play_token=jWb0aiYAzT
-#EXTINF:0 group-title="Movies and Series" tvg-id="Universal TV HD.de" tvg-name="Universal TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/universal-tv-de.png" ,Universal TV HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:6E:C1&stream=505480&extension=ts&play_token=VPpHZ6kEOi
-#EXTINF:0 group-title="Sports" tvg-id="Match4 (HD).hu" tvg-name="Match4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/match4-hu.png" ,Match4 HD
-http://srvr1.torba.fun:8080/QZdPV2KePc/mpegts?token=byzbvF42iRlLJZCD
-#EXTINF:0 group-title="Documentary" tvg-id="CANAL+ DOMO HD.pl" tvg-name="Canal+ Domo HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-domo-hd-pl.png" ,Canal+ Domo HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:6E:C1&stream=519777&extension=ts&play_token=IWKQy2ViwF
-#EXTINF:0 group-title="General" tvg-id="RTL.de" tvg-name="RTL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rtl-de.png" ,RTL HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:6E:C1&stream=505449&extension=ts&play_token=yvyb10EubP
-#EXTINF:0 group-title="Documentary" tvg-id="Love Nature (HD / 4K).hu" tvg-name="Love Nature HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/love-nature-es.png" ,Love Nature HD
-http://srvr1.torba.fun:8080/p0c4v0xIKw/mpegts?token=byzbvF42iRlLJZCD
-#EXTINF:0 group-title="Children" tvg-id="Polsat Games HD.pl" tvg-name="Polsat Games HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-games-pl.png" ,Polsat Games HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:6E:C1&stream=519792&extension=ts&play_token=6tERT9Gnpn
-#EXTINF:0 group-title="General" tvg-id="Sat.1.de" tvg-name="Sat.1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sat-1-de.png" ,Sat.1 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:6E:C1&stream=455077&extension=ts&play_token=y21oOHTpvw
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/275375.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="CANAL+ PREMIUM HD.pl" tvg-name="Canal+ Premium HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-premium-pl.png" ,Canal+ Premium HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/489417.ts
+#EXTINF:0 group-title="Music" tvg-id="Stingray: Nature.ca" tvg-name="Stingray Naturespace HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/stingray-naturescape-vod-us.png" ,Stingray Naturespace HD
+https://r.mjh.nz/PlutoTV/5812bd9f249444e05d09cc4e-alt.m3u8
+#EXTINF:0 group-title="Movies and Series" tvg-id="Direct One TV (HD).hu" tvg-name="Direct One TV HD" tvg-logo="https://m7cdn.io/directone/img/DIRECT-ONE-Logo-Colour-RGB.png" ,Direct One TV HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/493871.ts
+#EXTINF:0 group-title="Sports" tvg-id="Eurosport 1 (HD).hu" tvg-name="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-1-fr.png" ,Eurosport 1 HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/144604.ts
+#EXTINF:0 group-title="Sports" tvg-id="Eurosport 2 (HD).hu" tvg-name="Eurosport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-2-fr.png" ,Eurosport 2 HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/144605.ts
 #EXTINF:0 group-title="General" tvg-id="TVP Rozrywka.pl" tvg-name="TVP Rozrywka" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-rozrywka-pl.png" ,TVP Rozrywka
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:6E:C1&stream=519765&extension=ts&play_token=Hhst2Xcp7V
-#EXTINF:0 group-title="General" tvg-id="Channel5HD.uk" tvg-name="Channel 5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png" ,Channel 5 HD
-http://is.flakez.art/live/2280@ip.com/cj3H3fQ/71391.ts
-#EXTINF:0 group-title="General" tvg-id="Sky Showcase HD.de" tvg-name="Sky Showcase HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-showcase-de.png" ,Sky Showcase HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:6E:C1&stream=505471&extension=ts&play_token=f8UB8wp4zr
-#EXTINF:0 group-title="Documentary" tvg-id="RTL Living.de" tvg-name="RTL Living HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rtl-living-de.png" ,RTL Living HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:6E:C1&stream=505458&extension=ts&play_token=79iCGenJTF
-#EXTINF:0 group-title="General" tvg-id="Super TV2 (HD).hu" tvg-name="SuperTV2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/tv2-super-hu.png" ,SuperTV2
-http://srvr1.torba.fun:8080/wDMf8rogr6/mpegts?token=byzbvF42iRlLJZCD
-#EXTINF:0 group-title="General" tvg-id="Max 4.hu" tvg-name="Max4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/max4-hu.png" ,Max4
-http://srvr1.torba.fun:8080/oA3FbkkFqV/mpegts?token=byzbvF42iRlLJZCD
-#EXTINF:0 group-title="General" tvg-id="TVP HD.pl" tvg-name="TVP HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-hd-pl.png" ,TVP HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:6E:C1&stream=519731&extension=ts&play_token=fomEGiE5UJ
-#EXTINF:0 group-title="Sports" tvg-id="Auto Motor Sport (HD).hu" tvg-name="auto motor und sport channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/auto-motor-und-sport-de.png" ,auto motor und sport channel
-http://srvr1.torba.fun:8080/hNxmBELPA2/mpegts?token=byzbvF42iRlLJZCD
-#EXTINF:0 group-title="Sports" tvg-id="Arena4 (HD).hu" tvg-name="Arena4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/arena4-hu.png" ,Arena4 HD
-http://srvr1.torba.fun:8080/vLeO5OS4G0/mpegts?token=byzbvF42iRlLJZCD
-#EXTINF:0 group-title="General" tvg-id="JOJ.cz" tvg-name="TV JOJ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-sk.png" ,TV JOJ HD
-http://srvr1.torba.fun:8080/kCAHWysfpF/mpegts?token=byzbvF42iRlLJZCD
-#EXTINF:0 group-title="Movies and Series" tvg-id="RTL Crime.de" tvg-name="RTL Crime HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rtl-crime-de.png" ,RTL Crime HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:6E:C1&stream=505459&extension=ts&play_token=gDfmdv8cQ8
-#EXTINF:0 group-title="Movies and Series" tvg-id="Story 4 (HD).hu" tvg-name="Story4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/story4-hu.png" ,Story4
-http://srvr1.torba.fun:8080/ALHHNH3MSv/mpegts?token=byzbvF42iRlLJZCD
-#EXTINF:0 group-title="General" tvg-id="Markiza.sk" tvg-name="TV Markíza HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png" ,TV Markíza HD
-http://srvr1.torba.fun:8080/FGmsa7TXkx/mpegts?token=byzbvF42iRlLJZCD
-#EXTINF:0 group-title="Documentary" tvg-id="Prima Show.cz" tvg-name="Prima Show" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-show-cz.png" ,Prima Show
-http://srvr1.torba.fun:8080/NvNtusnNXW/mpegts?token=byzbvF42iRlLJZCD
-#EXTINF:0 group-title="Sports" tvg-id="CANAL+ Sport HD.pl" tvg-name="Canal+ Sport HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-sport-pl.png" ,Canal+ Sport HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:6E:C1&stream=520178&extension=ts&play_token=S2VmaXVe3H
-#EXTINF:0 group-title="Sports" tvg-id="CANAL+ Sport 2 HD.pl" tvg-name="Canal+ Sport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-sport-2-pl.png" ,Canal+ Sport 2 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:6E:C1&stream=520182&extension=ts&play_token=jJZv5CK627
-#EXTINF:0 group-title="Sports" tvg-id="CANAL+ Sport 3 HD.pl" tvg-name="Canal+ Sport 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-sport-3-pl.png" ,Canal+ Sport 3 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:6E:C1&stream=520183&extension=ts&play_token=ydNoH8x6WQ
-#EXTINF:0 group-title="Sports" tvg-id="CANAL+ Sport 4 HD.pl" tvg-name="Canal+ Sport 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-sport-4-pl.png" ,Canal+ Sport 4 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:6E:C1&stream=520184&extension=ts&play_token=6PVVap8j2a
-#EXTINF:0 group-title="Sports" tvg-id="CANAL+ Sport 5 HD.pl" tvg-name="Canal+ Sport 5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-sport-5-pl.png" ,Canal+ Sport 5 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:6E:C1&stream=653035&extension=ts&play_token=LrSp7PGB7f
-#EXTINF:0 group-title="Movies and Series" tvg-id="Moziverzum (HD).hu" tvg-name="Moziverzum" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/moziverzum-hu.png" ,Moziverzum
-http://srvr1.torba.fun:8080/CUEzl8GPpB/mpegts?token=byzbvF42iRlLJZCD
-#EXTINF:0 group-title="Movies and Series" tvg-id="NITRO.de" tvg-name="Nitro HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/nitro-de.png" ,Nitro HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:6E:C1&stream=505457&extension=ts&play_token=UqrAc1isN6
-#EXTINF:0 group-title="Movies and Series" tvg-id="RTL Passion.de" tvg-name="RTL Passion HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rtl-passion-de.png" ,RTL Passion HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:6E:C1&stream=505460&extension=ts&play_token=QP7lldDNQ3
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/489338.ts
