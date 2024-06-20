@@ -5,19 +5,37 @@ http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/7447.ts
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/1158.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Ale kino+ HD.pl" tvg-name="Ale Kino+ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/ale-kino-plus-pl.png" ,Ale Kino+ HD
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/489333.ts
+#EXTINF:0 group-title="Music" tvg-id="Polsat Music HD.pl" tvg-name="Polsat Music HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-music-hd-pl.png" ,Polsat Music HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/170410.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="CANAL+ PREMIUM HD.pl" tvg-name="Canal+ Premium HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-premium-pl.png" ,Canal+ Premium HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/489417.ts
 #EXTINF:0 group-title="Sports" tvg-id="Sky Sport Top Event HD.de" tvg-name="Sky Sport Top Event HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/hd/sky-sport-top-event-hd-alt-de.png" ,Sky Sport Top Event HD
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/426454.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Prime (HD).hu" tvg-name="Prime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/prime-hu.png" ,Prime
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/275375.ts
-#EXTINF:0 group-title="Movies and Series" tvg-id="CANAL+ PREMIUM HD.pl" tvg-name="Canal+ Premium HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-premium-pl.png" ,Canal+ Premium HD
-http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/489417.ts
 #EXTINF:0 group-title="Music" tvg-id="Stingray: Nature.ca" tvg-name="Stingray Naturespace HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/stingray-naturescape-vod-us.png" ,Stingray Naturespace HD
 https://r.mjh.nz/PlutoTV/5812bd9f249444e05d09cc4e-alt.m3u8
 #EXTINF:0 group-title="Movies and Series" tvg-id="Direct One TV (HD).hu" tvg-name="Direct One TV HD" tvg-logo="https://m7cdn.io/directone/img/DIRECT-ONE-Logo-Colour-RGB.png" ,Direct One TV HD
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/493871.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="CANAL+ Film HD.pl" tvg-name="Canal+ Film HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-film-pl.png" ,Canal+ Film HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/489410.ts
 #EXTINF:0 group-title="Sports" tvg-id="Eurosport 1 (HD).hu" tvg-name="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-1-fr.png" ,Eurosport 1 HD
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/144604.ts
 #EXTINF:0 group-title="Sports" tvg-id="Eurosport 2 (HD).hu" tvg-name="Eurosport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-2-fr.png" ,Eurosport 2 HD
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/144605.ts
+#EXTINF:0 group-title="General" tvg-id="Polsat HD.pl" tvg-name="Polsat HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-pl.png" ,Polsat HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/489426.ts
+#EXTINF:0 group-title="Children" tvg-id="TIJI.fr" tvg-name="Tiji HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tiji-fr.png" ,Tiji HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/197279.ts
+#EXTINF:0 group-title="Documentary" tvg-id="CANAL+ DOKUMENT HD.pl" tvg-name="Canal+ Dokument HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-dokument-pl.png" ,Canal+ Dokument HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/489414.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="COSMOTE SERIES HD" tvg-name="Cosmote Series HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote-series-gr.png" ,Cosmote Series HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/211256.ts
+#EXTINF:0 group-title="Children" tvg-id="Polsat Games HD.pl" tvg-name="Polsat Games HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-games-pl.png" ,Polsat Games HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/489342.ts
 #EXTINF:0 group-title="General" tvg-id="TVP Rozrywka.pl" tvg-name="TVP Rozrywka" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-rozrywka-pl.png" ,TVP Rozrywka
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/489338.ts
+#EXTINF:0 group-title="Documentary" tvg-id="COSMOTE HISTORY HD" tvg-name="Cosmote History HD" tvg-logo="https://i.imgur.com/f1mlRvf.png" ,Cosmote History HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/211283.ts
+#EXTINF:0 group-title="General" tvg-id="Rai 1 HD.it" tvg-name="Rai 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/hd/rai-1-hd-it.png" ,Rai 1 HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/169400.ts
