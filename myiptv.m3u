@@ -14,28 +14,68 @@ http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/426454.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Prime (HD).hu" tvg-name="Prime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/prime-hu.png" ,Prime
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/275375.ts
 #EXTINF:0 group-title="Music" tvg-id="Stingray: Nature.ca" tvg-name="Stingray Naturespace HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/stingray-naturescape-vod-us.png" ,Stingray Naturespace HD
-https://r.mjh.nz/PlutoTV/5812bd9f249444e05d09cc4e-alt.m3u8
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 #EXTINF:0 group-title="Movies and Series" tvg-id="Direct One TV (HD).hu" tvg-name="Direct One TV HD" tvg-logo="https://m7cdn.io/directone/img/DIRECT-ONE-Logo-Colour-RGB.png" ,Direct One TV HD
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/493871.ts
+#EXTINF:0 group-title="General" tvg-id="SWR Baden-Württemberg.de" tvg-name="SWR HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/swr-de.png" ,SWR HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/3421.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="CANAL+ Film HD.pl" tvg-name="Canal+ Film HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-film-pl.png" ,Canal+ Film HD
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/489410.ts
 #EXTINF:0 group-title="Sports" tvg-id="Eurosport 1 (HD).hu" tvg-name="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-1-fr.png" ,Eurosport 1 HD
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/144604.ts
 #EXTINF:0 group-title="Sports" tvg-id="Eurosport 2 (HD).hu" tvg-name="Eurosport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-2-fr.png" ,Eurosport 2 HD
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/144605.ts
-#EXTINF:0 group-title="General" tvg-id="Polsat HD.pl" tvg-name="Polsat HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-pl.png" ,Polsat HD
-http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/489426.ts
-#EXTINF:0 group-title="Children" tvg-id="TIJI.fr" tvg-name="Tiji HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tiji-fr.png" ,Tiji HD
-http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/197279.ts
-#EXTINF:0 group-title="Documentary" tvg-id="CANAL+ DOKUMENT HD.pl" tvg-name="Canal+ Dokument HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-dokument-pl.png" ,Canal+ Dokument HD
-http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/489414.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="COSMOTE SERIES HD" tvg-name="Cosmote Series HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote-series-gr.png" ,Cosmote Series HD
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/211256.ts
+#EXTINF:0 group-title="General" tvg-id="Polsat HD.pl" tvg-name="Polsat HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-pl.png" ,Polsat HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/489426.ts
+#EXTINF:0 group-title="General" tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/m6-fr.png" ,M6 HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/29962.ts
+#EXTINF:0 group-title="Children" tvg-id="TIJI.fr" tvg-name="Tiji HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tiji-fr.png" ,Tiji HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/197279.ts
+#EXTINF:0 group-title="Sports" tvg-id="Sky Sport Mix HD.de" tvg-name="Sky Sport Mix HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-mix-alt-de.png" ,Sky Sport Mix HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/426456.ts
+#EXTINF:0 group-title="Documentary" tvg-id="CANAL+ DOKUMENT HD.pl" tvg-name="Canal+ Dokument HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-dokument-pl.png" ,Canal+ Dokument HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/489414.ts
+#EXTINF:0 group-title="General" tvg-id="Rai 1 HD.it" tvg-name="Rai 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/hd/rai-1-hd-it.png" ,Rai 1 HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/169400.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Mozi+ (HD).hu" tvg-name="Mozi+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/mozi-plus-hu.png" ,Mozi+
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/275370.ts
 #EXTINF:0 group-title="Children" tvg-id="Polsat Games HD.pl" tvg-name="Polsat Games HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-games-pl.png" ,Polsat Games HD
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/489342.ts
 #EXTINF:0 group-title="General" tvg-id="TVP Rozrywka.pl" tvg-name="TVP Rozrywka" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-rozrywka-pl.png" ,TVP Rozrywka
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/489338.ts
 #EXTINF:0 group-title="Documentary" tvg-id="COSMOTE HISTORY HD" tvg-name="Cosmote History HD" tvg-logo="https://i.imgur.com/f1mlRvf.png" ,Cosmote History HD
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/211283.ts
-#EXTINF:0 group-title="General" tvg-id="Rai 1 HD.it" tvg-name="Rai 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/hd/rai-1-hd-it.png" ,Rai 1 HD
-http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/169400.ts
+#EXTINF:0 group-title="General" tvg-id="Rai 2 HD.it" tvg-name="Rai 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/hd/rai-2-hd-it.png" ,Rai 2 HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/169401.ts
+#EXTINF:0 group-title="Sports" tvg-id="Sky Sport News HD.de" tvg-name="Sky Sport News HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-news-alt-de.png" ,Sky Sport News HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/132799.ts
+#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 1 HD.de" tvg-name="Sky Sport 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-1-alt-de.png" ,Sky Sport 1 HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/378153.ts
+#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 2 HD.de" tvg-name="Sky Sport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-2-alt-de.png" ,Sky Sport 2 HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/378152.ts
+#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 3 HD.de" tvg-name="Sky Sport 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-3-alt-de.png" ,Sky Sport 3 HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/378150.ts
+#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 4 HD.de" tvg-name="Sky Sport 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-4-alt-de.png" ,Sky Sport 4 HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/378149.ts
+#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 5 HD.de" tvg-name="Sky Sport 5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-5-alt-de.png" ,Sky Sport 5 HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/378148.ts
+#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 6 HD.de" tvg-name="Sky Sport 6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-6-alt-de.png" ,Sky Sport 6 HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/378147.ts
+#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 7 HD.de" tvg-name="Sky Sport 7 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-7-alt-de.png" ,Sky Sport 7 HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/378146.ts
+#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 8 HD.de" tvg-name="Sky Sport 8 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-8-alt-de.png" ,Sky Sport 8 HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/378145.ts
+#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 9 HD.de" tvg-name="Sky Sport 9 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-9-alt-de.png" ,Sky Sport 9 HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/378144.ts
+#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 10 HD.de" tvg-name="Sky Sport 10 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-10-alt-de.png" ,Sky Sport 10 HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/378143.ts
+#EXTINF:0 group-title="General" tvg-id="WDR Dortmund.de" tvg-name="WDR HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/wdr-de.png" ,WDR HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/483968.ts
+#EXTINF:0 group-title="General" tvg-id="Sat.1.de" tvg-name="Sat.1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sat-1-de.png" ,Sat.1 HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/132821.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Moziverzum (HD).hu" tvg-name="Moziverzum" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/moziverzum-hu.png" ,Moziverzum
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/275406.ts
+#EXTINF:0 group-title="Documentary" tvg-id="Ushuaïa TV.fr" tvg-name="Ushuaïa TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/ushuaia-tv-fr.png" ,Ushuaïa TV HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/2549.ts
