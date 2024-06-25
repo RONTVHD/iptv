@@ -79,3 +79,5 @@ http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/132821.ts
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/275406.ts
 #EXTINF:0 group-title="Documentary" tvg-id="Ushuaïa TV.fr" tvg-name="Ushuaïa TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/ushuaia-tv-fr.png" ,Ushuaïa TV HD
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/2549.ts
+#EXTINF:0 group-title="General" tvg-id="C8.fr" tvg-name="C8 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c8-fr.png" ,C8 HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/134234.ts
