@@ -35,8 +35,6 @@ http://dmtn.tv:8080/play/live.php?mac=00:1a:79:75:d3:6e&stream=423385&extension=
 http://dmtn.tv:8080/play/live.php?mac=00:1a:79:75:d3:6e&stream=242486&extension=ts&play_token=lS4EZrQ4nU
 #EXTINF:0 group-title="France TNT" tvg-id="C482.api.telerama.fr" tvg-name="Gulli HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/gulli-fr.png" ,Gulli HD
 http://dmtn.tv:8080/play/live.php?mac=00:1a:79:75:d3:6e&stream=112912&extension=ts&play_token=fi0QyFMtVI
-#EXTINF:0 group-title="France TNT - Custom" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/TFOU_2007.svg/1200px-TFOU_2007.svg.png" ,TFOU HD
-http://dmtn.tv:8080/play/live.php?mac=00:1a:79:75:d3:6e&stream=566218&extension=ts&play_token=oZd6uvDkHE
 #EXTINF:0 group-title="France TNT" tvg-id="C1404.api.telerama.fr" tvg-name="TF1 Séries Films HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-series-films-fr.png" ,TF1 Séries Films HD
 http://dmtn.tv:8080/play/live.php?mac=00:1a:79:75:d3:6e&stream=242470&extension=ts&play_token=dJIHX59Ufv
 #EXTINF:0 group-title="France TNT" tvg-id="C1401.api.telerama.fr" tvg-name="L'Équipe HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lequipe-fr.png" ,L'Équipe HD
