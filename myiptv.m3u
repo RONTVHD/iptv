@@ -14,7 +14,7 @@ http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/7614.ts
 #EXTINF:0 group-title="Sports" tvg-id="Sky Sport Top Event HD.de" tvg-name="Sky Sport Top Event HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/hd/sky-sport-top-event-hd-alt-de.png" ,Sky Sport Top Event HD
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/426454.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Prime (HD).hu" tvg-name="Prime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/prime-hu.png" ,Prime
-http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/275375.m3u8
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/275375.ts
 #EXTINF:0 group-title="Music" tvg-id="Stingray: Nature.ca" tvg-name="Stingray Naturespace HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/stingray-naturescape-vod-us.png" ,Stingray Naturespace HD
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 #EXTINF:0 group-title="Movies and Series" tvg-id="Direct One TV (HD).hu" tvg-name="Direct One TV HD" tvg-logo="https://m7cdn.io/directone/img/DIRECT-ONE-Logo-Colour-RGB.png" ,Direct One TV HD
@@ -33,6 +33,8 @@ http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/211256.ts
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/489426.ts
 #EXTINF:0 group-title="General" tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/m6-fr.png" ,M6 HD
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/m6.m3u8
+#EXTINF:0 group-title="Movies and Series" tvg-id="Jocky TV.hu" tvg-name="Jocky TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/jocky-tv-hu.png" ,Jocky TV
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/275405.ts
 #EXTINF:0 group-title="Children" tvg-id="TIJI.fr" tvg-name="Tiji HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tiji-fr.png" ,Tiji HD
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/197279.ts
 #EXTINF:0 group-title="General" tvg-id="C8.fr" tvg-name="C8 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c8-fr.png" ,C8 HD
@@ -63,6 +65,8 @@ http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/169401.ts
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
 #EXTINF:0 group-title="Movies and Series" tvg-id="Polsat Film HD.pl" tvg-name="Polsat Film HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-film-pl.png" ,Polsat Film HD
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/7373.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="TV2 Comedy.hu" tvg-name="TV2 Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/tv2-comedy-hu.png" ,TV2 Comedy
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/314473.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Novalife" tvg-name="Nova Life HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/nova-life-gr.png" ,Nova Life HD
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/211241.ts
 #EXTINF:0 group-title="Sports" tvg-id="Sky Sport News HD.de" tvg-name="Sky Sport News HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-news-alt-de.png" ,Sky Sport News HD
