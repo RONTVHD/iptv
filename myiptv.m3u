@@ -14,7 +14,7 @@ http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/7614.ts
 #EXTINF:0 group-title="Sports" tvg-id="Sky Sport Top Event HD.de" tvg-name="Sky Sport Top Event HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/hd/sky-sport-top-event-hd-alt-de.png" ,Sky Sport Top Event HD
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/426454.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Prime (HD).hu" tvg-name="Prime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/prime-hu.png" ,Prime
-http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/275375.ts
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/275375.m3u8
 #EXTINF:0 group-title="Music" tvg-id="Stingray: Nature.ca" tvg-name="Stingray Naturespace HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/stingray-naturescape-vod-us.png" ,Stingray Naturespace HD
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 #EXTINF:0 group-title="Movies and Series" tvg-id="Direct One TV (HD).hu" tvg-name="Direct One TV HD" tvg-logo="https://m7cdn.io/directone/img/DIRECT-ONE-Logo-Colour-RGB.png" ,Direct One TV HD
