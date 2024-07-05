@@ -35,8 +35,8 @@ http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/489426.ts
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/m6.m3u8
 #EXTINF:0 group-title="Movies and Series" tvg-id="Jocky TV.hu" tvg-name="Jocky TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/jocky-tv-hu.png" ,Jocky TV
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/275405.ts
-#EXTINF:0 group-title="Children" tvg-id="TIJI.fr" tvg-name="Tiji HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tiji-fr.png" ,Tiji HD
-http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/197279.ts
+#EXTINF:0 group-title="General" tvg-id="ANT1 HD" tvg-name="Ant1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/ant1-gr.png" ,Ant1 HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/211320.ts
 #EXTINF:0 group-title="General" tvg-id="C8.fr" tvg-name="C8 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c8-fr.png" ,C8 HD
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/c8.m3u8
 #EXTINF:0 group-title="General" tvg-id="Paris Première.fr" tvg-name="Paris Première HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/paris-premiere-fr.png" ,Paris Première HD
@@ -49,6 +49,8 @@ http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/426456.ts
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/489414.ts
 #EXTINF:0 group-title="General" tvg-id="Rai 1 HD.it" tvg-name="Rai 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/hd/rai-1-hd-it.png" ,Rai 1 HD
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/169400.ts
+#EXTINF:0 group-title="General" tvg-id="TFX.fr" tvg-name="TFX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tfx-fr.png" ,TFX HD
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
 #EXTINF:0 group-title="Movies and Series" tvg-id="Mozi+ (HD).hu" tvg-name="Mozi+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/mozi-plus-hu.png" ,Mozi+
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/275370.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Polsat Seriale HD.pl" tvg-name="Polsat Seriale HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-seriale-pl.png" ,Polsat Seriale HD
@@ -61,14 +63,12 @@ http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/211283.ts
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/483968.ts
 #EXTINF:0 group-title="General" tvg-id="Rai 2 HD.it" tvg-name="Rai 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/hd/rai-2-hd-it.png" ,Rai 2 HD
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/169401.ts
-#EXTINF:0 group-title="General" tvg-id="TFX.fr" tvg-name="TFX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tfx-fr.png" ,TFX HD
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
+#EXTINF:0 group-title="Children" tvg-id="TIJI.fr" tvg-name="Tiji HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tiji-fr.png" ,Tiji HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/197279.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Polsat Film HD.pl" tvg-name="Polsat Film HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-film-pl.png" ,Polsat Film HD
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/7373.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="TV2 Comedy.hu" tvg-name="TV2 Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/tv2-comedy-hu.png" ,TV2 Comedy
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/314473.ts
-#EXTINF:0 group-title="Movies and Series" tvg-id="Novalife" tvg-name="Nova Life HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/nova-life-gr.png" ,Nova Life HD
-http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/211241.ts
 #EXTINF:0 group-title="Sports" tvg-id="Sky Sport News HD.de" tvg-name="Sky Sport News HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-news-alt-de.png" ,Sky Sport News HD
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/132799.ts
 #EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 1 HD.de" tvg-name="Sky Sport 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-1-alt-de.png" ,Sky Sport 1 HD
@@ -105,15 +105,15 @@ http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/2549.ts
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/218636.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Novelas+.pl" tvg-name="Novelas+ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/novelas-plus-pl.png" ,Novelas+ HD
 http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/432292.ts
-#EXTINF:0 group-title="General" tvg-id="ANT1 HD" tvg-name="Ant1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/ant1-gr.png" ,Ant1 HD
-http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/211320.ts
-#EXTINF:0 group-title="Movies and Series" tvg-id="Novacinema1" tvg-name="Nova Cinema 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/nova-cinema-1-gr.png" ,Nova Cinema 1 HD
-http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/398700.ts
-#EXTINF:0 group-title="Movies and Series" tvg-id="Novacinema2" tvg-name="Nova Cinema 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/nova-cinema-2-gr.png" ,Nova Cinema 2 HD
-http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/320326.ts
-#EXTINF:0 group-title="Movies and Series" tvg-id="Novacinema3" tvg-name="Nova Cinema 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/nova-cinema-3-gr.png" ,Nova Cinema 3 HD
-http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/320327.ts
-#EXTINF:0 group-title="Movies and Series" tvg-id="Novacinema4" tvg-name="Nova Cinema 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/nova-cinema-4-gr.png" ,Nova Cinema 4 HD
-http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/398697.ts
-#EXTINF:0 group-title="Movies and Series" tvg-id="FX" tvg-name="FX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/fx-gr.png" ,FX HD
-http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/211257.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Ciné+ Premier.fr" tvg-name="OCS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/OCS2024.png" ,OCS HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/1473.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Ciné+ Frisson.fr" tvg-name="Ciné+ Frisson HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cin%C3%A9%2BFrisson2024.svg/1024px-Cin%C3%A9%2BFrisson2024.svg.png" ,Ciné+ Frisson HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/524.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Ciné+ Emotion.fr" tvg-name="Ciné+ Émotion HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cin%C3%A9%2B%C3%89motion2024.svg/1024px-Cin%C3%A9%2B%C3%89motion2024.svg.png" ,Ciné+ Émotion HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/1474.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Ciné+ Famiz.fr" tvg-name="Ciné+ Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Cin%C3%A9%2BFamily2024.svg/1024px-Cin%C3%A9%2BFamily2024.svg.png" ,Ciné+ Family HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/523.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Ciné+ Club.fr" tvg-name="Ciné+ Festival HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Cin%C3%A9%2BFestival2024.svg/1024px-Cin%C3%A9%2BFestival2024.svg.png" ,Ciné+ Festival HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/8560.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Ciné+ Classic.fr" tvg-name="Ciné+ Classic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Cin%C3%A9%2BClassic2024.svg/1024px-Cin%C3%A9%2BClassic2024.svg.png" ,Ciné+ Classic HD
+http://sltv.life:8080/live/sivankucuktv1/c0B3wx51rS/1480.ts
