@@ -1,6 +1,6 @@
 ﻿#EXTM3U
-#EXTINF:0 group-title="General" tvg-id="TVP HD.pl" tvg-name="TVP HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-hd-pl.png" ,TVP HD
-http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/6426.ts
+#EXTINF:0 group-title="General" tvg-id="Das Erste.de" tvg-name="Das Erste HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/hd/das-erste-hd-de.png" ,Das Erste HD
+http://elit64.xyz/live/daviderdo/dzKZMJB0WG/338.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="CANAL+ PREMIUM HD.pl" tvg-name="Canal+ Premium HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-premium-pl.png" ,Canal+ Premium HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/86596.ts
 #EXTINF:0 group-title="General" tvg-id="3sat.de" tvg-name="3sat HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/hd/3sat-hd-de.png" ,3sat HD
@@ -31,6 +31,8 @@ http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/10428.ts
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/898.ts
 #EXTINF:0 group-title="General" tvg-id="ZOOM TV.pl" tvg-name="Zoom TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/zoom-tv-pl.png" ,Zoom TV
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/10411.ts
+#EXTINF:0 group-title="General" tvg-id="TVP Rozrywka.pl" tvg-name="TVP Rozrywka" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-rozrywka-pl.png" ,TVP Rozrywka
+http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/883.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="CANAL+ Film HD.pl" tvg-name="Canal+ Film HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-film-pl.png" ,Canal+ Film HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/952.ts
 #EXTINF:0 group-title="General" tvg-id="Nova HD.cz" tvg-name="Nova HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cz.png" ,Nova HD
@@ -39,8 +41,10 @@ http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/6834.ts
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/888.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="serieclub.fr" tvg-name="SerieClub HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/serie-club-fr.png" ,SerieClub HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/1449.ts
-#EXTINF:0 group-title="General" tvg-id="TVP Rozrywka.pl" tvg-name="TVP Rozrywka" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-rozrywka-pl.png" ,TVP Rozrywka
-http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/883.ts
+#EXTINF:0 group-title="General" tvg-id="ZDF.de" tvg-name="ZDF HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/hd/zdf-hd-de.png" ,ZDF HD
+http://elit64.xyz/live/daviderdo/dzKZMJB0WG/340.ts
+#EXTINF:0 group-title="General" tvg-id="TVP HD.pl" tvg-name="TVP HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-hd-pl.png" ,TVP HD
+http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/6426.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Mozi+ (HD).hu" tvg-name="Mozi+ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/mozi-plus-hu.png" ,Mozi+ HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/9489.ts
 #EXTINF:0 group-title="Children" tvg-id="TIJI.fr" tvg-name="Tiji HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tiji-fr.png" ,Tiji HD
@@ -73,3 +77,9 @@ http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/7537.ts
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/8906.ts
 #EXTINF:0 group-title="Sports - PPV/Events" tvg-id="beIN SPORTS MAX 10.fr" tvg-name="beIN Sports Max 10 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-10-max-hz-int.png" ,beIN Sports Max 10 HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/8905.ts
+#EXTINF:0 group-title="Documentary" tvg-id="Sky Nature HD.de" tvg-name="Sky Nature HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/hd/sky-nature-alt-hd-de.png" ,Sky Nature HD
+http://elit64.xyz/live/daviderdo/dzKZMJB0WG/26222.ts
+#EXTINF:0 group-title="Music" tvg-id="Deluxe Music.de" tvg-name="Deluxe Music HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/deluxe-music-de.png" ,Deluxe Music HD
+http://elit64.xyz/live/daviderdo/dzKZMJB0WG/441.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="TV Now DE.de" tvg-name="NOW! HD" tvg-logo="https://g-cdn-sj.eu-central-1.linodeobjects.com/sender/now-us_590.png" ,NOW! HD
+http://elit64.xyz/live/daviderdo/dzKZMJB0WG/252210.ts
