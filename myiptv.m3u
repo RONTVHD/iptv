@@ -53,14 +53,16 @@ http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/15984.ts
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/9467.ts
 #EXTINF:0 group-title="Sports" tvg-id="Sport 2 (HD).hu" tvg-name="Sport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/sport2-hu.png" ,Sport 2 HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/3586.ts
+#EXTINF:0 group-title="Documentary" tvg-id="Sky Nature HD.de" tvg-name="Sky Nature HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/hd/sky-nature-alt-hd-de.png" ,Sky Nature HD
+http://elit64.xyz/live/daviderdo/dzKZMJB0WG/26222.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="CANAL+ Seriale HD.pl" tvg-name="Canal+ Seriale HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-seriale-pl.png" ,Canal+ Seriale HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/951.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Kino Polska HD.pl" tvg-name="Kino Polska HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/kino-polska-pl.png" ,Kino Polska HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/83773.ts
-#EXTINF:0 group-title="Documentary" tvg-id="Sky Nature HD.de" tvg-name="Sky Nature HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/hd/sky-nature-alt-hd-de.png" ,Sky Nature HD
-http://elit64.xyz/live/daviderdo/dzKZMJB0WG/26222.ts
 #EXTINF:0 group-title="Music" tvg-id="Deluxe Music.de" tvg-name="Deluxe Music HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/deluxe-music-de.png" ,Deluxe Music HD
 http://elit64.xyz/live/daviderdo/dzKZMJB0WG/441.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="TV2 Comedy.hu" tvg-name="TV2 Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/tv2-comedy-hu.png" ,TV2 Comedy
+http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/9494.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="TV Now DE.de" tvg-name="NOW! HD" tvg-logo="https://g-cdn-sj.eu-central-1.linodeobjects.com/sender/now-us_590.png" ,NOW! HD
 http://elit64.xyz/live/daviderdo/dzKZMJB0WG/252210.ts
 #EXTINF:0 group-title="Sports" tvg-id="Sky Sport Top Event HD.de" tvg-name="Sky Sport Top Event HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-top-event-alt-de.png" ,Sky Sport Top Event HD
@@ -89,3 +91,5 @@ http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/12694.ts
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/4369.ts
 #EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 10 HD.de" tvg-name="Sky Sport 10 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-10-alt-de.png" ,Sky Sport 10 HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/4368.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Viasat 2.hu" tvg-name="Viasat 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/viasat2-hu.png" ,Viasat 2
+http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/79207.ts
