@@ -57,29 +57,35 @@ http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/3586.ts
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/951.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Kino Polska HD.pl" tvg-name="Kino Polska HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/kino-polska-pl.png" ,Kino Polska HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/83773.ts
-#EXTINF:0 group-title="Sports" tvg-id="beIN SPORTS 1.fr" tvg-name="beIN Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-1-hz-int.png" ,beIN Sports 1 HD
-http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/4093.ts
-#EXTINF:0 group-title="Sports" tvg-id="beIN SPORTS 2.fr" tvg-name="beIN Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-2-hz-int.png" ,beIN Sports 2 HD
-http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/4092.ts
-#EXTINF:0 group-title="Sports" tvg-id="beIN SPORTS 3.fr" tvg-name="beIN Sports 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-3-hz-int.png" ,beIN Sports 3 HD
-http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/4091.ts
-#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="beIN SPORTS MAX 4.fr" tvg-name="beIN Sports Max 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-4-max-hz-int.png" ,beIN Sports Max 4 HD
-http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/8932.ts
-#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="beIN SPORTS MAX 5.fr" tvg-name="beIN Sports Max 5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-5-max-hz-int.png" ,beIN Sports Max 5 HD
-http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/8931.ts
-#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="beIN SPORTS MAX 6.fr" tvg-name="beIN Sports Max 6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-6-max-hz-int.png" ,beIN Sports Max 6 HD
-http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/4088.ts
-#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="beIN SPORTS MAX 7.fr" tvg-name="beIN Sports Max 7 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-7-max-hz-int.png" ,beIN Sports Max 7 HD
-http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/8929.ts
-#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="beIN SPORTS MAX 8.fr" tvg-name="beIN Sports Max 8 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-8-max-hz-int.png" ,beIN Sports Max 8 HD
-http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/7537.ts
-#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="beIN SPORTS MAX 9.fr" tvg-name="beIN Sports Max 9 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-9-max-hz-int.png" ,beIN Sports Max 9 HD
-http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/8906.ts
-#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="beIN SPORTS MAX 10.fr" tvg-name="beIN Sports Max 10 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-10-max-hz-int.png" ,beIN Sports Max 10 HD
-http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/8905.ts
 #EXTINF:0 group-title="Documentary" tvg-id="Sky Nature HD.de" tvg-name="Sky Nature HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/hd/sky-nature-alt-hd-de.png" ,Sky Nature HD
 http://elit64.xyz/live/daviderdo/dzKZMJB0WG/26222.ts
 #EXTINF:0 group-title="Music" tvg-id="Deluxe Music.de" tvg-name="Deluxe Music HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/deluxe-music-de.png" ,Deluxe Music HD
 http://elit64.xyz/live/daviderdo/dzKZMJB0WG/441.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="TV Now DE.de" tvg-name="NOW! HD" tvg-logo="https://g-cdn-sj.eu-central-1.linodeobjects.com/sender/now-us_590.png" ,NOW! HD
 http://elit64.xyz/live/daviderdo/dzKZMJB0WG/252210.ts
+#EXTINF:0 group-title="Sports" tvg-id="Sky Sport Top Event HD.de" tvg-name="Sky Sport Top Event HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-top-event-alt-de.png" ,Sky Sport Top Event HD
+http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/107885.ts
+#EXTINF:0 group-title="Sports" tvg-id="Sky Sport F1 HD.de" tvg-name="Sky Sport F1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-f1-alt-de.png" ,Sky Sport F1 HD
+http://elit64.xyz/live/daviderdo/dzKZMJB0WG/251038.ts
+#EXTINF:0 group-title="Sports" tvg-id="Sky Sport Mix HD.de" tvg-name="Sky Sport Mix HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-mix-alt-de.png" ,Sky Sport Mix HD
+http://elit64.xyz/live/daviderdo/dzKZMJB0WG/102295.ts
+#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 1 HD.de" tvg-name="Sky Sport 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-1-alt-de.png" ,Sky Sport 1 HD
+http://elit64.xyz/live/daviderdo/dzKZMJB0WG/102930.ts
+#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 2 HD.de" tvg-name="Sky Sport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-2-alt-de.png" ,Sky Sport 2 HD
+http://elit64.xyz/live/daviderdo/dzKZMJB0WG/49699.ts
+#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 3 HD.de" tvg-name="Sky Sport 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-3-alt-de.png" ,Sky Sport 3 HD
+http://elit64.xyz/live/daviderdo/dzKZMJB0WG/49698.ts
+#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 4 HD.de" tvg-name="Sky Sport 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-4-alt-de.png" ,Sky Sport 4 HD
+http://elit64.xyz/live/daviderdo/dzKZMJB0WG/49697.ts
+#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 5 HD.de" tvg-name="Sky Sport 5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-5-alt-de.png" ,Sky Sport 5 HD
+http://elit64.xyz/live/daviderdo/dzKZMJB0WG/102936.ts
+#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 6 HD.de" tvg-name="Sky Sport 6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-6-alt-de.png" ,Sky Sport 6 HD
+http://elit64.xyz/live/daviderdo/dzKZMJB0WG/102935.ts
+#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 7 HD.de" tvg-name="Sky Sport 7 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-7-alt-de.png" ,Sky Sport 7 HD
+http://elit64.xyz/live/daviderdo/dzKZMJB0WG/102934.ts
+#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 8 HD.de" tvg-name="Sky Sport 8 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-8-alt-de.png" ,Sky Sport 8 HD
+http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/12694.ts
+#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 9 HD.de" tvg-name="Sky Sport 9 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-9-alt-de.png" ,Sky Sport 9 HD
+http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/4369.ts
+#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 10 HD.de" tvg-name="Sky Sport 10 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-10-alt-de.png" ,Sky Sport 10 HD
+http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/4368.ts
