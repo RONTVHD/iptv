@@ -10,7 +10,7 @@ http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/3599.ts
 #EXTINF:0 group-title="Sports" tvg-id="Eurosport 2 (HD).hu" tvg-name="Eurosport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/eurosport-2-ro.png" ,Eurosport 2 HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/12637.ts
 #EXTINF:0 group-title="General" tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/m6-fr.png" ,M6 HD
-http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/6489.ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:1E:0B&stream=43909&extension=ts&play_token=EEkF7EkBEN&sn2=
 #EXTINF:0 group-title="General" tvg-id="TVN 7 HD.pl" tvg-name="TVN 7 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvn7-hd-pl.png" ,TVN 7 HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/890.ts
 #EXTINF:0 group-title="News" tvg-id="TVP Info HD.pl" tvg-name="TVP Info HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-info-pl.png" ,TVP Info HD
@@ -20,7 +20,7 @@ http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/10448.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Sundance TV HD.pl" tvg-name="Sundance TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/sundance-tv-pl.png" ,Sundance TV HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/847.ts
 #EXTINF:0 group-title="General" tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/hd/tf1-hd-fr.png" ,TF1 HD
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:1E:0B&stream=43895&extension=ts&play_token=NlfmQqEuy6&sn2=
 #EXTINF:0 group-title="Music" tvg-id="M6 Music.fr" tvg-name="M6 Music HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/m6-music-fr.png" ,M6 Music HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/1397.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Prime (HD).hu" tvg-name="Prime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/prime-hu.png" ,Prime
@@ -59,6 +59,10 @@ http://elit64.xyz/live/daviderdo/dzKZMJB0WG/26222.ts
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/951.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Kino Polska HD.pl" tvg-name="Kino Polska HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/kino-polska-pl.png" ,Kino Polska HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/83773.ts
+#EXTINF:0 group-title="Sports" tvg-id="Match4 (HD).hu" tvg-name="Match4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/match4-hu.png" ,Match4 HD
+http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/9511.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Viasat 2.hu" tvg-name="Viasat 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/viasat2-hu.png" ,Viasat 2
+http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/79207.ts
 #EXTINF:0 group-title="Music" tvg-id="Deluxe Music.de" tvg-name="Deluxe Music HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/deluxe-music-de.png" ,Deluxe Music HD
 http://elit64.xyz/live/daviderdo/dzKZMJB0WG/441.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="TV2 Comedy.hu" tvg-name="TV2 Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/tv2-comedy-hu.png" ,TV2 Comedy
@@ -91,5 +95,19 @@ http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/12694.ts
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/4369.ts
 #EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 10 HD.de" tvg-name="Sky Sport 10 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-10-alt-de.png" ,Sky Sport 10 HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/4368.ts
-#EXTINF:0 group-title="Movies and Series" tvg-id="Viasat 2.hu" tvg-name="Viasat 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/viasat2-hu.png" ,Viasat 2
-http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/79207.ts
+#EXTINF:0 group-title="General" tvg-id="Super TV2 (HD).hu" tvg-name="SuperTV2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/tv2-super-hu.png" ,SuperTV2
+http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/9425.ts
+#EXTINF:0 group-title="Sports" tvg-id="Arena4 (HD).hu" tvg-name="Arena4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/arena4-hu.png" ,Arena4 HD
+http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/104360.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Ciné+ Premier.fr" tvg-name="OCS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/OCS_2024.svg/1024px-OCS_2024.svg.png" ,OCS HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:1E:0B&stream=43909&extension=ts&play_token=EEkF7EkBEN&sn2=
+#EXTINF:0 group-title="Movies and Series" tvg-id="Ciné+ Frisson.fr" tvg-name="Ciné+ Frisson HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/cine-plus-frisson-fr.png" ,Ciné+ Frisson HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:1E:0B&stream=43983&extension=ts&play_token=Ncq3pkwo3X&sn2=
+#EXTINF:0 group-title="Movies and Series" tvg-id="Ciné+ Emotion.fr" tvg-name="Ciné+ Emotion HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/cine-plus-emotion-fr.png" ,Ciné+ Emotion HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:1E:0B&stream=43984&extension=ts&play_token=vqVVloioVo&sn2=
+#EXTINF:0 group-title="Movies and Series" tvg-id="Ciné+ Famiz.fr" tvg-name="Ciné+ Family HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/cine-plus-family-fr.png" ,Ciné+ Family HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:1E:0B&stream=43986&extension=ts&play_token=RSByCgTXiQ&sn2=
+#EXTINF:0 group-title="Movies and Series" tvg-id="Ciné+ Club.fr" tvg-name="Ciné+ Festival HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/cine-plus-festival-fr.png" ,Ciné+ Festival HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:1E:0B&stream=43990&extension=ts&play_token=ZfGYHwt2Do&sn2=
+#EXTINF:0 group-title="Movies and Series" tvg-id="Ciné+ Classic.fr" tvg-name="Ciné+ Classic HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/cine-plus-classic-fr.png" ,Ciné+ Classic HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:1E:0B&stream=43988&extension=ts&play_token=p8ejmaiQ9X&sn2=
