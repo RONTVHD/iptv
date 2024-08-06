@@ -1,16 +1,14 @@
 ﻿#EXTM3U
-#EXTINF:0 group-title="General" tvg-id="Das Erste.de" tvg-name="Das Erste HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/hd/das-erste-hd-de.png" ,Das Erste HD
-http://elit64.xyz/live/daviderdo/dzKZMJB0WG/338.ts
+#EXTINF:0 group-title="General" tvg-id="SRF1.ch" tvg-name="SRF 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/switzerland/srf-1-ch.png" ,SRF 1 HD
+http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/3348.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="CANAL+ PREMIUM HD.pl" tvg-name="Canal+ Premium HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-premium-pl.png" ,Canal+ Premium HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/86596.ts
-#EXTINF:0 group-title="General" tvg-id="3sat.de" tvg-name="3sat HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/hd/3sat-hd-de.png" ,3sat HD
+#EXTINF:0 group-title="General" tvg-id="3SAT.de" tvg-name="3sat HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/hd/3sat-hd-de.png" ,3sat HD
 http://elit64.xyz/live/daviderdo/dzKZMJB0WG/183133.ts
-#EXTINF:0 group-title="Sports" tvg-id="Eurosport 1 (HD).hu" tvg-name="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/eurosport-1-ro.png" ,Eurosport 1 HD
-http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/3599.ts
-#EXTINF:0 group-title="Sports" tvg-id="Eurosport 2 (HD).hu" tvg-name="Eurosport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/eurosport-2-ro.png" ,Eurosport 2 HD
-http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/12637.ts
+#EXTINF:0 group-title="General" tvg-id="TV4 HD (T).se" tvg-name="TV4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv4-se.png" ,TV4 HD
+http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/6490.ts
 #EXTINF:0 group-title="General" tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/m6-fr.png" ,M6 HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:1E:0B&stream=43909&extension=ts&play_token=EEkF7EkBEN&sn2=
+http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/432.ts
 #EXTINF:0 group-title="General" tvg-id="TVN 7 HD.pl" tvg-name="TVN 7 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvn7-hd-pl.png" ,TVN 7 HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/890.ts
 #EXTINF:0 group-title="News" tvg-id="TVP Info HD.pl" tvg-name="TVP Info HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-info-pl.png" ,TVP Info HD
@@ -20,7 +18,7 @@ http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/10448.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Sundance TV HD.pl" tvg-name="Sundance TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/sundance-tv-pl.png" ,Sundance TV HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/847.ts
 #EXTINF:0 group-title="General" tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/hd/tf1-hd-fr.png" ,TF1 HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:1E:0B&stream=43895&extension=ts&play_token=NlfmQqEuy6&sn2=
+http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/441.ts
 #EXTINF:0 group-title="Music" tvg-id="M6 Music.fr" tvg-name="M6 Music HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/m6-music-fr.png" ,M6 Music HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/1397.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Prime (HD).hu" tvg-name="Prime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/prime-hu.png" ,Prime
@@ -39,6 +37,8 @@ http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/952.ts
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/6834.ts
 #EXTINF:0 group-title="Documentary" tvg-id="TVN Turbo HD.pl" tvg-name="TVN Turbo HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvn-turbo-pl.png" ,TVN Turbo HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/888.ts
+#EXTINF:0 group-title="General" tvg-id="Das Erste.de" tvg-name="Das Erste HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/hd/das-erste-hd-de.png" ,Das Erste HD
+http://elit64.xyz/live/daviderdo/dzKZMJB0WG/338.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="serieclub.fr" tvg-name="SerieClub HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/serie-club-fr.png" ,SerieClub HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/1449.ts
 #EXTINF:0 group-title="General" tvg-id="ZDF.de" tvg-name="ZDF HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/hd/zdf-hd-de.png" ,ZDF HD
@@ -49,8 +49,8 @@ http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/9455.ts
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/6426.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Mozi+ (HD).hu" tvg-name="Mozi+ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/mozi-plus-hu.png" ,Mozi+ HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/9489.ts
-#EXTINF:0 group-title="Children" tvg-id="TIJI.fr" tvg-name="Tiji HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tiji-fr.png" ,Tiji HD
-http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/15984.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="TV4 Guld (T).se" tvg-name="TV4 Guld HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv4-guld-se.png" ,TV4 Guld HD
+http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/2961.ts
 #EXTINF:0 group-title="Sports" tvg-id="Sport 1 (HD).hu" tvg-name="Sport 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/sport1-hu.png" ,Sport 1 HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/9467.ts
 #EXTINF:0 group-title="Sports" tvg-id="Sport 2 (HD).hu" tvg-name="Sport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/sport2-hu.png" ,Sport 2 HD
@@ -59,54 +59,36 @@ http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/3586.ts
 http://elit64.xyz/live/daviderdo/dzKZMJB0WG/26222.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="CANAL+ Seriale HD.pl" tvg-name="Canal+ Seriale HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-seriale-pl.png" ,Canal+ Seriale HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/951.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Ale kino+ HD.pl" tvg-name="Ale Kino+ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/ale-kino-plus-pl.png" ,Ale Kino+ HD
+http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/960.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Kino Polska HD.pl" tvg-name="Kino Polska HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/kino-polska-pl.png" ,Kino Polska HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/83773.ts
-#EXTINF:0 group-title="Sports" tvg-id="Match4 (HD).hu" tvg-name="Match4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/match4-hu.png" ,Match4 HD
-http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/9511.ts
+#EXTINF:0 group-title="General" tvg-id="MTV3.fi" tvg-name="MTV3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/finland/mtv3-fi.png" ,MTV3 HD
+https://live-fi.tvkaista.net/mtv3/live.m3u8
 #EXTINF:0 group-title="Movies and Series" tvg-id="Ciné+ Premier.fr" tvg-name="OCS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/OCS_2024.svg/1024px-OCS_2024.svg.png" ,OCS HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/4104.ts
 #EXTINF:0 group-title="Music" tvg-id="Deluxe Music.de" tvg-name="Deluxe Music HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/deluxe-music-de.png" ,Deluxe Music HD
 http://elit64.xyz/live/daviderdo/dzKZMJB0WG/441.ts
-#EXTINF:0 group-title="Movies and Series" tvg-id="TV2 Comedy.hu" tvg-name="TV2 Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/tv2-comedy-hu.png" ,TV2 Comedy
-http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/9494.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="TV4 Film (T).se" tvg-name="TV4 Film HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv4-film-se.png" ,TV4 Film HD
+http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/2958.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="TV Now DE.de" tvg-name="NOW! HD" tvg-logo="https://g-cdn-sj.eu-central-1.linodeobjects.com/sender/now-us_590.png" ,NOW! HD
 http://elit64.xyz/live/daviderdo/dzKZMJB0WG/252210.ts
-#EXTINF:0 group-title="Movies and Series" tvg-id="Cinemax 2 (HD).hu" tvg-name="Cinemax 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/cinemax2-hu.png" ,Cinemax 2
-http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/9454.ts
-#EXTINF:0 group-title="Sports" tvg-id="Sky Sport Top Event HD.de" tvg-name="Sky Sport Top Event HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-top-event-alt-de.png" ,Sky Sport Top Event HD
-http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/107885.ts
-#EXTINF:0 group-title="Sports" tvg-id="Sky Sport F1 HD.de" tvg-name="Sky Sport F1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-f1-alt-de.png" ,Sky Sport F1 HD
-http://elit64.xyz/live/daviderdo/dzKZMJB0WG/251038.ts
-#EXTINF:0 group-title="Sports" tvg-id="Sky Sport Mix HD.de" tvg-name="Sky Sport Mix HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-mix-alt-de.png" ,Sky Sport Mix HD
-http://elit64.xyz/live/daviderdo/dzKZMJB0WG/102295.ts
-#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 1 HD.de" tvg-name="Sky Sport 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-1-alt-de.png" ,Sky Sport 1 HD
-http://elit64.xyz/live/daviderdo/dzKZMJB0WG/102930.ts
-#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 2 HD.de" tvg-name="Sky Sport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-2-alt-de.png" ,Sky Sport 2 HD
-http://elit64.xyz/live/daviderdo/dzKZMJB0WG/49699.ts
-#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 3 HD.de" tvg-name="Sky Sport 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-3-alt-de.png" ,Sky Sport 3 HD
-http://elit64.xyz/live/daviderdo/dzKZMJB0WG/49698.ts
-#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 4 HD.de" tvg-name="Sky Sport 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-4-alt-de.png" ,Sky Sport 4 HD
-http://elit64.xyz/live/daviderdo/dzKZMJB0WG/49697.ts
-#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 5 HD.de" tvg-name="Sky Sport 5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-5-alt-de.png" ,Sky Sport 5 HD
-http://elit64.xyz/live/daviderdo/dzKZMJB0WG/102936.ts
-#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 6 HD.de" tvg-name="Sky Sport 6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-6-alt-de.png" ,Sky Sport 6 HD
-http://elit64.xyz/live/daviderdo/dzKZMJB0WG/102935.ts
-#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 7 HD.de" tvg-name="Sky Sport 7 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-7-alt-de.png" ,Sky Sport 7 HD
-http://elit64.xyz/live/daviderdo/dzKZMJB0WG/102934.ts
-#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 8 HD.de" tvg-name="Sky Sport 8 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-8-alt-de.png" ,Sky Sport 8 HD
-http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/12694.ts
-#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 9 HD.de" tvg-name="Sky Sport 9 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-9-alt-de.png" ,Sky Sport 9 HD
-http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/4369.ts
-#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="Sky Sport 10 HD.de" tvg-name="Sky Sport 10 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-10-alt-de.png" ,Sky Sport 10 HD
-http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/4368.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="CANAL+ 1 HD.pl" tvg-name="Canal+ 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-1-pl.png" ,Canal+ 1 HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/949.ts
-#EXTINF:0 group-title="General" tvg-id="Super TV2 (HD).hu" tvg-name="SuperTV2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/tv2-super-hu.png" ,SuperTV2
-http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/9425.ts
+#EXTINF:0 group-title="Children" tvg-id="TIJI.fr" tvg-name="Tiji HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tiji-fr.png" ,Tiji HD
+http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/15984.ts
+#EXTINF:0 group-title="News" tvg-id="SRFinfo.ch" tvg-name="SRF info HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/switzerland/srf-info-ch.png" ,SRF Info HD
+http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/3349.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Cinemax 2 (HD).hu" tvg-name="Cinemax 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/cinemax2-hu.png" ,Cinemax 2
+http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/9454.ts
+#EXTINF:0 group-title="Sports" tvg-id="Match4 (HD).hu" tvg-name="Match4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/match4-hu.png" ,Match4 HD
+http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/9511.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="TV2 Comedy.hu" tvg-name="TV2 Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/tv2-comedy-hu.png" ,TV2 Comedy
+http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/9494.ts
+#EXTINF:0 group-title="General" tvg-id="MTV Ava.fi" tvg-name="MTV Ava HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/finland/mtv-ava-fi.png" ,MTV Ava HD
+https://live-fi.tvkaista.net/ava/live.m3u8
 #EXTINF:0 group-title="Sports" tvg-id="Arena4 (HD).hu" tvg-name="Arena4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/arena4-hu.png" ,Arena4 HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/104360.ts
-#EXTINF:0 group-title="Movies and Series" tvg-id="Ale kino+ HD.pl" tvg-name="Ale Kino+ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/ale-kino-plus-pl.png" ,Ale Kino+ HD
-http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/960.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Ciné+ Frisson.fr" tvg-name="Ciné+ Frisson HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/cine-plus-frisson-fr.png" ,Ciné+ Frisson HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/4103.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Ciné+ Emotion.fr" tvg-name="Ciné+ Emotion HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/cine-plus-emotion-fr.png" ,Ciné+ Emotion HD
@@ -117,9 +99,27 @@ http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/4102.ts
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/4100.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Ciné+ Classic.fr" tvg-name="Ciné+ Classic HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/cine-plus-classic-fr.png" ,Ciné+ Classic HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/6534.ts
-#EXTINF:0 group-title="General" tvg-id="TV2 Klub.hu" tvg-name="TV2 Klub" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/tv2-klub-hu.png" ,TV2 Klub
-http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/9438.ts
+#EXTINF:0 group-title="Documentary" tvg-id="TV4 Fakta (T).se" tvg-name="TV4 Fakta HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv4-fakta-se.png" ,TV4 Fakta HD
+http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/2960.ts
+#EXTINF:0 group-title="General" tvg-id="Super TV2 (HD).hu" tvg-name="SuperTV2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/tv2-super-hu.png" ,SuperTV2
+http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/9425.ts
+#EXTINF:0 group-title="General" tvg-id="SRFzwei.ch" tvg-name="SRF Zwei HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/switzerland/srf-zwei-ch.png" ,SRF Zwei HD
+http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/3347.ts
 #EXTINF:0 group-title="News" tvg-id="Polsat News HD.pl" tvg-name="Polsat News HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-news-pl.png" ,Polsat News HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/907.ts
 #EXTINF:0 group-title="Documentary" tvg-id="CANAL+ KUCHNIA HD.pl" tvg-name="Canal+ Kuchnia HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-kuchnia-hd-pl.png" ,Canal+ Kuchnia HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/10456.ts
+#EXTINF:0 group-title="General" tvg-id="TV2 Klub.hu" tvg-name="TV2 Klub" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/tv2-klub-hu.png" ,TV2 Klub
+http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/9438.ts
+#EXTINF:0 group-title="General" tvg-id="MTV Sub.fi" tvg-name="MTV Sub HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/finland/mtv-sub-fi.png" ,MTV Sub HD
+https://live-fi.tvkaista.net/sub/live.m3u8
+#EXTINF:0 group-title="Sports" tvg-id="V Sport Premier League.no" tvg-name="V Sport Premier League HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/norway/v-sport-premier-league-no.png" ,V Sport Premier League HD
+http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/108505.ts
+#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="V Sport Premier League 1.no" tvg-name="V Sport Premier League 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/norway/v-sport-premier-league-1-no.png" ,V Sport Premier League 1 HD
+http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/108504.ts
+#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="V Sport Premier League 2.no" tvg-name="V Sport Premier League 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/norway/v-sport-premier-league-2-no.png" ,V Sport Premier League 2 HD
+http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/108503.ts
+#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="V Sport Premier League 3.no" tvg-name="V Sport Premier League 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/norway/v-sport-premier-league-3-no.png" ,V Sport Premier League 3 HD
+http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/108502.ts
+#EXTINF:0 group-title="Sports - PPV/Events" tvg-id="V Sport Premier League 4.no" tvg-name="V Sport Premier League 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/norway/v-sport-premier-league-4-no.png" ,V Sport Premier League 4 HD
+http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/108501.ts
