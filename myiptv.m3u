@@ -141,5 +141,5 @@ http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/108503.ts
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/108502.ts
 #EXTINF:0 group-title="Sports - PPV/Events" tvg-id="V Sport Premier League 4.no" tvg-name="V Sport Premier League 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/norway/v-sport-premier-league-4-no.png" ,V Sport Premier League 4 HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/108501.ts
-#EXTINF:0 group-title="Children" ,Tom et Jerry (24/7)
-http://21tv.net:8789/play/live.php?mac=00:1A:79:A9:BF:20&stream=6757&extension=ts
+#EXTINF:0 group-title="Children" tvg-id="O2 TV Info HD.cz" tvg-name="Garfield and Friends" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/garfield-vod.png" ,Garfield and Friends
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f176-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=68c3c9ce-0e68-43fa-ade2-43491d9d88e2
