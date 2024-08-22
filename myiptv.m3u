@@ -73,8 +73,6 @@ http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/3347.ts
 https://live-fi.tvkaista.net/mtv3/live.m3u8
 #EXTINF:0 group-title="Movies and Series" tvg-id="Nova Action HD.cz" tvg-name="Nova Action HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-action-cz.png" ,Nova Action HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/6836.ts
-#EXTINF:0 group-title="Movies and Series" tvg-id="Ciné+ Premier.fr" tvg-name="OCS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/OCS_2024.svg/1024px-OCS_2024.svg.png" ,OCS HD
-http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/4104.ts
 #EXTINF:0 group-title="Children" tvg-id="Super RTL.de" tvg-name="Toggo HD / RTL Super HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rtl-super-de.png" ,Toggo HD / RTL Super HD
 http://magentalive.eu:8080/live/opentvjermania/FiTJEulCBeTPuO9nhtANj4oeltlfPY/18162.ts
 #EXTINF:0 group-title="Children" tvg-id="TIJI.fr" tvg-name="Tiji HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tiji-fr.png" ,Tiji HD
@@ -101,20 +99,18 @@ http://magentalive.eu:8080/live/opentvjermania/FiTJEulCBeTPuO9nhtANj4oeltlfPY/17
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/9511.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="TV2 Comedy.hu" tvg-name="TV2 Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/tv2-comedy-hu.png" ,TV2 Comedy
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/9494.ts
-#EXTINF:0 group-title="Movies and Series" tvg-id="RTL Passion.de" tvg-name="RTL Passion HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rtl-passion-de.png" ,RTL Passion HD
-http://elit64.xyz:2086/live/daviderdo/dzKZMJB0WG/183120.ts
+#EXTINF:0 group-title="General" tvg-id="BBC Nordic HD (S/D/F) (T).se" tvg-name="BBC Nordic HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/bbc-nordic-se.png" ,BBC Nordic HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=1177881&extension=ts&play_token=60jDDWGJHB
 #EXTINF:0 group-title="General" tvg-id="MTV Ava.fi" tvg-name="MTV Ava HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/finland/mtv-ava-fi.png" ,MTV Ava HD
 https://live-fi.tvkaista.net/ava/live.m3u8
-#EXTINF:0 group-title="Movies and Series" tvg-id="Ciné+ Frisson.fr" tvg-name="Ciné+ Frisson HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/cine-plus-frisson-fr.png" ,Ciné+ Frisson HD
-http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/4103.ts
-#EXTINF:0 group-title="Movies and Series" tvg-id="Ciné+ Emotion.fr" tvg-name="Ciné+ Emotion HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/cine-plus-emotion-fr.png" ,Ciné+ Emotion HD
-http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/4101.ts
-#EXTINF:0 group-title="Movies and Series" tvg-id="Ciné+ Famiz.fr" tvg-name="Ciné+ Family HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/cine-plus-family-fr.png" ,Ciné+ Family HD
-http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/4102.ts
-#EXTINF:0 group-title="Movies and Series" tvg-id="Ciné+ Club.fr" tvg-name="Ciné+ Festival HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/cine-plus-festival-fr.png" ,Ciné+ Festival HD
-http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/4100.ts
-#EXTINF:0 group-title="Movies and Series" tvg-id="Ciné+ Classic.fr" tvg-name="Ciné+ Classic HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/cine-plus-classic-fr.png" ,Ciné+ Classic HD
-http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/6534.ts
+#EXTINF:0 group-title="Sports" tvg-name="Canal+ Extra 1 HD" tvg-logo="https://n-25-12.dcs.redcdn.pl/file/o2/n/ncms-test/logo/CANAL+_EXTRA1.png" ,Canal+ Extra 1 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=1621301&extension=ts&play_token=5uUQEvPyGy
+#EXTINF:0 group-title="Sports - PPV/Events" tvg-name="Canal+ Extra 2 HD" tvg-logo="https://n-25-12.dcs.redcdn.pl/file/o2/n/ncms-test/logo/CANAL+_EXTRA2.png" ,Canal+ Extra 2 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=1621299&extension=ts&play_token=FhNOlA84ay
+#EXTINF:0 group-title="Sports - PPV/Events" tvg-name="Canal+ Extra 3 HD" tvg-logo="https://n-25-12.dcs.redcdn.pl/file/o2/n/ncms-test/logo/CANAL+_EXTRA3.png" ,Canal+ Extra 3 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=1621297&extension=ts&play_token=MdN5rDorx5
+#EXTINF:0 group-title="Sports - PPV/Events" tvg-name="Canal+ Extra 4 HD" tvg-logo="https://n-25-12.dcs.redcdn.pl/file/o2/n/ncms-test/logo/CANAL+_EXTRA4.png" ,Canal+ Extra 4 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=1621295&extension=ts&play_token=9RHkop8K9b
 #EXTINF:0 group-title="Movies and Series" tvg-id="Nova Cinema HD.cz" tvg-name="Nova Cinema HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cinema-cz.png" ,Nova Cinema HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/6835.ts
 #EXTINF:0 group-title="General" tvg-id="Super TV2 (HD).hu" tvg-name="SuperTV2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/tv2-super-hu.png" ,SuperTV2
@@ -129,6 +125,8 @@ http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/907.ts
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/10456.ts
 #EXTINF:0 group-title="General" tvg-id="TV2 Klub.hu" tvg-name="TV2 Klub" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/tv2-klub-hu.png" ,TV2 Klub
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/9438.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="RTL Passion.de" tvg-name="RTL Passion HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rtl-passion-de.png" ,RTL Passion HD
+http://elit64.xyz:2086/live/daviderdo/dzKZMJB0WG/183120.ts
 #EXTINF:0 group-title="General" tvg-id="MTV Sub.fi" tvg-name="MTV Sub HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/finland/mtv-sub-fi.png" ,MTV Sub HD
 https://live-fi.tvkaista.net/sub/live.m3u8
 #EXTINF:0 group-title="Sports" tvg-id="V Sport Premier League.no" tvg-name="V Sport Premier League HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/norway/v-sport-premier-league-no.png" ,V Sport Premier League HD
@@ -141,5 +139,3 @@ http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/108503.ts
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/108502.ts
 #EXTINF:0 group-title="Sports - PPV/Events" tvg-id="V Sport Premier League 4.no" tvg-name="V Sport Premier League 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/norway/v-sport-premier-league-4-no.png" ,V Sport Premier League 4 HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/108501.ts
-#EXTINF:0 group-title="Children" tvg-id="O2 TV Info HD.cz" tvg-name="Garfield and Friends" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/garfield-vod.png" ,Garfield and Friends
-https://jmp2.uk/PlutoTV/60faf9ddfcc1f200070a5932-alt.m3u8
