@@ -139,3 +139,7 @@ http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/108503.ts
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/108502.ts
 #EXTINF:0 group-title="Sports - PPV/Events" tvg-id="V Sport Premier League 4.no" tvg-name="V Sport Premier League 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/norway/v-sport-premier-league-4-no.png" ,V Sport Premier League 4 HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/108501.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Markíza Klasik HD.sk" tvg-name="Markíza Klasik HD" tvg-logo="https://i.imgur.com/SemxlwR.png" ,Markíza Klasik HD
+http://82.202.173.201:25461/live/romcohuba12/romcohuba121/91211.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Direct One TV (HD).hu" tvg-name="Direct One TV HD" tvg-logo="https://www.directone.hu/content/HDAustria/logo_new.png" ,Direct One TV HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=1423943&extension=ts&play_token=8klOo062jK
