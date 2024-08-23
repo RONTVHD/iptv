@@ -23,6 +23,8 @@ http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/441.ts
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/1397.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Prime (HD).hu" tvg-name="Prime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/prime-hu.png" ,Prime
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/9478.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Prime (HD).hu" tvg-name="Prime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/prime-hu.png" ,Prime (backup)
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=74215&extension=ts&play_token=hwJwEhvCAA
 #EXTINF:0 group-title="Documentary" tvg-id="TVN Style HD.pl" tvg-name="TVN Style HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvn-style-pl.png" ,TVN Style HD
 http://hanaiptv.com:8080/live/12win24032104/sRPadUZ8YK/10428.ts
 #EXTINF:0 group-title="Children" tvg-id="teleTOON+ HD.pl" tvg-name="teleTOON+ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/teletoon-plus-pl.png" ,teleTOON+ HD
