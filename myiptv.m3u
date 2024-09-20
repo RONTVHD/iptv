@@ -1,83 +1,35 @@
 ﻿#EXTM3U
-#EXTINF:0 group-title="General" tvg-id="SVT1 HD (T).se" tvg-name="SVT1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/svt1-se.png" ,SVT1 HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=1069435&extension=ts&play_token=LW98GWHoMZ
-#EXTINF:0 group-title="General" tvg-id="Nova HD.cz" tvg-name="Nova HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cz.png" ,Nova HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=98271&extension=ts&play_token=vhuY9uBYmN
-#EXTINF:0 group-title="General" tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" ,TF1 HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=506638&extension=ts&play_token=1fVKIUiBie
-#EXTINF:0 group-title="General" tvg-id="Markíza HD.sk" tvg-name="Markíza HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png" ,Markíza HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=98293&extension=ts&play_token=HmpAx1Mwl2
-#EXTINF:0 group-title="General" tvg-id="Channel 5 HD" tvg-name="Channel 5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png" ,Channel 5 HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=30554&extension=ts&play_token=2jgXoapRbb
-#EXTINF:0 group-title="General" tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/m6-fr.png" ,M6 HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=506633&extension=ts&play_token=0vLVGDexdw
+#EXTINF:0 group-title="Movies and Series" tvg-id="CanalPlusPremium.pl" tvg-name="Canal+ Premium HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-premium-pl.png" ,Canal+ Premium HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=880498&extension=ts&play_token=esKaBe4UKC
+#EXTINF:0 group-title="Documentary" tvg-id="RTL Otthon.hu" tvg-name="RTL Otthon HD" tvg-logo="https://rtl.hu/images/rtlotthon.png" ,RTL Otthon HD
+http://stream2.torba.fun:8080/9XrUFIEcTU/mpegts?token=zjQBznIDdBasu6l0
 #EXTINF:0 group-title="Movies and Series" tvg-id="Prime (HD).hu" tvg-name="Prime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/prime-hu.png" ,Prime
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=74215&extension=ts&play_token=N4s8vh9Ryf
-#EXTINF:0 group-title="Movies and Series" tvg-id="Izaura TV (HD).hu" tvg-name="Izaura TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/izaura-tv-hu.png" ,Izaura TV
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=74232&extension=ts&play_token=rYXhIn8D5L
-#EXTINF:0 group-title="Movies and Series" tvg-id="Ale kino+ HD.pl" tvg-name="Ale Kino+ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/ale-kino-plus-pl.png" ,Ale Kino+ HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=880493&extension=ts&play_token=5CnHZOlv1w
-#EXTINF:0 group-title="General" tvg-id="Rai 1 HD.it" tvg-name="Rai 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" ,Rai 1 HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=691401&extension=ts&play_token=79kVqh9fSn
-#EXTINF:0 group-title="Movies and Series" tvg-id="Direct One TV (HD).hu" tvg-name="Direct One TV HD" tvg-logo="https://www.directone.hu/content/HDAustria/logo_new.png" ,Direct One TV HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=1423943&extension=ts&play_token=lUBpxyuIQx
-#EXTINF:0 group-title="News" tvg-id="TVP Info HD.pl" tvg-name="TVP Info HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-info-pl.png" ,TVP Info HD
-http://tomalo.xyz:80/fh2bAEuasq0kMG/gtmPyrp8Cjh2R8/709746
-#EXTINF:0 group-title="Documentary" tvg-id="BBC Lifestyle HD.pl" tvg-name="BBC Lifestyle HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/bbc-lifestyle-pl.png" ,BBC Lifestyle HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=880435&extension=ts&play_token=g8g8dkRQbL
-#EXTINF:0 group-title="Movies and Series" tvg-id="CANAL+ PREMIUM HD.pl" tvg-name="Canal+ Premium HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-premium-pl.png" ,Canal+ Premium HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=880498&extension=ts&play_token=jMDXouxRWB
-#EXTINF:0 group-title="General" tvg-id="TV3 HD (D) (T)" tvg-name="TV3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/tv3-dk.png" ,TV3 HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=247629&extension=ts&play_token=wgO8bsxuvL
-#EXTINF:0 group-title="Children" tvg-id="Super RTL.de" tvg-name="Toggo HD/RTL Super HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rtl-super-de.png" ,Toggo HD/RTL Super HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=411371&extension=ts&play_token=bCW3OFkBpG
-#EXTINF:0 group-title="General" tvg-id="SVT2 HD (T).se" tvg-name="SVT2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/svt2-se.png" ,SVT2 HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=309560&extension=ts&play_token=KixLaihNR2
-#EXTINF:0 group-title="Sports" tvg-id="V sport vinter HD (T).se" tvg-name="V Sport Vinter HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/v-sport-vinter-se.png" ,V Sport Vinter HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=294063&extension=ts&play_token=dQihqe8Tqv
-#EXTINF:0 group-title="Movies and Series" tvg-id="TV4 Hits (T).se" tvg-name="Hits HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/norway/hits-no.png" ,Hits HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=247515&extension=ts&play_token=Yf0Cher5uK
-#EXTINF:0 group-title="Documentary" tvg-id="CANAL+ DOMO HD.pl" tvg-name="Canal+ Domo HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-domo-hd-pl.png" ,Canal+ Domo HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=880424&extension=ts&play_token=DmNYN90fBl
-#EXTINF:0 group-title="Movies and Series" tvg-id="TV2 Comedy.hu" tvg-name="TV2 Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/tv2-comedy-hu.png" ,TV2 Comedy
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=459624&extension=ts&play_token=UBvQ59ocQ9
-#EXTINF:0 group-title="Sports" tvg-name="Canal+ Extra 1 HD" tvg-logo="https://n-25-32.dcs.redcdn.pl/file/o2/n/ncms-test/logo/CANAL+_EXTRA1.png" ,Canal+ Extra 1 HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=1621302&extension=ts&play_token=BU6UTw7KIV
-#EXTINF:0 group-title="Movies and Series" tvg-id="Sky Atlantic.it" tvg-name="Sky Atlantic HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" ,Sky Atlantic HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=692068&extension=ts&play_token=AchzKNjfNr
-#EXTINF:0 group-title="Sports" tvg-id="V Sport Premier League.no" tvg-name="V Sport Premier League HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/norway/v-sport-premier-league-no.png" ,V Sport Premier League HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=1001366&extension=ts&play_token=t3JllNE5Hv
-#EXTINF:0 group-title="Movies and Series" tvg-id="Mozi+ (HD).hu" tvg-name="Mozi+ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/mozi-plus-hu.png" ,Mozi+ HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=74220&extension=ts&play_token=3nhGsMBRpP
-#EXTINF:0 group-title="Children" tvg-id="TIJI.fr" tvg-name="Tiji HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tiji-fr.png" ,Tiji HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=507940&extension=ts&play_token=HJ9LzEL3kX
+http://stream2.torba.fun:8080/DoQ18F0AOd/mpegts?token=zjQBznIDdBasu6l0
+#EXTINF:0 group-title="Movies and Series" tvg-id="Mozi Klub.hu" tvg-name="Moziklub" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Moziklub.svg/500px-Moziklub.svg.png" ,Moziklub
+http://stream2.torba.fun:8080/zYV1uakybc/mpegts?token=zjQBznIDdBasu6l0
+#EXTINF:0 group-title="Children" tvg-id="Tiji.fr" tvg-name="Tiji HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tiji-fr.png" ,Tiji HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=506502&extension=ts&play_token=JCKFCG3g7G
+#EXTINF:0 group-title="General" tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/m6-fr.png" ,M6 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=506633&extension=ts&play_token=ZpdsT3Zcox
+#EXTINF:0 group-title="Children" tvg-id="Kölyök Klub.hu" tvg-name="KölyökKlub HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kolyokklub_logo.png/1200px-Kolyokklub_logo.png" ,KölyökKlub HD
+http://stream2.torba.fun:8080/67yGPiI59D/mpegts?token=zjQBznIDdBasu6l0
+#EXTINF:0 group-title="Sports" tvg-id="M4 Sport (HD).hu" tvg-name="M4 Sport HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/m4-sport-hu.png" ,M4 Sport HD
+http://stream2.torba.fun:8080/iYRbT63yZl/mpegts?token=zjQBznIDdBasu6l0
+#EXTINF:0 group-title="Movies and Series" tvg-id="Sorozat Klub.hu" tvg-name="Sorozatklub" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sorozatklub_logo.png/1024px-Sorozatklub_logo.png" ,Sorozatklub
+http://stream2.torba.fun:8080/8R727ZcYLa/mpegts?token=zjQBznIDdBasu6l0
+#EXTINF:0 group-title="General" tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" ,TF1 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=506638&extension=ts&play_token=Z2oR8cYFEQ
 #EXTINF:0 group-title="Documentary" tvg-id="Ushuaïa TV.fr" tvg-name="Ushuaïa TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/ushuaia-tv-fr.png" ,Ushuaïa TV HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=507332&extension=ts&play_token=5iOPyYfo5G
-#EXTINF:0 group-title="News" tvg-id="TVN 24 HD.pl" tvg-name="TVN 24 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvn24-pl.png" ,TVN 24 HD
-http://tomalo.xyz:80/fh2bAEuasq0kMG/gtmPyrp8Cjh2R8/828823
-#EXTINF:0 group-title="General" tvg-id="BBC Nordic HD (S/D/F) (T).se" tvg-name="BBC Nordic HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/bbc-nordic-se.png" ,BBC Nordic HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=1177881&extension=ts&play_token=2EIwpa8ap0
-#EXTINF:0 group-title="Documentary" tvg-id="Sky Arte.it" tvg-name="Sky Arte HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" ,Sky Arte HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=692071&extension=ts&play_token=uY9CMYF733
-#EXTINF:0 group-title="Movies and Series" tvg-id="Sundance TV HD.pl" tvg-name="Sundance TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/sundance-tv-pl.png" ,Sundance TV HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=880392&extension=ts&play_token=lu63xldQIc
-#EXTINF:0 group-title="Sports" tvg-id="CANAL+ Sport HD.pl" tvg-name="Canal+ Sport HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-sport-pl.png" ,Canal+ Sport HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=880461&extension=ts&play_token=k0FMLf3xNJ
-#EXTINF:0 group-title="Sports" tvg-id="CANAL+ Sport 2 HD.pl" tvg-name="Canal+ Sport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/canal-plus-sport-2-pl.png" ,Canal+ Sport 2 HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=880460&extension=ts&play_token=vtSwtm28J2
-#EXTINF:0 group-title="General" tvg-id="TVP Rozrywka.pl" tvg-name="TVP Rozrywka" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-rozrywka-pl.png" ,TVP Rozrywka
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=880237&extension=ts&play_token=UL3nCg21UZ
-#EXTINF:0 group-title="General" tvg-id="Polsat.pl" tvg-name="Polsat HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-pl.png" ,Polsat HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=880509&extension=ts&play_token=W05ay2XN3m
-#EXTINF:0 group-title="Movies and Series" tvg-id="V series HD (T).se" tvg-name="V Series HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/v-series-hd-se.png" ,V Series HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=79971&extension=ts&play_token=3UQKO5z6Vx
-#EXTINF:0 group-title="General" tvg-id="TV3 Puls HD (D) (T)" tvg-name="TV3 Puls HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/tv3-puls-dk.png" ,TV3 Puls HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=247630&extension=ts&play_token=UcpElI24f5
-#EXTINF:0 group-title="Movies and Series" tvg-id="Moziverzum (HD).hu" tvg-name="Moziverzum" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/moziverzum-hu.png" ,Moziverzum
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=74333&extension=ts&play_token=gZO7jxmK9K
-#EXTINF:0 group-title="General" tvg-id="Polsat Rodzina HD.pl" tvg-name="Polsat Rodzina HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-rodzina-pl.png" ,Polsat Rodzina HD
-http://tomalo.xyz:80/fh2bAEuasq0kMG/gtmPyrp8Cjh2R8/2718
-#EXTINF:0 group-title="General" tvg-id="TV5Monde Europe" tvg-name="TV5Monde Europe HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/tv5-monde-int.png" ,TV5Monde Europe HD
-https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
-#EXTINF:0 group-title="Movies and Series" tvg-id="TV4 Stars (T).se" tvg-name="Stars HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/norway/stars-no.png" ,Stars HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=247517&extension=ts&play_token=Q2T7v4iPZI
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=506527&extension=ts&play_token=ll9cevD1je
+#EXTINF:0 group-title="Sports - PPV/Events" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/langfr-1920px-Canal%2B_Live.svg.png" ,Canal+ Live 1 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=1640373&extension=ts&play_token=s75koXVe8a
+#EXTINF:0 group-title="Sports - PPV/Events" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/langfr-1920px-Canal%2B_Live.svg.png" ,Canal+ Live 2 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=1640377&extension=ts&play_token=a8rfECuxjP
+#EXTINF:0 group-title="Sports - PPV/Events" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/langfr-1920px-Canal%2B_Live.svg.png" ,Canal+ Live 3 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=1640374&extension=ts&play_token=Txsf6HbdgI
+#EXTINF:0 group-title="Sports - PPV/Events" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/langfr-1920px-Canal%2B_Live.svg.png" ,Canal+ Live 4 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=1640372&extension=ts&play_token=Qts1eAJflP
+#EXTINF:0 group-title="Sports - PPV/Events" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/langfr-1920px-Canal%2B_Live.svg.png" ,Canal+ Live 5 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=1640371&extension=ts&play_token=HBMFBHBVQy
+#EXTINF:0 group-title="Documentary" tvg-id="Food Network (HD).hu" tvg-name="Food Network HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/food-network-pl.png" ,Food Network HD
+http://stream2.torba.fun:8080/lukcq2tIXm/mpegts?token=zjQBznIDdBasu6l0
