@@ -4,7 +4,7 @@ http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=880498&e
 #EXTINF:0 group-title="Documentary" tvg-id="RTL Otthon.hu" tvg-name="RTL Otthon HD" tvg-logo="https://rtl.hu/images/rtlotthon.png" ,RTL Otthon HD
 http://stream2.torba.fun:8080/9XrUFIEcTU/mpegts?token=zjQBznIDdBasu6l0
 #EXTINF:0 group-title="Movies and Series" tvg-id="Prime (HD).hu" tvg-name="Prime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/prime-hu.png" ,Prime
-http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:22:02:9D&stream=74215&extension=ts&play_token=U3I5G06P6U
+http://185.191.127.129:2095/play/live.php?mac=00:1A:79:c6:fd:24&stream=83469&extension=ts&play_token=HfOT1HmFGH
 #EXTINF:0 group-title="Movies and Series" tvg-id="Mozi Klub.hu" tvg-name="Moziklub" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Moziklub.svg/500px-Moziklub.svg.png" ,Moziklub
 http://stream2.torba.fun:8080/zYV1uakybc/mpegts?token=zjQBznIDdBasu6l0
 #EXTINF:0 group-title="Children" tvg-id="Tiji.fr" tvg-name="Tiji HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tiji-fr.png" ,Tiji HD
