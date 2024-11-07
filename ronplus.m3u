@@ -1,0 +1,41 @@
+﻿#EXTM3U
+#EXTINF:0 group-title="DTT/Free-To-Air" tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tf1-fr.png" ,TF1
+http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/234971.ts
+#EXTINF:0 group-title="DTT/Free-To-Air" tvg-id="France 2.fr" tvg-name="France 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-2-fr.png" ,France 2 HD
+http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/565768.ts
+#EXTINF:0 group-title="DTT/Free-To-Air" tvg-id="France 3.fr" tvg-name="France 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-3-fr.png" ,France 3 HD
+http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/234992.ts
+#EXTINF:0 group-title="DTT/Free-To-Air" tvg-id="Arena4 (HD).hu" tvg-name="Arena4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/arena4-hu.png" ,Arena4 HD
+http://xplatinmedia.com:8080/live/MafiaMedia_Discord9706/cPMy4wwYolKyyuxGscxwq05IZlb0Q2/119019.ts
+#EXTINF:0 group-title="DTT/Free-To-Air" tvg-id="Canal+.fr" tvg-name="Canal+ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-fr.png" ,Canal+ HD
+http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/234977.ts
+#EXTINF:0 group-title="DTT/Free-To-Air" tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/m6-fr.png" ,M6 HD
+http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/342135.ts
+#EXTINF:0 group-title="DTT/Free-To-Air" tvg-id="Sky Mix.uk" tvg-name="Sky Mix" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-mix-uk.png" ,Sky Mix
+http://xplatinmedia.com:8080/live/MafiaMedia_Discord9706/cPMy4wwYolKyyuxGscxwq05IZlb0Q2/120.ts
+#EXTINF:0 group-title="DTT/Free-To-Air" tvg-id="TVP1.pl" tvg-name="TVP 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp1-hd-pl.png" ,TVP 1 HD
+http://xplatinmedia.com:8080/live/MafiaMedia_Discord9706/cPMy4wwYolKyyuxGscxwq05IZlb0Q2/52491.ts
+#EXTINF:0 group-title="DTT/Free-To-Air" tvg-id="W9.fr" tvg-name="W9 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/w9-fr.png" ,W9 HD
+http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/242407.ts
+#EXTINF:0 group-title="DTT/Free-To-Air" tvg-id="TVP2.pl" tvg-name="TVP 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp2-hd-pl.png" ,TVP 2 HD
+https://irylek.ct8.pl/stream/tvp2hd
+#EXTINF:0 group-title="DTT/Free-To-Air" tvg-id="Canal+ Sport 360.fr" tvg-name="Canal+ Sport 360 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-sport-360-fr.png" ,Canal+ Sport 360 HD
+http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/620964.ts
+#EXTINF:0 group-title="DTT/Free-To-Air" tvg-id="TV2 Comedy.hu" tvg-name="TV2 Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-comedy-hu.png" ,TV2 Comedy
+http://xplatinmedia.com:8080/live/MafiaMedia_Discord9706/cPMy4wwYolKyyuxGscxwq05IZlb0Q2/7743.ts
+#EXTINF:0 group-title="DTT/Free-To-Air" tvg-id="Mozi+ (HD).hu" tvg-name="Mozi+ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/mozi-plus-hu.png" ,Mozi+ HD
+http://xplatinmedia.com:8080/live/MafiaMedia_Discord9706/cPMy4wwYolKyyuxGscxwq05IZlb0Q2/7757.ts
+#EXTINF:0 group-title="DTT/Free-To-Air" tvg-id="TMC.fr" tvg-name="TMC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tmc-fr.png" ,TMC HD
+http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/342062.ts
+#EXTINF:0 group-title="DTT/Free-To-Air" tvg-id="TFX.fr" tvg-name="TFX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tfx-fr.png" ,TFX HD
+http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/242411.ts
+#EXTINF:0 group-title="DTT/Free-To-Air" tvg-id="M6 Music.fr" tvg-name="M6 Music HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/m6-music-fr.png" ,M6 Music HD
+http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/208031.ts
+#EXTINF:0 group-title="DTT/Free-To-Air" tvg-id="Piwi+.fr" tvg-name="Piwi+ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/piwi-plus-fr.png" ,Piwi+ HD
+http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/208051.ts
+#EXTINF:0 group-title="DTT/Free-To-Air" tvg-id="Tiji.fr" tvg-name="Tiji HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tiji-fr.png" ,Tiji HD
+http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/208077.ts
+#EXTINF:0 group-title="DTT/Free-To-Air" tvg-id="6ter.fr" tvg-name="6ter HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/6ter-fr.png" ,6ter HD
+http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/242405.ts
+#EXTINF:0 group-title="DTT/Free-To-Air" tvg-id="TVPInfo.pl" tvg-name="TVP Info HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-info-pl.png" ,TVP Info HD
+https://irylek.ct8.pl/stream/tvpinfo
