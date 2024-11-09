@@ -39,3 +39,5 @@ http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/208077.ts
 http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/242405.ts
 #EXTINF:0 group-title="DTT/Free-To-Air" tvg-id="TVPInfo.pl" tvg-name="TVP Info HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-info-pl.png" ,TVP Info HD
 https://irylek.ct8.pl/stream/tvpinfo
+#EXTINF:0 group-title="DTT/Free-To-Air" tvg-id="TV2 Comedy.hu" tvg-name="TV2 Comedy (Backup)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-comedy-hu.png" ,TV2 Comedy
+http://stream2.torba.fun:8080/cvxzago2jV/mpegts?token=zjQBznIDdBasu6l0
