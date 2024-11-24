@@ -22,7 +22,7 @@ https://irylek.ct8.pl/stream/tvp2hd
 #EXTINF:0 group-title="DTT/Free-To-Air" tvg-id="Canal+ Sport 360.fr" tvg-name="Canal+ Sport 360 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-sport-360-fr.png" ,Canal+ Sport 360 HD
 http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/620964.ts
 #EXTINF:0 group-title="DTT/Free-To-Air" tvg-id="TV2 Comedy.hu" tvg-name="TV2 Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-comedy-hu.png" ,TV2 Comedy
-http://xplatinmedia.com:8080/live/MafiaMedia_Discord9706/cPMy4wwYolKyyuxGscxwq05IZlb0Q2/7743.ts
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:FF:0C:49&stream=459624&extension=ts&play_token=hXPZ7HoQuN
 #EXTINF:0 group-title="DTT/Free-To-Air" tvg-id="Mozi+ (HD).hu" tvg-name="Mozi+ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/mozi-plus-hu.png" ,Mozi+ HD
 http://xplatinmedia.com:8080/live/MafiaMedia_Discord9706/cPMy4wwYolKyyuxGscxwq05IZlb0Q2/7757.ts
 #EXTINF:0 group-title="DTT/Free-To-Air" tvg-id="TMC.fr" tvg-name="TMC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tmc-fr.png" ,TMC HD
