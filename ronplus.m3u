@@ -41,3 +41,5 @@ http://dmtn.tv:8080/live/GEN-broLINE/mfYMHgu/242405.ts
 https://irylek.ct8.pl/stream/tvpinfo
 #EXTINF:0 group-title="DTT/Free-To-Air" tvg-id="TV2 Comedy.hu" tvg-name="TV2 Comedy (Backup)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-comedy-hu.png" ,TV2 Comedy (Backup)
 http://stream2.torba.fun:8080/cvxzago2jV/mpegts?token=zjQBznIDdBasu6l0
+#EXTINF:0 group-title="DTT/Free-To-Air" tvg-id="Mozi Klub.hu" tvg-name="Moziklub" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Moziklub.svg/500px-Moziklub.svg.png" ,Moziklub
+http://stream2.torba.fun:8080/zYV1uakybc/mpegts?token=zjQBznIDdBasu6l0
