@@ -1,59 +1,45 @@
 ﻿#EXTM3U
-#EXTINF:0 group-title="General" tvg-id="Sky Uno.it" tvg-name="Sky Uno HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-uno-it.png" ,Sky Uno HD
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:76:98:11&stream=1686887&extension=ts&play_token=GayUK6fjDA
+#EXTINF:0 group-title="General" tvg-id="SRF1.ch" tvg-name="SRF 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/srf-1-ch.png" ,SRF 1 HD
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:B5:AD:16&stream=188227&extension=ts&play_token=0EiUmeHzzj
 #EXTINF:0 group-title="General" tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tf1-fr.png" ,TF1 HD
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:76:98:11&stream=506638&extension=ts&play_token=6B2rEJkgqn
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:B5:AD:16&stream=506638&extension=ts&play_token=M2JsbasMjt
 #EXTINF:0 group-title="General" tvg-id="Polsat.pl" tvg-name="Polsat HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-pl.png" ,Polsat HD
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:76:98:11&stream=880509&extension=ts&play_token=cA91Mv04HS
-#EXTINF:0 group-title="General" tvg-id="TV3 HD (D) (T)" tvg-name="TV3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/denmark/tv3-dk.png" ,TV3 HD
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:76:98:11&stream=247629&extension=ts&play_token=w1uaQ51Wgu
-#EXTINF:0 group-title="General" tvg-id="ZoomTV.pl" tvg-name="Zoom TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/zoom-tv-pl.png" ,Zoom TV
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:76:98:11&stream=880190&extension=ts&play_token=HkpszXtHwi
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:B5:AD:16&stream=1530203&extension=ts&play_token=vGlA5RqXAY
+#EXTINF:0 group-title="General" tvg-id="ZoomTV.pl" tvg-name="Zoom TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/zoom-tv-pl.png" ,Zoom TV HD
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:B5:AD:16&stream=1530255&extension=ts&play_token=b11LB249P4
+#EXTINF:0 group-title="Children" tvg-id="Canal+ KIDS.fr" tvg-name="Canal+ Kids HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-kids-fr.png" ,Canal+ Kids HD
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:B5:AD:16&stream=830359&extension=ts&play_token=3MmfbVbZ0P
 #EXTINF:0 group-title="General" tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/m6-fr.png" ,M6 HD
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:76:98:11&stream=506633&extension=ts&play_token=ydzvFJ8BCg
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:B5:AD:16&stream=506633&extension=ts&play_token=4e7GZJOTFA
 #EXTINF:0 group-title="Movies and Series" tvg-id="Universal TV.de" tvg-name="Universal TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/universal-tv-de.png" ,Universal TV HD
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:76:98:11&stream=411351&extension=ts&play_token=cUSvg0x8wP
-#EXTINF:0 group-title="Movies and Series" tvg-id="Rai Premium.it" tvg-name="Rai Premium HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-premium-it.png" ,Rai Premium HD
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:76:98:11&stream=691379&extension=ts&play_token=eAyxD3YR03
-#EXTINF:0 group-title="General" tvg-id="Rai 1 HD.it" tvg-name="Rai 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-1-it.png" ,Rai 1 HD
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:76:98:11&stream=691401&extension=ts&play_token=JbUK5L27GQ
-#EXTINF:0 group-title="News" tvg-id="ZDFinfo.de" tvg-name="ZDFinfo HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/zdf-info-de.png" ,ZDFinfo HD
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:76:98:11&stream=411454&extension=ts&play_token=BWXJe3P028
-#EXTINF:0 group-title="Documentary" tvg-id="RTL Otthon.hu" tvg-name="RTL Otthon HD" tvg-logo="https://rtl.hu/images/rtlotthon.png" ,RTL Otthon HD
-http://test:test@81.183.161.204:9981/stream/channelid/1043566947?profile=pass
-#EXTINF:0 group-title="General" tvg-id="France 2.fr" tvg-name="France 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-2-fr.png" ,France 2 HD
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:76:98:11&stream=506637&extension=ts&play_token=aKxLkYjpi6
-#EXTINF:0 group-title="General" tvg-id="France 3.fr" tvg-name="France 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-3-fr.png" ,France 3 HD
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:76:98:11&stream=506636&extension=ts&play_token=tVqYsS4FXD
-#EXTINF:0 group-title="General" tvg-id="Sky Mix.uk" tvg-name="Sky Mix" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-mix-uk.png" ,Sky Mix
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:76:98:11&stream=289274&extension=ts&play_token=ov5oofcmfA
-#EXTINF:0 group-title="Movies and Series" tvg-id="Prime (HD).hu" tvg-name="Prime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/prime-hu.png" ,Prime
-http://test:test@81.183.161.204:9981/stream/channelid/208310974?profile=pass
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:B5:AD:16&stream=411490&extension=ts&play_token=O69plKxJu5
 #EXTINF:0 group-title="Sports" tvg-id="Arena4 (HD).hu" tvg-name="Arena4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/arena4-hu.png" ,Arena4 HD
-http://test:test@81.183.161.204:9981/stream/channelid/1824431366?profile=pass
-#EXTINF:0 group-title="Movies and Series" tvg-id="Rai Movie.it" tvg-name="Rai Movie HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-movie-it.png" ,Rai Movie HD
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:76:98:11&stream=691377&extension=ts&play_token=ArXJXpsUa1
-#EXTINF:0 group-title="Movies and Series" tvg-id="Sky Serie.it" tvg-name="Sky Serie HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-serie-it.png" ,Sky Serie HD
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:76:98:11&stream=1686885&extension=ts&play_token=95YkcpBEeK
-#EXTINF:0 group-title="Movies and Series" tvg-id="Cinemax (HD).hu" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/cinemax-hu.png" ,Cinemax
-http://test:test@81.183.161.204:9981/stream/channelid/815145703?profile=pass
-#EXTINF:0 group-title="Movies and Series" tvg-id="Cinemax 2 (HD).hu" tvg-name="Cinemax 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/cinemax2-hu.png" ,Cinemax 2
-http://test:test@81.183.161.204:9981/stream/channelid/1257569459?profile=pass
-#EXTINF:0 group-title="Documentary" tvg-id="Ushuaïa TV.fr" tvg-name="Ushuaïa TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/ushuaia-tv-fr.png" ,Ushuaïa TV HD
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:76:98:11&stream=506527&extension=ts&play_token=IOsREXI44T
-#EXTINF:0 group-title="General" tvg-id="TV8 HD.it" tvg-name="TV8 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tv8-it.png" ,TV8 HD
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:76:98:11&stream=691383&extension=ts&play_token=KbptuzZnoh
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:B5:AD:16&stream=1741116&extension=ts&play_token=cBAGmPvIXZ
 #EXTINF:0 group-title="News" tvg-id="TVPInfo.pl" tvg-name="TVP Info HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-info-pl.png" ,TVP Info HD
 https://irylek.ct8.pl/stream/tvpinfo
+#EXTINF:0 group-title="Movies and Series" tvg-id="Izaura TV (HD).hu" tvg-name="Izaura TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/izaura-tv-hu.png" ,Izaura TV
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:B5:AD:16&stream=1741143&extension=ts&play_token=pV6CxtaAf2
+#EXTINF:0 group-title="General" tvg-id="France 2.fr" tvg-name="France 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-2-fr.png" ,France 2 HD
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:B5:AD:16&stream=506637&extension=ts&play_token=N6swbzlCrX
+#EXTINF:0 group-title="General" tvg-id="France 3.fr" tvg-name="France 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-3-fr.png" ,France 3 HD
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:B5:AD:16&stream=506636&extension=ts&play_token=OFKhqIkEbV
+#EXTINF:0 group-title="Movies and Series" tvg-id="Prime (HD).hu" tvg-name="Prime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/prime-hu.png" ,Prime
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:B5:AD:16&stream=1741180&extension=ts&play_token=Igr3U4OuMa
+#EXTINF:0 group-title="Children" tvg-id="TOGGO plus.de" tvg-name="TOGGO Plus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/toggo-plus-de.png" ,TOGGO Plus
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:B5:AD:16&stream=411370&extension=ts&play_token=oIY6HYLaR9
+#EXTINF:0 group-title="Documentary" tvg-id="Ushuaïa TV.fr" tvg-name="Ushuaïa TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/ushuaia-tv-fr.png" ,Ushuaïa TV HD
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:B5:AD:16&stream=506527&extension=ts&play_token=B5DajwgLs9
 #EXTINF:0 group-title="Sports" tvg-id="Match4 (HD).hu" tvg-name="Match4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/match4-hu.png" ,Match4 HD
-http://test:test@81.183.161.204:9981/stream/channelid/1808045547?profile=pass
-#EXTINF:0 group-title="Movies and Series" tvg-id="Mozi Klub.hu" tvg-name="Moziklub" tvg-logo="https://seeklogo.com/images/M/moziklub-logo-01F9F4A4F8-seeklogo.com.png" ,Moziklub
-http://test:test@81.183.161.204:9981/stream/channelid/1856857879?profile=pass
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:B5:AD:16&stream=1741117&extension=ts&play_token=kPYufYKoCR
 #EXTINF:0 group-title="Movies and Series" tvg-id="TV2 Comedy.hu" tvg-name="TV2 Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-comedy-hu.png" ,TV2 Comedy
-http://test:test@81.183.161.204:9981/stream/channelid/1665313449?profile=pass
-#EXTINF:0 group-title="General" tvg-id="Rai 2 HD.it" tvg-name="Rai 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-2-it.png" ,Rai 2 HD
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:76:98:11&stream=691399&extension=ts&play_token=GyqrVs7cvu
-#EXTINF:0 group-title="Movies and Series" tvg-id="27Twentyseven HD.it" tvg-name="27Twentyseven HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/twenty-seven-it.png" ,27Twentyseven HD
-http://chesapevo.piffero.tf:2052/live/GHYYjH0kLP/5yE9BmD1Xk@/307320.ts
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:B5:AD:16&stream=1741188&extension=ts&play_token=M9N0sBHbXj
 #EXTINF:0 group-title="Documentary" tvg-id="BBCLifestyle.pl" tvg-name="BBC Lifestyle HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/bbc-lifestyle-pl.png" ,BBC Lifestyle HD
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:76:98:11&stream=880435&extension=ts&play_token=2Lds4nm11O
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:B5:AD:16&stream=1530125&extension=ts&play_token=EgvM2gK4rq
+#EXTINF:0 group-title="General" tvg-id="DF1.de" tvg-name="DF1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/df1-hd-de.png" ,DF1 HD
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:B5:AD:16&stream=1601385&extension=ts&play_token=AK6jTokUBl
+#EXTINF:0 group-title="Documentary" tvg-id="Love Nature (HD / 4K).hu" tvg-name="Love Nature HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/love-nature-es.png" ,Love Nature HD
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:B5:AD:16&stream=1741121&extension=ts&play_token=x18OOYiFaZ
+#EXTINF:0 group-title="News" tvg-id="ZDFinfo.de" tvg-name="ZDFinfo HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/zdf-info-de.png" ,ZDFinfo HD
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:B5:AD:16&stream=411454&extension=ts&play_token=U836tXKMhJ
+#EXTINF:0 group-title="Children" tvg-id="TV2 Kids.hu" tvg-name="TV2 Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-kids-hu.png" ,TV2 Kids
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:B5:AD:16&stream=1741124&extension=ts&play_token=dbBEZ2firm
