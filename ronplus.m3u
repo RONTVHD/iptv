@@ -2,18 +2,20 @@
 #EXTINF:0 group-title="General" tvg-id="SRF1.ch" tvg-name="SRF 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/srf-1-ch.png" ,SRF 1 HD
 http://src22013.cdngold.me/live/17d03ea737/1a1e19fb94/386524.ts
 #EXTINF:0 group-title="General" tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/hd/tf1-hd-fr.png" ,TF1 HD
-http://src22013.cdngold.me/live/17d03ea737/1a1e19fb94/425516.ts
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:0 group-title="Documentary" tvg-id="Ushuaïa TV.fr" tvg-name="Ushuaïa TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/ushuaia-tv-fr.png" ,Ushuaïa TV HD
 http://src22013.cdngold.me/live/17d03ea737/1a1e19fb94/106982.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="CanalPlusPremium.pl" tvg-name="Canal+ Premium HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-premium-pl.png" ,Canal+ Premium HD
-http://src22013.cdngold.me/live/17d03ea737/1a1e19fb94/1167037.ts
+http://91.217.198.226:8000/udp/239.100.10.182:2234
 #EXTINF:0 group-title="General" tvg-id="TV5MondeEurope.fr" tvg-name="TV5Monde Europe HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/tv5-monde-int.png" ,TV5Monde Europe HD
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:0 group-title="General" tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/m6-fr.png" ,M6 HD
 http://src22013.cdngold.me/live/17d03ea737/1a1e19fb94/425605.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Prime (HD).hu" tvg-name="Prime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/prime-hu.png" ,Prime
-http://src22013.cdngold.me/live/17d03ea737/1a1e19fb94/1252284.ts
+http://tirolina.ro:8080/live/dsehW30Fq7SwpcqiY3avoZzrvQn7Yj/88dEX7HTSsYwo2kFRad9U49dzm6FXG/57085.ts
 #EXTINF:0 group-title="General" tvg-id="RTL Lëtzebuerg.lu" tvg-name="RTL Lëtzebuerg HD" tvg-logo="https://images.seeklogo.com/logo-png/48/2/rtl-luxembourg-logo-png_seeklogo-481286.png" ,RTL Lëtzebuerg HD
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:0 group-title="Movies and Series" tvg-id="Izaura TV (HD).hu" tvg-name="Izaura TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/izaura-tv-hu.png" ,Izaura TV
 http://src22013.cdngold.me/live/17d03ea737/1a1e19fb94/1252247.ts
+#EXTINF:0 group-title="General" tvg-id="ARD-alpha.de" tvg-name="ARD-Alpha HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/ard-alpha-de.png" ,ARD-Alpha HD
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
