@@ -1,0 +1,27 @@
+﻿#EXTM3U
+#EXTINF:0 group-title="General" tvg-id="RTL Lëtzebuerg.lu" tvg-name="RTL Lëtzebuerg HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/RTL_Luxembourg_2023.svg/1920px-RTL_Luxembourg_2023.svg.png" ,RTL Lëtzebuerg HD
+https://stream.rtl.lu/data/live/tele/channel1/1080p.m3u8
+#EXTINF:0 group-title="General" tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tf1-fr.png" ,TF1 HD
+http://pro.ipcover.lol:8080/live/uZbzPbqzdKPR/sKJMnv2FFeC9/5.ts
+#EXTINF:0 group-title="Documentary/Lifestyle" tvg-id="Ushuaïa TV.fr" tvg-name="Ushuaïa TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/ushuaia-tv-fr.png" ,Ushuaïa TV HD
+http://pro.ipcover.lol:8080/live/uZbzPbqzdKPR/sKJMnv2FFeC9/286.ts
+#EXTINF:0 group-title="Music" tvg-id="CSTAR Hits France.fr" tvg-name="CStar Hits France HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/c-star-hits-france-fr.png" ,CStar Hits France HD
+http://pro.ipcover.lol:8080/live/uZbzPbqzdKPR/sKJMnv2FFeC9/246210.ts
+#EXTINF:0 group-title="Documentary/Lifestyle" tvg-id="TV2 Klub.hu" tvg-name="TV2 Klub" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-klub-hu.png" ,TV2 Klub
+http://portal.geniptv.com:8080/live/MjbsJ8v1Ue/q1JoDSc2NX/9438.ts
+#EXTINF:0 group-title="General" tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/m6-fr.png" ,M6 HD
+http://pro.ipcover.lol:8080/live/uZbzPbqzdKPR/sKJMnv2FFeC9/17.ts
+#EXTINF:0 group-title="Sports" tvg-id="Arena4 (HD).hu" tvg-name="Arena4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/arena4-hu.png" ,Arena4
+http://portal.geniptv.com:8080/live/MjbsJ8v1Ue/q1JoDSc2NX/104361.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Rai Premium.it" tvg-name="Rai Premium HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-premium-it.png" ,Rai Premium HD
+http://pro.ipcover.lol:8080/live/uZbzPbqzdKPR/sKJMnv2FFeC9/416328.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Prime (HD).hu" tvg-name="Prime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/prime-hu.png" ,Prime
+http://portal.geniptv.com:8080/live/MjbsJ8v1Ue/q1JoDSc2NX/9478.ts
+#EXTINF:0 group-title="Documentary/Lifestyle" tvg-id="TV5MONDE STYLE HD 生活時尚.tw" tvg-name="TV5Monde Style HD" tvg-logo="https://i.imgur.com/aHnWuCG.png" ,TV5Monde Style HD
+http://ip.king-cobra.eu:8080/live/j8gPnwot5E/tEkQ5DcvOs/563770.ts
+#EXTINF:0 group-title="Childrens" tvg-id="Canal+ KIDS.fr" tvg-name="Canal+ Kids HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-kids-fr.png" ,Canal+ Kids HD
+http://pro.ipcover.lol:8080/live/uZbzPbqzdKPR/sKJMnv2FFeC9/118.ts
+#EXTINF:0 group-title="Music" tvg-id="M6 Music.fr" tvg-name="M6 Music HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/m6-music-fr.png" ,M6 Music HD
+http://pro.ipcover.lol:8080/live/uZbzPbqzdKPR/sKJMnv2FFeC9/341.ts
+#EXTINF:0 group-title="General" tvg-id="RTL tvi.be" tvg-name="RTL tvi HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/rtl-tvi-be.png" ,RTL tvi HD
+http://pro.ipcover.lol:8080/live/uZbzPbqzdKPR/sKJMnv2FFeC9/202907.ts
