@@ -43,3 +43,5 @@ https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2423&device=9bdeddba3ce
 http://pro.ipcover.lol:8080/live/uZbzPbqzdKPR/sKJMnv2FFeC9/202907.ts
 #EXTINF:0 group-title="Childrens" tvg-id="Canal+ KIDS.fr" tvg-name="Canal+ Kids HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-kids-fr.png" ,Canal+ Kids HD
 http://pro.ipcover.lol:8080/live/uZbzPbqzdKPR/sKJMnv2FFeC9/118.ts
+#EXTINF:0 group-title="General" tvg-id="tpmp.fr" tvg-name="TPMP HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/TPMP_Channel.png" ,TPMP HD
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/m6plus/tpmp-dm.m3u8
