@@ -3,45 +3,49 @@
 https://stream.rtl.lu/data/live/tele/channel1/1080p.m3u8
 #EXTINF:0 group-title="General" tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tf1-fr.png" ,TF1 HD
 http://pro.ipcover.lol:8080/live/uZbzPbqzdKPR/sKJMnv2FFeC9/5.ts
+#EXTINF:0 group-title="General" tvg-id="Antena 3.es" tvg-name="Antena 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/antena-3-es.png" ,Antena 3 HD
+http://ip.king-cobra.eu:8080/live/j8gPnwot5E/tEkQ5DcvOs/14478.ts
 #EXTINF:0 group-title="Documentary/Lifestyle" tvg-id="Spektrum Home (HD).hu" tvg-name="Spektrum Home" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/spektrum-home-hu.png" ,Spektrum Home
-https://cdn.mediaklikk.org:2082/spektrumhome_0UjMxIDMxMjM.m3u8
-#EXTINF:0 group-title="Movies and Series" tvg-id="OCS.fr" tvg-name="OCS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/ocs-fr.png" ,OCS HD
-http://pro.ipcover.lol:8080/live/uZbzPbqzdKPR/sKJMnv2FFeC9/140.ts
-#EXTINF:0 group-title="Movies and Series" tvg-id="Prime (HD).hu" tvg-name="Prime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/prime-hu.png" ,Prime
-http://portal.geniptv.com:8080/live/MjbsJ8v1Ue/q1JoDSc2NX/9478.ts
+http://ua.online24.pm/play/886/6C79C1AAFA64E87/video.m3u8
+#EXTINF:0 group-title="Movies and Series" tvg-id="Viasat Kino World.lv" tvg-name="Viasat Kino World" tvg-logo="https://www.viasatworld.com/media/1481/viasat-kino-world_rgb-vw.png" ,Viasat Kino World
+http://ua.online24.pm/play/6980/6C79C1AAFA64E87/video.m3u8
 #EXTINF:0 group-title="General" tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/m6-fr.png" ,M6 HD
 http://pro.ipcover.lol:8080/live/uZbzPbqzdKPR/sKJMnv2FFeC9/17.ts
-#EXTINF:0 group-title="General" tvg-id="Markíza.sk" tvg-name="TV Markíza HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/slovakia/markiza-sk.png" ,TV Markíza HD
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=677&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
-#EXTINF:0 group-title="Music" tvg-id="Stingray: Nature.ca" tvg-name="Stingray Naturescape HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/stingray-naturescape-vod-us.png" ,Stingray Naturescape HD
-https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:0 group-title="Movies and Series" tvg-id="Izaura TV (HD).hu" tvg-name="Izaura TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/izaura-tv-hu.png" ,Izaura TV
+http://ua.online24.pm/play/782/6C79C1AAFA64E87/video.m3u8
 #EXTINF:0 group-title="General" tvg-id="W9.fr" tvg-name="W9 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/w9-fr.png" ,W9 HD
 http://pro.ipcover.lol:8080/live/uZbzPbqzdKPR/sKJMnv2FFeC9/31.ts
 #EXTINF:0 group-title="General" tvg-id="TMC.fr" tvg-name="TMC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tmc-fr.png" ,TMC HD
 http://pro.ipcover.lol:8080/live/uZbzPbqzdKPR/sKJMnv2FFeC9/35.ts
 #EXTINF:0 group-title="General" tvg-id="TFX.fr" tvg-name="TFX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tfx-fr.png" ,TFX HD
 http://pro.ipcover.lol:8080/live/uZbzPbqzdKPR/sKJMnv2FFeC9/41.ts
+#EXTINF:0 group-title="Music" tvg-id="M6 Music.fr" tvg-name="M6 Music HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/m6-music-fr.png" ,M6 Music HD
+http://pro.ipcover.lol:8080/live/uZbzPbqzdKPR/sKJMnv2FFeC9/341.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Direct One TV (HD).hu" tvg-name="Direct One TV" tvg-logo="https://www.directone.hu/content/HDAustria/logo_new.png" ,Direct One TV
+http://ua.online24.pm/play/781/6C79C1AAFA64E87/video.m3u8
+#EXTINF:0 group-title="General" tvg-id="Markíza.sk" tvg-name="TV Markíza HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/slovakia/markiza-sk.png" ,TV Markíza HD
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=677&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
 #EXTINF:0 group-title="Sports" tvg-id="JOJ Šport.sk" tvg-name="JOJ Šport HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/slovakia/joj-sport-sk.png" ,JOJ Šport HD
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2164&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
 #EXTINF:0 group-title="Documentary/Lifestyle" tvg-id="Ushuaïa TV.fr" tvg-name="Ushuaïa TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/ushuaia-tv-fr.png" ,Ushuaïa TV HD
 http://pro.ipcover.lol:8080/live/uZbzPbqzdKPR/sKJMnv2FFeC9/286.ts
-#EXTINF:0 group-title="Documentary/Lifestyle" tvg-id="CANAL+ DOMO HD.pl" tvg-name="Canal+ Domo HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-domo-hd-pl.png" ,Canal+ Domo HD
-http://178.219.128.68:64889/DOMOHD
-#EXTINF:0 group-title="Movies and Series" tvg-id="TV Breizh.fr" tvg-name="TV Breizh HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tv-breizh-fr.png" ,TV Breizh HD
-http://pro.ipcover.lol:8080/live/uZbzPbqzdKPR/sKJMnv2FFeC9/61.ts
-#EXTINF:0 group-title="General" tvg-id="RTL Zwee.lu" tvg-name="RTL Zwee HD" tvg-logo="https://i.imgur.com/I7SkVUY.png" ,RTL Zwee HD
-https://stream.rtl.lu/data/live/tele/channel2/1080p.m3u8
-#EXTINF:0 group-title="General" tvg-id="ZOOM TV.pl" tvg-name="Zoom TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/zoom-tv-pl.png" ,Zoom TV HD
-http://109.233.89.170/Zoom_TV_HD/index.m3u8
-#EXTINF:0 group-title="Music" tvg-id="club MTV.sk" tvg-name="Club MTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/mtv-club-rs.png" ,Club MTV
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=310&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile21,profile22&changed_at=1742507476&shaping=0&eta=1&ets=1
-#EXTINF:0 group-title="Music" tvg-id="M6 Music.fr" tvg-name="M6 Music HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/m6-music-fr.png" ,M6 Music HD
-http://pro.ipcover.lol:8080/live/uZbzPbqzdKPR/sKJMnv2FFeC9/341.ts
-#EXTINF:0 group-title="Sports" tvg-id="JOJ Šport 2.sk" tvg-name="JOJ Šport 2 HD" tvg-logo="https://img.joj.sk/rx/c6a89774-505a-48a4-8ce5-3f26d902e00c.png" ,JOJ Šport 2 HD
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2423&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
-#EXTINF:0 group-title="General" tvg-id="RTL tvi.be" tvg-name="RTL tvi HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/rtl-tvi-be.png" ,RTL tvi HD
-http://pro.ipcover.lol:8080/live/uZbzPbqzdKPR/sKJMnv2FFeC9/202907.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Prime (HD).hu" tvg-name="Prime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/prime-hu.png" ,Prime
+http://portal.geniptv.com:8080/live/MjbsJ8v1Ue/q1JoDSc2NX/9478.ts
 #EXTINF:0 group-title="Childrens" tvg-id="Canal+ KIDS.fr" tvg-name="Canal+ Kids HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-kids-fr.png" ,Canal+ Kids HD
 http://pro.ipcover.lol:8080/live/uZbzPbqzdKPR/sKJMnv2FFeC9/118.ts
-#EXTINF:0 group-title="General" tvg-id="tpmp.fr" tvg-name="TPMP HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/TPMP_Channel.png" ,TPMP HD
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/m6plus/tpmp-dm.m3u8
+#EXTINF:0 group-title="General" tvg-id="RTL tvi.be" tvg-name="RTL tvi HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/rtl-tvi-be.png" ,RTL tvi HD
+http://pro.ipcover.lol:8080/live/uZbzPbqzdKPR/sKJMnv2FFeC9/202907.ts
+#EXTINF:0 group-title="Sports" tvg-id="JOJ Šport 2.sk" tvg-name="JOJ Šport 2 HD" tvg-logo="https://img.joj.sk/rx/c6a89774-505a-48a4-8ce5-3f26d902e00c.png" ,JOJ Šport 2 HD
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2423&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
+#EXTINF:0 group-title="Movies and Series" tvg-id="Mozi+ (HD).hu" tvg-name="Mozi+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/mozi-plus-hu.png" ,Mozi+
+http://ua.online24.pm/play/899/6C79C1AAFA64E87/video.m3u8
+#EXTINF:0 group-title="Movies and Series" tvg-id="TV Breizh.fr" tvg-name="TV Breizh HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tv-breizh-fr.png" ,TV Breizh HD
+http://pro.ipcover.lol:8080/live/uZbzPbqzdKPR/sKJMnv2FFeC9/61.ts
+#EXTINF:0 group-title="Music" tvg-id="club MTV.sk" tvg-name="Club MTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/mtv-club-rs.png" ,Club MTV
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=310&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile21,profile22&changed_at=1742507476&shaping=0&eta=1&ets=1
+#EXTINF:0 group-title="General" tvg-id="RTL Zwee.lu" tvg-name="RTL Zwee HD" tvg-logo="https://i.imgur.com/I7SkVUY.png" ,RTL Zwee HD
+https://stream.rtl.lu/data/live/tele/channel2/1080p.m3u8
+#EXTINF:0 group-title="Music" tvg-id="Stingray: Nature.ca" tvg-name="Stingray Naturescape HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/stingray-naturescape-vod-us.png" ,Stingray Naturescape HD
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:0 group-title="Movies and Series" tvg-id="OCS.fr" tvg-name="OCS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/ocs-fr.png" ,OCS HD
+http://pro.ipcover.lol:8080/live/uZbzPbqzdKPR/sKJMnv2FFeC9/140.ts
