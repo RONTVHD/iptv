@@ -43,16 +43,18 @@ http://ua.online24.pm/play/899/6C79C1AAFA64E87/video.m3u8
 https://stream.rtl.lu/data/live/tele/channel2/1080p.m3u8
 #EXTINF:0 group-title="Movies and Series" tvg-id="TV Breizh.fr" tvg-name="TV Breizh HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tv-breizh-fr.png" ,TV Breizh HD
 http://pro.ipcover.lol:8080/live/uZbzPbqzdKPR/sKJMnv2FFeC9/61.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Showtime (East).us" tvg-name="Paramount+ with Showtime HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/paramount-plus-with-showtime-us.png" ,Paramount+ with Showtime HD
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:0 group-title="Music" tvg-id="club MTV.sk" tvg-name="Club MTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/mtv-club-rs.png" ,Club MTV
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=310&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile21,profile22&changed_at=1742507476&shaping=0&eta=1&ets=1
 #EXTINF:0 group-title="Sports" tvg-id="Match4 (HD).hu" tvg-name="Match4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/match4-hu.png" ,Match4 HD
 http://ua.online24.pm/play/879/6C79C1AAFA64E87/video.m3u8
 #EXTINF:0 group-title="Music" tvg-id="Stingray: Nature.ca" tvg-name="Stingray Naturescape HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/stingray-naturescape-vod-us.png" ,Stingray Naturescape HD
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
-#EXTINF:0 group-title="Movies and Series" tvg-id="OCS.fr" tvg-name="OCS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/ocs-fr.png" ,OCS HD
-http://pro.ipcover.lol:8080/live/uZbzPbqzdKPR/sKJMnv2FFeC9/140.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Prima COOL HD.cz" tvg-name="Prima Cool HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/czech-republic/prima-cool-cz.png" ,Prima Cool HD
 http://212.102.38.45/live/test_prima_cool_hd_hevc_50/playlist.m3u8
+#EXTINF:0 group-title="Movies and Series" tvg-id="OCS.fr" tvg-name="OCS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/ocs-fr.png" ,OCS HD
+http://pro.ipcover.lol:8080/live/uZbzPbqzdKPR/sKJMnv2FFeC9/140.ts
 #EXTINF:0 group-title="Sports" tvg-id="Eurosport 1 (HD).hu" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/eurosport-1-es.png" ,Eurosport 1
 http://ua.online24.pm/play/882/6C79C1AAFA64E87/video.m3u8
 #EXTINF:0 group-title="Sports" tvg-id="Eurosport 2 (HD).hu" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/eurosport-2-es.png" ,Eurosport 2
