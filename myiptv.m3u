@@ -1,0 +1,21 @@
+﻿#EXTM3U
+#EXTINF:0 group-title="General" tvg-id="Polsat.pl" tvg-name="Polsat HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-pl.png" ,Polsat HD
+http://cdnx1.plusx.tv:4000/203/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
+#EXTINF:0 group-title="Sports" tvg-id="Eurosport.HD.hu" tvg-name="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/eurosport-1-fr.png" ,Eurosport 1 HD
+http://mu3241218.oknirvana.club:8880/live/12mx010012/27581461/31321.ts
+#EXTINF:0 group-title="Sports" tvg-id="Eurosport.2.HD.hu" tvg-name="Eurosport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/eurosport-2-fr.png" ,Eurosport 2 HD
+http://mu3241218.oknirvana.club:8880/live/12mx010012/27581461/31320.ts
+#EXTINF:0 group-title="Music" tvg-id="DELUXE.MUSIC.de" tvg-name="Deluxe Music HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/deluxe-music-de.png" ,Deluxe Music HD
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:0 group-title="Documentary" tvg-id="Bergblick.de" tvg-name="Bergblick HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/bergblick-at.png" ,Bergblick HD
+http://tivim24.de:8000/live/AlbanerAdrijanaLoel/jTsYCmHW7Dhj/122427.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="CANAL+.Film.HD.pl" tvg-name="Canal+ Film HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-film-pl.png" ,Canal+ Film HD
+http://cdnx1.plusx.tv:4000/296/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
+#EXTINF:0 group-title="Movies and Series" tvg-id="Izaura.TV.hu" tvg-name="Izaura TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/izaura-tv-hu.png" ,Izaura TV HD
+http://mu3241218.oknirvana.club:8880/live/12mx010012/27581461/31304.ts
+#EXTINF:0 group-title="Documentary" tvg-id="IT:.Top.Gear.it" tvg-name="BBC Top Gear HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBGEA.png" ,BBC Top Gear HD
+https://amg00793-amg00793c43-rakuten-it-5537.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-topgearitaly-rakutenit/playlist.m3u8
+#EXTINF:0 group-title="Movies and Series" tvg-id="Prime.hu" tvg-name="Prime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/prime-hu.png" ,Prime
+http://mu3241218.oknirvana.club:8880/live/12mx010012/27581461/31290.ts
+#EXTINF:0 group-title="General" tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tf1-fr.png" ,TF1 HD
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
