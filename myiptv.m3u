@@ -7,23 +7,27 @@ http://viprteaapi.top:8080/live/VIP0187173824673182/51738338561343/917.ts
 http://viprteaapi.top:8080/live/VIP0187173824673182/51738338561343/3783.ts
 #EXTINF:0 group-title="Sports" tvg-id="Eurosport.2.HD.hu" tvg-name="Eurosport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/eurosport-2-ro.png" ,Eurosport 2 HD
 http://viprteaapi.top:8080/live/VIP0187173824673182/51738338561343/3784.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Sundance.TV.HD.pl" tvg-name="Sundance TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/sundance-tv-pl.png" ,Sundance TV HD
+http://viprteaapi.top:8080/live/VIP0187173824673182/51738338561343/1005.ts
 #EXTINF:0 group-title="Movies and Series" tvg-id="Ale.kino+.HD.pl" tvg-name="Ale Kino+ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/ale-kino-plus-pl.png" ,Ale Kino+ HD
 http://viprteaapi.top:8080/live/VIP0187173824673182/51738338561343/897.ts
-#EXTINF:0 group-title="General" tvg-id="TV5.Monde.Europe.ro" tvg-name="TV5Monde Europe HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/tv5-monde-int.png" ,TV5Monde Europe HD
-https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
-#EXTINF:0 group-title="Children" tvg-id="Animax.(HD).sg" tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/animax-hk.png" ,Animax
-https://smart.pendy.dpdns.org/Smart.php?id=Animax
-#EXTINF:0 group-title="General" tvg-id="Rai1.it" tvg-name="Rai 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-1-it.png" ,Rai 1 HD
-http://viprteaapi.top:8080/live/VIP0187173824673182/51738338561343/1145.ts
-#EXTINF:0 group-title="General" tvg-id="Nova.cz" tvg-name="TV Nova" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/czech-republic/nova-cz.png" ,TV Nova
-http://viprteaapi.top:8080/live/VIP0187173824673182/51738338561343/2210.ts
-#EXTINF:0 group-title="Movies and Series" tvg-id="Izaura.TV.hu" tvg-name="Izaura TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/izaura-tv-hu.png" ,Izaura TV
-http://viprteaapi.top:8080/live/VIP0187173824673182/51738338561343/3803.ts
+#EXTINF:0 group-title="Movies and Series" tvg-id="Diema.bg" tvg-name="Diema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/diema-bg.png" ,Diema
+http://viprteaapi.top:8080/live/VIP0187173824673182/51738338561343/3338.ts
+#EXTINF:0 group-title="Documentaries/Lifestyle" tvg-id="Ushuaia.TV.fr" tvg-name="Ushuaia TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/ushuaia-tv-fr.png" ,Ushuaia TV HD
+http://viprteaapi.top:8080/live/VIP0187173824673182/51738338561343/518.ts
 #EXTINF:0 group-title="General" tvg-id="STAR.TVE.fr" tvg-name="Star TVE HD" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/7/7c/Star_TVE_%282016-.n.v.%29.png" ,Star TVE HD
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+#EXTINF:0 group-title="Movies and Series" tvg-id="Izaura.TV.hu" tvg-name="Izaura TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/izaura-tv-hu.png" ,Izaura TV
+http://viprteaapi.top:8080/live/VIP0187173824673182/51738338561343/3803.ts
+#EXTINF:0 group-title="Children" tvg-id="Animax.(HD).sg" tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/animax-hk.png" ,Animax
+https://smart.pendy.dpdns.org/Smart.php?id=Animax
 #EXTINF:0 group-title="Movies and Series" tvg-id="Prime.hu" tvg-name="Prime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/prime-hu.png" ,Prime
 http://viprteaapi.top:8080/live/VIP0187173824673182/51738338561343/3821.ts
 #EXTINF:0 group-title="General" tvg-id="TVE.Internacional.ro" tvg-name="TVE Internacional HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/tve-internacional-int.png" ,TVE Internacional HD
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
+#EXTINF:0 group-title="Music" tvg-id="DELUXE.MUSIC.de" tvg-name="Deluxe Music HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/deluxe-music-de.png" ,Deluxe Music HD
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:0 group-title="General" tvg-id="TV5.Monde.Europe.ro" tvg-name="TV5Monde Europe HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/tv5-monde-int.png" ,TV5Monde Europe HD
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:0 group-title="General" tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/m6-fr.png" ,M6 HD
 http://viprteaapi.top:8080/live/VIP0187173824673182/51738338561343/128945.ts
