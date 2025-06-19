@@ -1,23 +1,35 @@
 ﻿#EXTM3U
 #EXTINF:0 group-title="General" tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tf1-fr.png" ,TF1 HD
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
-#EXTINF:0 group-title="Sports" tvg-id="Eurosport.1.HD.pl" tvg-name="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/eurosport-1-de.png" ,Eurosport 1 HD
-http://funmitra.com:8080/live/tugbatugba/e9KeExUrzd/478406.ts
-#EXTINF:0 group-title="Sports" tvg-id="Eurosport.2.HD.pl" tvg-name="Eurosport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/eurosport-2-de.png" ,Eurosport 2 HD
-http://funmitra.com:8080/live/tugbatugba/e9KeExUrzd/478405.ts
-#EXTINF:0 group-title="Documentary/Lifestyles" tvg-id="Ushuaia.TV.fr" tvg-name="Ushuaïa TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/ushuaia-tv-fr.png" ,Ushuaïa TV HD
-http://funmitra.com:8080/live/tugbatugba/e9KeExUrzd/187790.ts
-#EXTINF:0 group-title="Music" tvg-id="XITE.nl" tvg-name="XITE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/xite-nl.png" ,XITE HD
-http://funmitra.com:8080/live/tugbatugba/e9KeExUrzd/14934.ts
-#EXTINF:0 group-title="General" tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/m6-fr.png" ,M6 HD
-http://funmitra.com:8080/live/tugbatugba/e9KeExUrzd/29962.ts
+#EXTINF:0 group-title="Sports" tvg-id="Eurosport.HD.hu" tvg-name="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/eurosport-1-de.png" ,Eurosport 1 HD
+http://upgrade.ugoiptv.com:80/play/live.php?mac=00:1A:79:B6:48:91&stream=74250&extension=ts&play_token=4z3bIZ0hy2
+#EXTINF:0 group-title="Sports" tvg-id="Eurosport.2.HD.hu" tvg-name="Eurosport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/eurosport-2-de.png" ,Eurosport 2 HD
+http://upgrade.ugoiptv.com:80/play/live.php?mac=00:1A:79:B6:48:91&stream=74251&extension=ts&play_token=DCVt9dSA7p
+#EXTINF:0 group-title="General" tvg-id="TV4.HD.se" tvg-name="TV4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/sweden/tv4-se.png" ,TV4 HD
+http://upgrade.ugoiptv.com:80/play/live.php?mac=00:1A:79:B6:48:91&stream=395724&extension=ts&play_token=OtqjDA3jx9
+#EXTINF:0 group-title="Movies and Series" tvg-id="CANAL+.PREMIUM.pl" tvg-name="Canal+ Premium HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-premium-pl.png" ,Canal+ Premium HD
+http://upgrade.ugoiptv.com:80/play/live.php?mac=00:1A:79:B6:48:91&stream=1691138&extension=ts&play_token=bEIadzpGEz
+#EXTINF:0 group-title="Music" tvg-id="FR:.Stingray.Naturescape.fr" tvg-name="Stingray Naturescape HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/stingray-naturescape-vod-us.png" ,Stingray Naturescape HD
+https://jmp2.uk/sam-CAAJ3400003T7.m3u8
+#EXTINF:0 group-title="Documentary/Lifestyles" tvg-id="Ushuaia.TV.fr" tvg-name="Ushuaia TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/ushuaia-tv-fr.png" ,Ushuaia TV HD
+http://upgrade.ugoiptv.com:80/play/live.php?mac=00:1A:79:B6:48:91&stream=507332&extension=ts&play_token=7RuPaoR6Vb
+#EXTINF:0 group-title="General" tvg-id="T18.fr" tvg-name="T18 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/langfr-800px-Logo_de_la_chaine_T18.svg.png" ,T18 HD
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 #EXTINF:0 group-title="Movies and Series" tvg-id="Izaura.TV.hu" tvg-name="Izaura TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/izaura-tv-hu.png" ,Izaura TV
-http://funmitra.com:8080/live/tugbatugba/e9KeExUrzd/471728.ts
-#EXTINF:0 group-title="General" tvg-id="CANAL+.PREMIUM.HD.pl" tvg-name="Canal+ Premium HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-premium-pl.png" ,Canal+ Premium HD
-http://funmitra.com:8080/live/tugbatugba/e9KeExUrzd/489417.ts
+http://upgrade.ugoiptv.com:80/play/live.php?mac=00:1A:79:B6:48:91&stream=1741143&extension=ts&play_token=W9yMPrDwLA
+#EXTINF:0 group-title="Music" tvg-id="XITE.nl" tvg-name="XITE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/xite-nl.png" ,XITE HD
+http://upgrade.ugoiptv.com:80/play/live.php?mac=00:1A:79:B6:48:91&stream=1283070&extension=ts&play_token=iohibdQSxl
 #EXTINF:0 group-title="Movies and Series" tvg-id="Prime.hu" tvg-name="Prime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/prime-hu.png" ,Prime
-http://funmitra.com:8080/live/tugbatugba/e9KeExUrzd/275375.ts
-#EXTINF:0 group-title="General" tvg-id="TMC.fr" tvg-name="TMC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tmc-fr.png" ,TMC HD
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
-#EXTINF:0 group-title="General" tvg-id="TFX.fr" tvg-name="TFX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tfx-fr.png" ,TFX HD
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
+http://upgrade.ugoiptv.com:80/play/live.php?mac=00:1A:79:B6:48:91&stream=1741180&extension=ts&play_token=sNMJl1vxCA
+#EXTINF:0 group-title="Movies and Series" tvg-id="TV4.Stars.se" tvg-name="TV4 Stars HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/sweden/tv4-stars-se.png" ,TV4 Stars HD
+http://upgrade.ugoiptv.com:80/play/live.php?mac=00:1A:79:B6:48:91&stream=395683&extension=ts&play_token=4zMD5YGY9t
+#EXTINF:0 group-title="Movies and Series" tvg-id="TV4.Hits.se" tvg-name="TV4 Hits HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/sweden/tv4-hits-se.png" ,TV4 Hits HD
+http://upgrade.ugoiptv.com:80/play/live.php?mac=00:1A:79:B6:48:91&stream=395682&extension=ts&play_token=t7H8p7NLS3
+#EXTINF:0 group-title="General" tvg-id="Nova.cz" tvg-name="Nova HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/czech-republic/nova-cz.png" ,Nova HD
+http://upgrade.ugoiptv.com:80/play/live.php?mac=00:1A:79:B6:48:91&stream=98271&extension=ts&play_token=P2jW7xEkKS
+#EXTINF:0 group-title="Movies and Series" tvg-id="CANAL+.Film.pl" tvg-name="Canal+ Film HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-film-pl.png" ,Canal+ Film HD
+http://upgrade.ugoiptv.com:80/play/live.php?mac=00:1A:79:B6:48:91&stream=1691136&extension=ts&play_token=O7Rpt0pXhy
+#EXTINF:0 group-title="General" tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/m6-fr.png" ,M6 HD
+http://upgrade.ugoiptv.com:80/play/live.php?mac=00:1A:79:B6:48:91&stream=506633&extension=ts&play_token=APsUybkKEc
+#EXTINF:0 group-title="Movies and Series" tvg-id="Universal.TV.HD.at" tvg-name="Universal TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/universal-tv-hd-de.png" ,Universal TV HD
+http://upgrade.ugoiptv.com:80/play/live.php?mac=00:1A:79:B6:48:91&stream=889528&extension=ts&play_token=8BvujvdsDv
