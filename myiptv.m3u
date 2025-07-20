@@ -1,24 +1,24 @@
 ﻿#EXTM3U
 #EXTINF:0 group-title="General" tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tf1-fr.png" ,TF1 HD
-http://exceltion.xyz:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=506638&extension=ts&play_token=83uTGnPMO6
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
 #EXTINF:0 group-title="Sports" tvg-id="Eurosport 1 (HD).hu" tvg-name="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/eurosport-1-de.png" ,Eurosport 1 HD
-http://exceltion.xyz:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=74250&extension=ts&play_token=OpU5jHnTLm
+http://trxx.in:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=74250&extension=ts&play_token=MILEEma9Uo
 #EXTINF:0 group-title="Sports" tvg-id="Eurosport 2 (HD).hu" tvg-name="Eurosport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/eurosport-2-de.png" ,Eurosport 2 HD
-http://exceltion.xyz:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=74251&extension=ts&play_token=Y5yErrg2ty
+http://trxx.in:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=74251&extension=ts&play_token=gLx6u1LLBQ
 #EXTINF:0 group-title="Movies and Series" tvg-id="CANAL+ PREMIUM HD.pl" tvg-name="Canal+ Premium HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-premium-pl.png" ,Canal+ Premium HD
 http://exceltion.xyz:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=1691138&extension=ts&play_token=1RC1fyCpAX
 #EXTINF:0 group-title="Music" tvg-id="FR:.Stingray.Naturescape.fr" tvg-name="Stingray Naturescape HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/stingray-naturescape-vod-us.png" ,Stingray Naturescape HD
 https://jmp2.uk/sam-CAAJ3400003T7.m3u8
 #EXTINF:0 group-title="General" tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/m6-fr.png" ,M6 HD
-http://exceltion.xyz:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=506633&extension=ts&play_token=09C49XZ7Ti
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
 #EXTINF:0 group-title="Movies and Series" tvg-id="Izaura TV (HD).hu" tvg-name="Izaura TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/izaura-tv-hu.png" ,Izaura TV
-http://exceltion.xyz:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=1741143&extension=ts&play_token=EMOK8znDkt
+http://trxx.in:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=1741143&extension=ts&play_token=9MjVb3RByc
 #EXTINF:0 group-title="Music" tvg-id="XITE.nl" tvg-name="XITE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/xite-nl.png" ,XITE HD
 http://exceltion.xyz:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=1283070&extension=ts&play_token=FGQms7sUEK
 #EXTINF:0 group-title="Documentary/Lifestyles" tvg-id="Ushuaïa TV.fr" tvg-name="Ushuaia TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/ushuaia-tv-fr.png" ,Ushuaia TV HD
-http://exceltion.xyz:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=506527&extension=ts&play_token=xwUzr0gsrn
+http://trxx.in:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=506527&extension=ts&play_token=wbYy79kiRo
 #EXTINF:0 group-title="Movies and Series" tvg-id="Prime (HD).hu" tvg-name="Prime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/prime-hu.png" ,Prime
-http://exceltion.xyz:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=1741180&extension=ts&play_token=Dqojxq8Asu
+http://trxx.in:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=1741180&extension=ts&play_token=kISKr0pOkF
 #EXTINF:0 group-title="General" tvg-id="Nova.cz" tvg-name="Nova HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/czech-republic/nova-cz.png" ,Nova HD
 http://exceltion.xyz:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=98271&extension=ts&play_token=H548NvBfXj
 #EXTINF:0 group-title="Movies and Series" tvg-id="CANAL+ Film HD.pl" tvg-name="Canal+ Film HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-film-pl.png" ,Canal+ Film HD
@@ -28,10 +28,10 @@ http://exceltion.xyz:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=1547374&exten
 #EXTINF:0 group-title="General" tvg-id="TVP Rozrywka.pl" tvg-name="TVP Rozrywka" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-rozrywka-pl.png" ,TVP Rozrywka HD
 http://exceltion.xyz:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=880237&extension=ts&play_token=67cMxlmflo
 #EXTINF:0 group-title="Childrens" tvg-id="Nicktoons (HD).hu" tvg-name="Nicktoons" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-toons-us.png" ,Nicktoons
-http://exceltion.xyz:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=1741123&extension=ts&play_token=aF4nCXmjBi
+http://trxx.in:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=459628&extension=ts&play_token=wMxwQipm5j
 #EXTINF:0 group-title="Movies and Series" tvg-id="TV2 Comedy.hu" tvg-name="TV2 Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-comedy-hu.png" ,TV2 Comedy
-http://exceltion.xyz:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=1741188&extension=ts&play_token=S0TJrrClfr
+http://trxx.in:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=1741188&extension=ts&play_token=qrCvuJVWum
 #EXTINF:0 group-title="Documentary/Lifestyles" tvg-id="Spektrum Home (HD).hu" tvg-name="Spektrum Home" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/spektrum-home-hu.png" ,Spektrum Home
-http://exceltion.xyz:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=1741169&extension=ts&play_token=8Ipcto0qOx
+http://trxx.in:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=1741169&extension=ts&play_token=VasaEPLp84
 #EXTINF:0 group-title="Movies and Series" tvg-id="Universal TV HD.de" tvg-name="Universal TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/hd/universal-tv-hd-de.png" ,Universal TV HD
 http://exceltion.xyz:80/play/live.php?mac=00:1A:79:c4:45:0e&stream=411490&extension=ts&play_token=091D5L5x5K
