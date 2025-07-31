@@ -1,0 +1,97 @@
+﻿#EXTM3U
+#EXTINF:0 group-title="OGÓLNOTEMATYCZNE" tvg-id="Canal+ 360" tvg-name="Canal+ 360" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-360-pl.png" ,Canal+ 360
+http://bocian.io:8880/mobstar/372d29fv5tm023/155206
+#EXTINF:0 group-title="OGÓLNOTEMATYCZNE" tvg-id="Canal+ Premium HD" tvg-name="Canal+ Premium HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-premium-pl.png" ,Canal+ Premium HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/105362
+#EXTINF:0 group-title="OGÓLNOTEMATYCZNE" tvg-id="Canal+ Domo HD" tvg-name="Canal+ Domo HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-domo-pl.png" ,Canal+ Domo HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/105416
+#EXTINF:0 group-title="OGÓLNOTEMATYCZNE" tvg-id="Canal+ Kuchnia HD" tvg-name="Canal+ Kuchnia HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-kuchnia-pl.png" ,Canal+ Kuchnia HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/105438
+#EXTINF:0 group-title="OGÓLNOTEMATYCZNE" tvg-id="TVN HD" tvg-name="TVN HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvn-pl.png" ,TVN HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/105352
+#EXTINF:0 group-title="OGÓLNOTEMATYCZNE" tvg-id="TVN 24 HD" tvg-name="TVN 24 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvn24-pl.png" ,TVN 24 HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/105467
+#EXTINF:0 group-title="OGÓLNOTEMATYCZNE" tvg-id="Polsat HD" tvg-name="Polsat HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-pl.png" ,Polsat HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/105349
+#EXTINF:0 group-title="OGÓLNOTEMATYCZNE" tvg-id="TV6 HD" tvg-name="TV6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tv6-pl.png" ,TV6 HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/105355
+#EXTINF:0 group-title="OGÓLNOTEMATYCZNE" tvg-id="TVN 7 HD" tvg-name="TVN 7 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvn7-pl.png" ,TVN 7 HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/105356
+#EXTINF:0 group-title="OGÓLNOTEMATYCZNE" tvg-id="Polsat 2 HD" tvg-name="Polsat 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-2-pl.png" ,Polsat 2 HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/105350
+#EXTINF:0 group-title="OGÓLNOTEMATYCZNE" tvg-id="TVP 1 HD" tvg-name="TVP 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp1-pl.png" ,TVP 1 HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/105345
+#EXTINF:0 group-title="OGÓLNOTEMATYCZNE" tvg-id="TVP 2 HD" tvg-name="TVP 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp2-pl.png" ,TVP 2 HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/105346
+#EXTINF:0 group-title="OGÓLNOTEMATYCZNE" tvg-id="TVP HD" tvg-name="TVP HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-hd-pl.png" ,TVP HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/105348
+#EXTINF:0 group-title="OGÓLNOTEMATYCZNE" tvg-id="TVP Seriale" tvg-name="TVP Seriale" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-seriale-pl.png" ,TVP Seriale
+http://bocian.io:8880/mobstar/372d29fv5tm023/105398
+#EXTINF:0 group-title="OGÓLNOTEMATYCZNE" tvg-id="TVP Info HD" tvg-name="TVP Info HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-info-pl.png" ,TVP Info HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/105462
+#EXTINF:0 group-title="OGÓLNOTEMATYCZNE" tvg-id="TVP Kultura HD" tvg-name="TVP Kultura HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-kultura-pl.png" ,TVP Kultura HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/105451
+#EXTINF:0 group-title="OGÓLNOTEMATYCZNE" tvg-id="TVP Rozrywka" tvg-name="TVP Rozrywka" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-rozrywka-pl.png" ,TVP Rozrywka
+http://bocian.io:8880/mobstar/372d29fv5tm023/105452
+#EXTINF:0 group-title="OGÓLNOTEMATYCZNE" tvg-id="Polsat Play HD" tvg-name="Polsat Play HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-play-pl.png" ,Polsat Play HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/105435
+#EXTINF:0 group-title="OGÓLNOTEMATYCZNE" tvg-id="Polsat Cafe HD" tvg-name="Polsat Cafe HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-cafe-pl.png" ,Polsat Cafe HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/105432
+#EXTINF:0 group-title="OGÓLNOTEMATYCZNE" tvg-id="TTV HD" tvg-name="TTV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/ttv-pl.png" ,TTV HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/105353
+#EXTINF:0 group-title="OGÓLNOTEMATYCZNE" tvg-id="Stopklatka" tvg-name="Stopklatka" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/stopklatka-pl.png" ,Stopklatka
+http://bocian.io:8880/mobstar/372d29fv5tm023/155225
+#EXTINF:0 group-title="OGÓLNOTEMATYCZNE" tvg-id="Zoom TV" tvg-name="Zoom TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/zoom-tv-pl.png" ,Zoom TV
+http://bocian.io:8880/mobstar/372d29fv5tm023/105458
+#EXTINF:0 group-title="OGÓLNOTEMATYCZNE" tvg-id="TV Puls HD" tvg-name="TV Puls HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tv-puls-pl.png" ,TV Puls HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/105357
+#EXTINF:0 group-title="OGÓLNOTEMATYCZNE" tvg-id="Puls 2 HD" tvg-name="Puls 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/puls2-pl.png" ,Puls 2 HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/155071
+#EXTINF:0 group-title="CANAL+" tvg-id="MiniMini+ HD" tvg-name="MiniMini+ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/minimini-plus-pl.png" ,MiniMini+ HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/105495
+#EXTINF:0 group-title="CANAL+" tvg-id="Teletoon+ HD" tvg-name="Teletoon+ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/teletoon-plus-pl.png" ,Teletoon+ HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/105498
+#EXTINF:0 group-title="CANAL+" tvg-id="Planete+ HD" tvg-name="Planete+ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/planete-plus-pl.png" ,Planete+ HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/105426
+#EXTINF:0 group-title="CANAL+" tvg-id="Ale kino+ HD" tvg-name="Ale kino+ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/ale-kino-plus-pl.png" ,Ale kino+ HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/105361
+#EXTINF:0 group-title="CANAL+" tvg-id="NOVELAS+ HD" tvg-name="NOVELAS+ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/novelas-plus-pl.png" ,NOVELAS+ HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/135978
+#EXTINF:0 group-title="CANAL+" tvg-id="Canal+ Premium" tvg-name="Canal+ Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-premium-pl.png" ,Canal+ Premium
+http://bocian.io:8880/mobstar/372d29fv5tm023/105362
+#EXTINF:0 group-title="CANAL+" tvg-id="Canal+ 1 HD" tvg-name="Canal+ 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-1-pl.png" ,Canal+ 1 HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/105363
+#EXTINF:0 group-title="CANAL+" tvg-id="Canal+ Film HD" tvg-name="Canal+ Film HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-film-pl.png" ,Canal+ Film HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/105364
+#EXTINF:0 group-title="CANAL+" tvg-id="Canal+ Seriale HD" tvg-name="Canal+ Seriale HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-seriale-pl.png" ,Canal+ Seriale HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/105366
+#EXTINF:0 group-title="CANAL+" tvg-id="Canal+ Dokument HD" tvg-name="Canal+ Dokument HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-dokument-pl.png" ,Canal+ Dokument HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/105409
+#EXTINF:0 group-title="CANAL+" tvg-id="Canal+ Now HD" tvg-name="Canal+ Now HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-now-pl.png" ,Canal+ Now HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/105524
+#EXTINF:0 group-title="CANAL+" tvg-id="Canal+ Sport HD" tvg-name="Canal+ Sport HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-pl.png" ,Canal+ Sport HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/105520
+#EXTINF:0 group-title="CANAL+" tvg-id="Canal+ Sport 2 HD" tvg-name="Canal+ Sport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-2-pl.png" ,Canal+ Sport 2 HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/105521
+#EXTINF:0 group-title="CANAL+" tvg-id="Canal+ Sport 3 HD" tvg-name="Canal+ Sport 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-3-pl.png" ,Canal+ Sport 3 HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/105522
+#EXTINF:0 group-title="CANAL+" tvg-id="Canal+ Sport 4 HD" tvg-name="Canal+ Sport 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-4-pl.png" ,Canal+ Sport 4 HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/105523
+#EXTINF:0 group-title="CANAL+" tvg-id="Canal+ Sport 5 HD" tvg-name="Canal+ Sport 5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-5-pl.png" ,Canal+ Sport 5 HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/153306
+#EXTINF:0 group-title="CANAL+" tvg-id="Canal+ 360 HD" tvg-name="Canal+ 360 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-360-pl.png" ,Canal+ 360 HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/155206
+#EXTINF:0 group-title="CANAL+" tvg-id="Canal+ Extra 1" tvg-name="Canal+ Extra 1" tvg-logo="https://epg.ovh/logo/Canal++Extra+1.png" ,Canal+ Extra 1
+http://bocian.io:8880/mobstar/372d29fv5tm023/170506
+#EXTINF:0 group-title="CANAL+" tvg-id="Canal+ Extra 2" tvg-name="Canal+ Extra 2" tvg-logo="https://epg.ovh/logo/Canal++Extra+2.png" ,Canal+ Extra 2
+http://bocian.io:8880/mobstar/372d29fv5tm023/170507
+#EXTINF:0 group-title="CANAL+" tvg-id="Canal+ Extra 3" tvg-name="Canal+ Extra 3" tvg-logo="https://epg.ovh/logo/Canal++Extra+3.png" ,Canal+ Extra 3
+http://bocian.io:8880/mobstar/372d29fv5tm023/170508
+#EXTINF:0 group-title="CANAL+" tvg-id="Canal+ Extra 4" tvg-name="Canal+ Extra 4" tvg-logo="https://epg.ovh/logo/Canal++Extra+4.png" ,Canal+ Extra 4
+http://bocian.io:8880/mobstar/372d29fv5tm023/170509
+#EXTINF:0 group-title="CANAL+" tvg-id="Kino Polska HD" tvg-name="Kino Polska HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/kino-polska-pl.png" ,Kino Polska HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/155227
+#EXTINF:0 group-title="CANAL+" tvg-id="Kino TV HD" tvg-name="Kino TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/kino-tv-pl.png" ,Kino TV HD
+http://bocian.io:8880/mobstar/372d29fv5tm023/155228
+#EXTINF:0 group-title="OGÓLNE/INFORMACJE" tvg-id="SEJM RP" tvg-name="SEJM RP" tvg-logo="https://epg.ovh/logo/Sejm+na+%c5%bcywo.png" ,SEJM RP
+https://r.e.blueonline.tv/nb-s1/sejm_abr/ENC01/playlist_dvr_range-1753250400-now.m3u8
