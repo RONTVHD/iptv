@@ -1,0 +1,49 @@
+﻿#EXTM3U
+#EXTINF:0 group-title="General" tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tf1-fr.png" ,TF1 HD
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
+#EXTINF:0 group-title="Sports" tvg-id="Eurosport 1 (HD).hu" tvg-name="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/eurosport-1-fr.png" ,Eurosport 1 HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:52:CC:07&stream=74250&extension=ts&play_token=NcD3DbTk4d
+#EXTINF:0 group-title="Sports" tvg-id="Eurosport 2 (HD).hu" tvg-name="Eurosport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/eurosport-2-fr.png" ,Eurosport 2 HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:52:CC:07&stream=74251&extension=ts&play_token=qzXenQjtxY
+#EXTINF:0 group-title="General" tvg-id="TV4 HD.se" tvg-name="TV4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/sweden/tv4-se.png" ,TV4 HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:52:CC:07&stream=309554&extension=ts&play_token=fqJXSMpAUG
+#EXTINF:0 group-title="Movies and Series" tvg-id="CANAL+ PREMIUM HD.pl" tvg-name="Canal+ Premium HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-premium-pl.png" ,Canal+ Premium HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:52:CC:07&stream=1691138&extension=ts&play_token=qL2XefaF7V
+#EXTINF:0 group-title="General" tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/m6-ch.png" ,M6 HD
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
+#EXTINF:0 group-title="Documentaries and Lifestyle" tvg-id="Ushuaïa TV.fr" tvg-name="Ushuaïa TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/ushuaia-tv-fr.png" ,Ushuaïa TV HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:52:CC:07&stream=506527&extension=ts&play_token=R0dQ0bDifl
+#EXTINF:0 group-title="Childrens" tvg-id="Nicktoons (HD).hu" tvg-name="Nicktoons" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/nick-toons-de.png" ,Nicktoons
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:52:CC:07&stream=1741123&extension=ts&play_token=cd3QFFSuMu
+#EXTINF:0 group-title="Music" tvg-id="UK:.Stingray.Naturescape.en" tvg-name="Stingray Naturescape HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/stingray-naturescape-vod-us.png" ,Stingray Naturescape HD
+https://jmp2.uk/sam-CAAJ3400003T7.m3u8
+#EXTINF:0 group-title="Movies and Series" tvg-id="TV2 Comedy.hu" tvg-name="TV2 Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-comedy-hu.png" ,TV2 Comedy
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:52:CC:07&stream=459624&extension=ts&play_token=vnbQIMODmE
+#EXTINF:0 group-title="Movies and Series" tvg-id="Prime (HD).hu" tvg-name="Prime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/prime-hu.png" ,Prime
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:52:CC:07&stream=1741180&extension=ts&play_token=xfwccvqWnt
+#EXTINF:0 group-title="Documentaries and Lifestyle" tvg-id="Spektrum Home (HD).hu" tvg-name="Spektrum Home" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/spektrum-home-hu.png" ,Spektrum Home
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:52:CC:07&stream=1741169&extension=ts&play_token=bVrnXYNKo8
+#EXTINF:0 group-title="Music" tvg-id="M6 Music.fr" tvg-name="M6 Music HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/m6-music-fr.png" ,M6 Music HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:52:CC:07&stream=506496&extension=ts&play_token=8Ztdfhz8Iu
+#EXTINF:0 group-title="Movies and Series" tvg-id="Jocky TV.hu" tvg-name="Jocky TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/jocky-tv-hu.png" ,Jocky TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:52:CC:07&stream=1741154&extension=ts&play_token=i1YEpiA18E
+#EXTINF:0 group-title="General" tvg-id="Polsat HD.pl" tvg-name="Polsat HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-pl.png" ,Polsat HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:52:CC:07&stream=880369&extension=ts&play_token=0VbUyaUWPs
+#EXTINF:0 group-title="Sports" tvg-id="beIN SPORTS 1.fr" tvg-name="beIN Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/horizontal/bein-sports-1-hz-int.png" ,beIN Sports 1 HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:52:CC:07&stream=506552&extension=ts&play_token=XZyEkBMnl5
+#EXTINF:0 group-title="Sports" tvg-id="beIN SPORTS 2.fr" tvg-name="beIN Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/horizontal/bein-sports-2-hz-int.png" ,beIN Sports 2 HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:52:CC:07&stream=506551&extension=ts&play_token=PAGxdoRzDx
+#EXTINF:0 group-title="Sports" tvg-id="beIN SPORTS 3.fr" tvg-name="beIN Sports 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/horizontal/bein-sports-3-hz-int.png" ,beIN Sports 3 HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:52:CC:07&stream=506550&extension=ts&play_token=i1V9Ohf6z8
+#EXTINF:0 group-title="General" tvg-id="T18.fr" tvg-name="T18 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/t18-fr.png" ,T18 HD
+https://viamotionhsi.netplus.ch/live/eds/t18/browser-dash/t18.mpd
+#EXTINF:0 group-title="General" tvg-id="NOVO19.fr" tvg-name="Novo19 - Coming September 1th on RON+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/novo19-fr.png" ,Novo19 - Coming September 1th on RON+
+https://viamotionhsi.netplus.ch/live/eds/novo19/browser-dash/novo19.mpd
+#EXTINF:0 group-title="Music" tvg-id="XITE.nl" tvg-name="XITE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/xite-nl.png" ,XITE HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:52:CC:07&stream=1283070&extension=ts&play_token=lW7zoxblSV
+#EXTINF:0 group-title="Childrens" tvg-id="Kolyok Klub.hu" tvg-name="Kölyökklub HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/K%C3%B6ly%C3%B6kklub_II.svg/2560px-K%C3%B6ly%C3%B6kklub_II.svg.png" ,Kölyökklub HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:52:CC:07&stream=1854300&extension=ts&play_token=7YaEbyOzdB
+#EXTINF:0 group-title="Movies and Series" tvg-id="Izaura TV (HD).hu" tvg-name="Izaura TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/izaura-tv-hu.png" ,Izaura TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:52:CC:07&stream=1741143&extension=ts&play_token=QTmgmlo8Ss
+#EXTINF:0 group-title="News" tvg-id="France 24.fr" tvg-name="France 24 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-24-fr.png" ,France 24 HD
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
