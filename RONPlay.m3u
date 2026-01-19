@@ -1,0 +1,51 @@
+﻿#EXTM3U
+#EXTINF:0 group-title="General" tvg-id="SRF 1.ch" tvg-name="SRF 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/srf-1-ch.png" ,SRF 1 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:61:E7:03&stream=188227&extension=ts&play_token=p7wqNCdLGP
+#EXTINF:0 group-title="General" tvg-id="TF1.ch" tvg-name="TF1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/hd/tf1-hd-fr.png" ,TF1 HD
+http://176.65.146.240:7001/play/a086/index.m3u8
+#EXTINF:0 group-title="General" tvg-id="Nova.cz" tvg-name="Nova HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/czech-republic/nova-cz.png" ,Nova HD
+http://88.212.15.19/live/nova_avc_25p/playlist.m3u8
+#EXTINF:0 group-title="General" tvg-id="MTV3.fi" tvg-name="MTV3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/finland/mtv3-fi.png" ,MTV3 HD
+http://88.86.133.164:9981/stream/channelid/590688323?profile=matroska
+#EXTINF:0 group-title="General" tvg-id="Hero.fi" tvg-name="Hero HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/finland/hero-fi.png" ,Hero HD
+http://88.86.133.164:9981/stream/channelid/452263074?profile=pass
+#EXTINF:0 group-title="General" tvg-id="M6.ch" tvg-name="M6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/hd/m6-hd-fr.png" ,M6 HD
+http://176.65.146.240:7001/play/a081/index.m3u8
+#EXTINF:0 group-title="Movies/Series" tvg-id="Prime (HD).hu" tvg-name="Prime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/prime-hu.png" ,Prime
+https://ranapk.online/RANAPK33x/TVD/play.php?id=3157
+#EXTINF:0 group-title="Documentary/Lifestyles" tvg-id="Spektrum Home (HD).hu" tvg-name="Spektrum Home HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/spektrum-home-hu.png" ,Spektrum Home HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:61:E7:03&stream=1741169&extension=ts&play_token=40b9loTRre
+#EXTINF:0 group-title="Movies/Series" tvg-id="Izaura TV (HD).hu" tvg-name="Izaura TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/izaura-tv-hu.png" ,Izaura TV
+https://ranapk.online/RANAPK33x/TVD/play.php?id=3173
+#EXTINF:0 group-title="Music" tvg-id="Music.Dummy.us" tvg-name="Music Box Classic" tvg-logo="https://musicboxclassic.com/music_box_classic_logo.png" ,Music Box Classic
+https://dash2.antik.sk/live/mb_classic/index.m3u8
+#EXTINF:0 group-title="General" tvg-id="TMC.ch" tvg-name="TMC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tmc-fr.png" ,TMC HD
+http://176.65.146.240:7001/play/a088/index.m3u8
+#EXTINF:0 group-title="General" tvg-id="TFX.ch" tvg-name="TFX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tfx-fr.png" ,TFX HD
+http://176.65.146.240:7001/play/a089/index.m3u8
+#EXTINF:0 group-title="Childrens" tvg-id="Kolyok Klub.hu" tvg-name="Kölyökklub HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/K%C3%B6ly%C3%B6kklub_II.svg/1200px-K%C3%B6ly%C3%B6kklub_II.svg.png" ,Kölyökklub HD
+http://46.149.191.217:9001/play/a02i
+#EXTINF:0 group-title="Sports" tvg-id="CANAL+ Sport.ch" tvg-name="Canal+ Sport HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-sport-fr.png" ,Canal+ Sport HD
+https://tvh.fkp.fr/stream/channelid/500104617?profile=pass
+#EXTINF:0 group-title="Documentary/Lifestyles" tvg-id="Ushuaia TV.ch" tvg-name="Ushuaïa TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/ushuaia-tv-fr.png" ,Ushuaïa TV HD
+https://tvh.fkp.fr/stream/channelid/55133446?profile=pass
+#EXTINF:0 group-title="Movies/Series" tvg-id="TV2 Comedy.hu" tvg-name="TV2 Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-comedy-hu.png" ,TV2 Comedy
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:61:E7:03&stream=1741188&extension=ts&play_token=dRDoJ0AH5r
+#EXTINF:0 group-title="Movies/Series" tvg-id="CANAL+.ch" tvg-name="Canal+ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-fr.png" ,Canal+ HD
+https://tvh.fkp.fr/stream/channelid/829070420?profile=pass
+#EXTINF:0 group-title="General" tvg-id="TV5 Monde Europe.ro" tvg-name="TV5Monde Europe HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tv5-monde-fr.png" ,TV5Monde Europe HD
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:0 group-title="Childrens" tvg-id="Tiji.ch" tvg-name="Tiji HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tiji-fr.png" ,Tiji HD
+https://tvh.fkp.fr/stream/channelid/901919785?profile=pass
+#EXTINF:0 group-title="News" tvg-id="CNBC.fi" tvg-name="CNBC Europe" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cnbc-us.png" ,CNBC Europe
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcuk-samsunggb/playlist.m3u8
+#EXTINF:0 group-title="Other" tvg-id="O2 Info 1.cz" tvg-name="RONPlay TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Philips_PM5544.svg/330px-Philips_PM5544.svg.png" ,RONPlay TEST
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:0 group-title="Sports" tvg-id="Oneplay Sport 1.cz" tvg-name="Oneplay Sport 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/czech-republic/oneplay-sport-1-cz.png" ,Oneplay Sport 1 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:61:E7:03&stream=1982236&extension=ts&play_token=JGXjVbXRYJ
+#EXTINF:0 group-title="Sports" tvg-id="Oneplay Sport 2.cz" tvg-name="Oneplay Sport 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/czech-republic/oneplay-sport-2-cz.png" ,Oneplay Sport 2 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:61:E7:03&stream=1982238&extension=ts&play_token=a6E0CkueU1
+#EXTINF:0 group-title="Sports" tvg-id="Oneplay Sport 3.cz" tvg-name="Oneplay Sport 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/czech-republic/oneplay-sport-3-cz.png" ,Oneplay Sport 3 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:61:E7:03&stream=1982239&extension=ts&play_token=afv8kUPEZL
+#EXTINF:0 group-title="Sports" tvg-id="Oneplay Sport 4.cz" tvg-name="Oneplay Sport 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/czech-republic/oneplay-sport-4-cz.png" ,Oneplay Sport 4 HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:61:E7:03&stream=1982240&extension=ts&play_token=X6PLuBBBWg
